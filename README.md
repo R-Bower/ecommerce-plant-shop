@@ -2,6 +2,9 @@
 
 ### Ecommerce Plant Shop
 
+App details:
+- A presentation-only ecommerce experience (stripped of payment capabilities).
+
 Features:
 - App based on React/NextJS.
 - First-class TypeScript support.
@@ -11,6 +14,7 @@ Features:
 Stretch goals:
 - Playwright e2e testing.
 - Cypress component testing.
+- Static build pipeline for each available plant.
 
 ### Getting started
 
