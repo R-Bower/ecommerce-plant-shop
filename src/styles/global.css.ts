@@ -6,7 +6,7 @@ import {
 
 import {theme} from "./theme.css"
 
-export const fontFamily = `'Red Hat Text', sans-serif`
+export const fontFamily = `'Avenir Next', sans-serif`
 
 const commonTextProps: ComplexStyleRule = {
   color: theme.color.text.primary,

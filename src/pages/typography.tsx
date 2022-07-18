@@ -28,22 +28,6 @@ export default function TypographyPage() {
           </button>
         </div>
       </div>
-      <div
-        className={sx({
-          display: "flex",
-        })}
-      >
-        <div
-          className={sx({display: "flex", flex: 1, justifyContent: "center"})}
-        >
-          One
-        </div>
-        <div
-          className={sx({display: "flex", flex: 1, justifyContent: "center"})}
-        >
-          Two
-        </div>
-      </div>
     </>
   )
 }

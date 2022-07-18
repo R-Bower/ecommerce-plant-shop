@@ -26,6 +26,9 @@ export const theme = createGlobalTheme("#app", {
       disable: "rgba(131, 131, 131, 0.24)",
       hover: "#F5F5F5",
     },
+    common: {
+      white: "#FFF",
+    },
     divider: "#EBEBEB",
     grey: {
       "50": "#F3F6F9",

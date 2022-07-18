@@ -14,18 +14,42 @@ export default class MyDocument extends Document {
 
           <meta content={"Ryan Bower"} name={"author"} />
 
-          <link href={"https://fonts.googleapis.com"} rel={"preconnect"} />
           <link
+            as={"font"}
             crossOrigin={""}
-            href={"https://fonts.gstatic.com"}
-            rel={"preconnect"}
+            href={"/fonts/AvenirNextLTPro-Regular.otf"}
+            rel={"preload"}
+            type={"font/otf"}
           />
+
           <link
-            href={
-              "https://fonts.googleapis.com/css2?family=Red+Hat+Text:wght@300;400&display=swap"
-            }
-            rel={"stylesheet"}
+            as={"font"}
+            crossOrigin={""}
+            href={"/fonts/AvenirNextLTPro-Bold.otf"}
+            rel={"preload"}
+            type={"font/otf"}
           />
+
+          {/* @ts-ignore */}
+          <style global jsx>
+            {`
+              @font-face {
+                font-family: "Avenir Next";
+                font-style: normal;
+                font-weight: 400;
+                font-display: swap;
+                src: url("/fonts/AvenirNextLTPro-Regular.otf")
+                  format("opentype");
+              }
+              @font-face {
+                font-family: "Avenir Next";
+                font-style: normal;
+                font-weight: 500;
+                font-display: swap;
+                src: url("/fonts/AvenirNextLTPro-Bold.otf") format("opentype");
+              }
+            `}
+          </style>
         </Head>
         <body>
           <Main />

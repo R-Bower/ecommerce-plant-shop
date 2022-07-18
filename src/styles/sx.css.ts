@@ -35,6 +35,7 @@ const sxProperties = defineProperties({
   defaultCondition,
   properties: {
     alignItems: ["stretch", "flex-start", "center", "flex-end"],
+    alignSelf: ["stretch", "flex-start", "center", "flex-end"],
     bottom: leftTopRightBottom,
     boxShadow: theme.shadows,
     columnGap: space,

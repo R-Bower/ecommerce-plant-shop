@@ -1,6 +1,6 @@
 import {range} from "rambda"
 
-type Space =
+export type Space =
   | -8
   | -7
   | -6
