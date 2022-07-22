@@ -1,0 +1,114 @@
+{
+  "careGuide": [
+    {
+      "id": "Light",
+      "label": "Light High",
+      "value": [
+        "This plant thrives in bright, indirect light."
+      ]
+    },
+    {
+      "id": "Water",
+      "label": "Water Medium",
+      "value": [
+        "Keep the soil consistently moist but not soggy. Do not let this plant dry out or the leaves will be unsightly."
+      ]
+    },
+    {
+      "id": "Humidity",
+      "label": "Humidity Medium",
+      "value": [
+        "This plant appreciates medium humidity levels."
+      ]
+    },
+    {
+      "id": "Temperature",
+      "label": "60°F to 78°F",
+      "value": [
+        "This plant doesn't like cold drafts. Keep the temperatures indoors consistent."
+      ]
+    },
+    {
+      "id": "Hardiness Zones",
+      "label": "Hardiness Zones 9|10|11",
+      "value": [
+        "This plant blooms from late spring to early fall."
+      ]
+    },
+    {
+      "id": "Fertilizing",
+      "label": "Fertilizing Weekly",
+      "value": [
+        "Fertilize weekly by diluting a liquid fertilizer by half strength. Sprinkle a slow-release granular fertilizer on top of the soil, and as you, water nutrients will release for the plant. Let the plant rest in the fall and winter. A fertilizer for blooming plants will work best for this plant."
+      ]
+    },
+    {
+      "id": "Re-potting",
+      "label": "Re-potting Rarely",
+      "value": [
+        "To transplant into a garden container or the garden bed, water your plant the night before. Dig the hole twice as wide as the grower pot and the same depth as the grower pot (not deeper). Remove the plant and center in the spot. Add rooting hormone around the roots of the plant. Water in the hole and let drain. If you have clay soils, add compost to enhance the soil consistency. Fill around the plant and up to the top of its soil line. Tamp down with your hands to remove any air pockets. Water again around the drip line."
+      ]
+    },
+    {
+      "id": "Cleaning",
+      "label": "Cleaning As needed",
+      "value": [
+        "Pruning is not required on this plant."
+      ]
+    },
+    {
+      "id": "Propagation",
+      "label": "Propagation Cuttings",
+      "value": [
+        "To propagate this plant during the growing season: Take a 3-4 inch stem cutting in the early spring with no buds on it. Use a knife or sharp pruners; cut below a node where there are at least two sets of leaves. Remove the bottom leaves to expose the last two nodes. Place the stems in rooting hormone and place the stem down into rooting medium. Tamp the soil around the stem gently and mist the soil. Place a clear plastic bag loosely over the 3-4 inch container to create humidity. Check the moisture of the soil and humidity each day. Place the cuttings in bright, indirect light. After the roots are six weeks old, they should be ready to transfer into the garden or container garden. Transition the cuttings a few hours per day to help them acclimate to the new environment."
+      ]
+    }
+  ],
+  "description": [],
+  "id": "million-kisses-honeymoon-begonia",
+  "metadata": [
+    {
+      "id": "pet-hazard",
+      "label": "Pet Hazard",
+      "value": "Toxic To Touch"
+    },
+    {
+      "id": "care-level",
+      "label": "Care Level",
+      "value": "I'm Easy"
+    }
+  ],
+  "title": "Million Kisses® Honeymoon Begonia",
+  "variants": [
+    {
+      "planters": [
+        {
+          "imgSrc": "million-kisses-honeymoon-begonia_small_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$38.00"
+        },
+        {
+          "imgSrc": "million-kisses-honeymoon-begonia_small_planter-eco-planter.jpg",
+          "planterId": "planter-eco-planter",
+          "planterLabel": "Eco Pot",
+          "price": "$43.00"
+        },
+        {
+          "imgSrc": "million-kisses-honeymoon-begonia_small_planter-naturals-basket.jpg",
+          "planterId": "planter-naturals-basket",
+          "planterLabel": "Baskets",
+          "price": "$48.00"
+        },
+        {
+          "imgSrc": "million-kisses-honeymoon-begonia_small_planter-ceramic.jpg",
+          "planterId": "planter-ceramic",
+          "planterLabel": "Ceramic",
+          "price": "$50.00"
+        }
+      ],
+      "sizeId": "small",
+      "sizeLabel": "S"
+    }
+  ]
+}

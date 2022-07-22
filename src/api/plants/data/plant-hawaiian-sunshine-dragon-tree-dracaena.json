@@ -1,0 +1,152 @@
+{
+  "careGuide": [
+    {
+      "id": "Light",
+      "label": "Light Medium",
+      "value": [
+        "Enjoys bright, indirect & filtered direct sunlight. Can live with low indirect light."
+      ]
+    },
+    {
+      "id": "Water",
+      "label": "Water Low",
+      "value": [
+        "Keep the soil on the dry side. Water well and allow the soil to dry out."
+      ]
+    },
+    {
+      "id": "Humidity",
+      "label": "Humidity Medium",
+      "value": [
+        "Enjoys high humidity, but does well in low humidity. Spritz occasionally."
+      ]
+    },
+    {
+      "id": "Temperature",
+      "label": "60°F to 77°F",
+      "value": [
+        "Keep this plant on the warmer side and avoid cold drafts."
+      ]
+    },
+    {
+      "id": "Hardiness Zones",
+      "label": "Hardiness Zones 10|11|12",
+      "value": [
+        "Outside: Keep them in full shade on a patio out of direct sunlight to prevent leaf burn and bring inside where nights are below 60°F."
+      ]
+    },
+    {
+      "id": "Fertilizing",
+      "label": "Fertilizing Monthly",
+      "value": [
+        "The Dracaena Lemon Lime doesn't need a lot of fertilizer and may become sensitive to too much salts if applied too often. Apply a liquid fertilizer especially formulated for indoor plants. Avoid using water with chemicals (chlorine or fluoride). Apply every six weeks during the spring, summer and fall season. Let them rest during the winter."
+      ]
+    },
+    {
+      "id": "Re-potting",
+      "label": "Re-potting 3 Years",
+      "value": [
+        "When receiving the Dracaena Lemon Lime plant, do not repot immediately but wait at least 6-12 months or if the roots are beginning to get crowded and growing through the drainage holes.",
+        "Repot in the spring, using a 2 inches bigger pot to keep the roots drier. (Too big of a pot could cause the soil to dry slower, which is not helpful.)",
+        "Place a piece of screening at the bottom of the container over the drainage hole to secure the soil and allow to drain. Use a well-draining indoor potting mix with perlite to help with drainage.",
+        "Water your plant in the old pot before transferring over and let sit an hour.",
+        "Add soil to the bottom to elevate the root ball. Lift the plant and release the roots against the existing planter. Use a clean knife or garden trowel to wedge between the pot and the soil to loosen.",
+        "Inspect the root ball. Notice if there are any dead or rotting roots and trim off with sterile pruners. If the plant is rootbound, cut through the roots to alleviate continued encircling.",
+        "Ensure the plant is sitting about 1 inch below the edge of the pot to avoid water spillage. Add more soil and backfill around the sides by tamping down. Fill up to the soil line but not over.",
+        "Water thoroughly, leaving the soil damp but not soggy. If settling occurs, add more soil.",
+        "Water well to dampen the soil and let drain."
+      ]
+    },
+    {
+      "id": "Cleaning",
+      "label": "Cleaning Monthly",
+      "value": [
+        "As this plant grows, it's normal for them to shed their lower leaves. Keep these leaves trimmed. To keep your Dracaena from growing leggy, prune each quarter. Remove top growth to encourage your plant to stay more compact and bushy. Cut back on the stalk to where you want them to begin to put on new growth and stay more compact. Do not remove more than one-third of the entire plant at one time, or this will cause too much stress and hinder their health. Look for any pests or diseases. Remove any debris from the soil and replenish if necessary."
+      ]
+    },
+    {
+      "id": "Propagation",
+      "label": "Propagation Cuttings",
+      "value": [
+        "Take a stem cutting between 4-6 inches long with leaves attached with sanitized pruners.",
+        "Dip the cuttings in water, then in a rooting hormone.",
+        "Use a pot with drainage. and place the stem 1-2 inches down into the damp, well-draining, moist potting soil mix and tamp down around the stem to secure.",
+        "Place a clear plastic bag over the cutting to mimic a greenhouse and mist the bag. Set in bright, indirect sunlight while they are rooting.",
+        "Check the moisture and humidity each day and add misting to keep the soil moist while the roots establish.",
+        "After 6-8 weeks, roots will begin to establish. You can tug onto the stem to ensure the roots are secure."
+      ]
+    }
+  ],
+  "description": [
+    "Brighten up any space with the Hawaiian Sunshine dragon tree. They are an indoor plant that thrives in medium light levels, with colorful and spiky leaves that bring drama to any space. With stripes of dark and vivid green, as well as bright yellow, it is easy to see where they get their Hawaiian Sunshines-inspired name. Adaptable, easy to care for, and air purifying, they are the ideal addition to your desk at work. The Hawaiian Sunshine Dragon Tree (aka Dracaena warneckii Hawaiian Sunshine) is also easy to care for which makes them perfect for beginners! Their beautiful green leaves with yellow stripes will add some zing to any room or patio as well."
+  ],
+  "id": "hawaiian-sunshine-dragon-tree-dracaena",
+  "metadata": [
+    {
+      "id": "pet-warning",
+      "label": "Pet Warning",
+      "value": "Toxic To Ingest"
+    },
+    {
+      "id": "care-level",
+      "label": "Care Level",
+      "value": "I'm Easy"
+    },
+    {
+      "id": "overall-size",
+      "label": "Overall Size",
+      "value": "8\" to 14\" W 10\" to 16\" H"
+    }
+  ],
+  "title": "Hawaiian Sunshine Dragon Tree (Dracaena)",
+  "variants": [
+    {
+      "planters": [
+        {
+          "imgSrc": "hawaiian-sunshine-dragon-tree-dracaena_small_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$38.00"
+        },
+        {
+          "imgSrc": "hawaiian-sunshine-dragon-tree-dracaena_small_planter-eco-planter.jpg",
+          "planterId": "planter-eco-planter",
+          "planterLabel": "Eco Pot",
+          "price": "$43.00"
+        },
+        {
+          "imgSrc": "hawaiian-sunshine-dragon-tree-dracaena_small_planter-naturals-basket.jpg",
+          "planterId": "planter-naturals-basket",
+          "planterLabel": "Baskets",
+          "price": "$48.00"
+        }
+      ],
+      "sizeId": "small",
+      "sizeLabel": "S"
+    },
+    {
+      "planters": [
+        {
+          "imgSrc": "hawaiian-sunshine-dragon-tree-dracaena_large_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$86.00"
+        },
+        {
+          "imgSrc": "hawaiian-sunshine-dragon-tree-dracaena_large_planter-eco-planter.jpg",
+          "planterId": "planter-eco-planter",
+          "planterLabel": "Eco Pot",
+          "price": "$94.00"
+        },
+        {
+          "imgSrc": "hawaiian-sunshine-dragon-tree-dracaena_large_planter-naturals-basket.jpg",
+          "planterId": "planter-naturals-basket",
+          "planterLabel": "Baskets",
+          "price": "$102.00"
+        }
+      ],
+      "sizeId": "large",
+      "sizeLabel": "L"
+    }
+  ]
+}

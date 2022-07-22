@@ -1,0 +1,83 @@
+{
+  "careGuide": [
+    {
+      "id": "Light",
+      "label": "Light High",
+      "value": [
+        "Bright, indirect light is best."
+      ]
+    },
+    {
+      "id": "Water",
+      "label": "Water Medium",
+      "value": [
+        "To water, fill a bowl with tepid water (unsoftened and filtered of chemicals) for 30 minutes to 1 hour, once a week. Afterward, remove from the bowl and turn upside down to let completely drain on a towel. If the tilly is in bloom, avoid getting the flower wet by propping them out of the water."
+      ]
+    },
+    {
+      "id": "Humidity",
+      "label": "Humidity High",
+      "value": [
+        "Keep these tilly's close to a humidifier and mist often to keep humidity high."
+      ]
+    },
+    {
+      "id": "Temperature",
+      "label": "60°F to 90°F",
+      "value": [
+        "Keep in normal indoor temperatures or mild outdoor temperatures. Bring inside when temperatures dip below 60°F."
+      ]
+    },
+    {
+      "id": "Hardiness Zones",
+      "label": "Hardiness Zones 10",
+      "value": [
+        "This plant likes warmer temperatures in bright, indirect light. Bring in when temperatures dip below 60°F."
+      ]
+    },
+    {
+      "id": "Fertilizing",
+      "label": "Fertilizing Monthly",
+      "value": [
+        "When watering, add 1/4th the recommended dosage of fertilizer to the bowl when soaking. Foliar sprays that are specifically for bromeliads and Tillandsia can be applied. Fertilize monthly from early Spring until October."
+      ]
+    },
+    {
+      "id": "Re-potting",
+      "label": "Re-potting Rarely",
+      "value": [
+        "Tillandsia are air plants and grow amongst other plants. Add them to adorn a windowsill or companions with orchids, bromeliads or other plants that enjoy lots of humidity."
+      ]
+    },
+    {
+      "id": "Cleaning",
+      "label": "Cleaning As needed",
+      "value": [
+        "Trim off any dead or damaged leaves on this plant."
+      ]
+    },
+    {
+      "id": "Propagation",
+      "label": "Propagation Cuttings",
+      "value": [
+        "Small tilly pups will originate at the base of an air plant after a bloom cycle. Allow them to grow to at least half the size of the mother plant before removing. In the wild, these plants and pups stay connected as a clump. Removing pups isn't a necessity."
+      ]
+    }
+  ],
+  "description": [],
+  "id": "t-juncea-air-plant",
+  "metadata": [
+    {
+      "id": "pet-safe",
+      "label": "Pet Safe",
+      "value": "Yes"
+    }
+  ],
+  "title": "T. Juncea Air Plant",
+  "variants": [
+    {
+      "imgSrc": "t-juncea-air-plant.jpg",
+      "price": "$12.00"
+    }
+  ]
+}

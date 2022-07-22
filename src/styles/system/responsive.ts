@@ -6,12 +6,14 @@ interface Condition {
 
 interface Breakpoints {
   desktop: string
+  laptop: string
   mobile: string
   tablet: string
 }
 
 export const breakpoints: Breakpoints = {
-  desktop: "screen and (min-width: 1024px)",
+  desktop: "screen and (min-width: 1400px)",
+  laptop: "screen and (min-width: 1024px)",
   mobile: "screen and (min-width: 414px)",
   tablet: "screen and (min-width: 768px)",
 }
@@ -19,10 +21,9 @@ export const breakpoints: Breakpoints = {
 export const conditions: Record<string, Condition> = {
   default: {},
   desktop: {"@media": breakpoints.desktop},
+  laptop: {"@media": breakpoints.laptop},
   mobile: {"@media": breakpoints.mobile},
   tablet: {"@media": breakpoints.tablet},
 }
 
 export const defaultCondition = "default"
-
-export const responsiveArray = ["default", "mobile", "tablet", "desktop"]

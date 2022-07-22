@@ -1,0 +1,68 @@
+{
+  "careGuide": [
+    {
+      "id": "Light",
+      "label": "Light High",
+      "value": [
+        "Loves bright light - as much as they can get."
+      ]
+    },
+    {
+      "id": "Water",
+      "label": "Water Medium",
+      "value": [
+        "Allow the soil to dry out completely between waterings, but water heavily when the soil becomes dry."
+      ]
+    },
+    {
+      "id": "Humidity",
+      "label": "Humidity Low",
+      "value": [
+        "Enjoys low levels of humidity."
+      ]
+    }
+  ],
+  "description": [
+    "Echeverias are lovely succulents that are both low maintenance and gorgeous. Their beautiful rosette-like patterns, wide range of colors, and stunning flowers make them one of the most beloved succulents out there - perfect for any Green Space!"
+  ],
+  "id": "echeveria-rose-succulent",
+  "metadata": [
+    {
+      "id": "pet-safe",
+      "label": "Pet Safe",
+      "value": "Yes"
+    },
+    {
+      "id": "care-level",
+      "label": "Care Level",
+      "value": "I'm Easy"
+    }
+  ],
+  "title": "Echeveria Rose Succulent",
+  "variants": [
+    {
+      "planters": [
+        {
+          "imgSrc": "echeveria-rose-succulent_small_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$38.00"
+        },
+        {
+          "imgSrc": "echeveria-rose-succulent_small_planter-naturals-basket.jpg",
+          "planterId": "planter-naturals-basket",
+          "planterLabel": "Baskets",
+          "price": "$48.00"
+        },
+        {
+          "imgSrc": "echeveria-rose-succulent_small_planter-ceramic.jpg",
+          "planterId": "planter-ceramic",
+          "planterLabel": "Ceramic",
+          "price": "$50.00"
+        }
+      ],
+      "sizeId": "small",
+      "sizeLabel": "S"
+    }
+  ]
+}

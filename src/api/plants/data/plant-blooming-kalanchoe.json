@@ -1,0 +1,143 @@
+{
+  "careGuide": [
+    {
+      "id": "Light",
+      "label": "Light High",
+      "value": [
+        "Bright, indirect light to filtered sun."
+      ]
+    },
+    {
+      "id": "Water",
+      "label": "Water Low",
+      "value": [
+        "Allow the soil to dry out completely between waterings."
+      ]
+    },
+    {
+      "id": "Humidity",
+      "label": "Humidity Low",
+      "value": [
+        "Doesn't require additional humidity."
+      ]
+    },
+    {
+      "id": "Temperature",
+      "label": "60°F to 85°F",
+      "value": [
+        "Ideally, the Kalanchoe grows best when temperatures are between 60°-85°F. Avoid placing them near a draft or cold spot."
+      ]
+    },
+    {
+      "id": "Hardiness Zones",
+      "label": "Hardiness Zones 10|11",
+      "value": [
+        "Outside: Grow in partial shade (4-6 hours) where nights are above 60°F.",
+        "Indoors: The Kalanchoe prefers bright, indirect light for at least six hours in a southern, eastern and western windows."
+      ]
+    },
+    {
+      "id": "Fertilizing",
+      "label": "Fertilizing Monthly",
+      "value": [
+        "Fertilize bimonthly during their growing period while the flower is in bloom. Use a balanced liquid fertilizer at 1/2 strength. Reduce during the fall and winter months while the plant is in their dormant phase."
+      ]
+    },
+    {
+      "id": "Re-potting",
+      "label": "Re-potting 3 Years",
+      "value": [
+        "Repot Kalanchoe in the early spring in a well draining succulent and cacti soil mix. Use a container with drainage holes. Place a piece of screening at the bottom of the container over the drainage hole to secure the soil and allow it to drain. Add the mix to the bottom of the new slightly larger container and carefully place them in the center, adding backfill around the edges. Leave a 1/2 inch of space between the soil and the top edge to prevent water spillage. Water as instructed and fertilize with succulent/cacti fertilizer."
+      ]
+    },
+    {
+      "id": "Cleaning",
+      "label": "Cleaning Monthly",
+      "value": [
+        "Prune any spent blooms from the plant to promote new buds. Trim the stalk back to the second or third leaf. Remove any yellowing leaves from the base and clean debris on the soil. At the end of the growing season, cut all the stems back to prepare them for dormancy and the following year's growth."
+      ]
+    },
+    {
+      "id": "Propagation",
+      "label": "Propagation Cuttings",
+      "value": [
+        "Trim a cutting off the plant where they are not flowering, making sure they have at least four to five leaves on them. Remove two to three sets of leaves off the stem with sterile scissors. Allow the stem to callous over for two to three days. This period will protect the new plant from diseases and rotting. Next, take the cutting and dip them in rooting hormone. Use a succulent and cacti mix, and fill the container you're using. Poke the cuttings in the soil and water. Now, create a humidity chamber by spritzing a clear plastic bag and dropping it over the new plant and container. Place the cuttings in bright, indirect light. Keep the soil moist while the cuttings establish roots and leaf growth occurs."
+      ]
+    }
+  ],
+  "description": [
+    "Your new favorite colorful succulent!",
+    "An easy-to-grow, long-blooming succulent, Kalanchoes are a mainstay of just about any low-care space that wants a splash of color! They love bright, natural light without much direct sun. Since it's actually a succulent, their fat, fleshy leaves don't want to be watered all the time. Instead, they prefer less frequent waterings (and a little more when they're flowering).",
+    "You will receive a surprise beautiful color from our collection!",
+    "*Our blooms vary and may not arrive as they are pictured. We ship our plants still in buds, so you can enjoy a fresh bloom in your home.*"
+  ],
+  "id": "blooming-kalanchoe",
+  "metadata": [
+    {
+      "id": "pet-warning",
+      "label": "Pet Warning",
+      "value": "Toxic To Ingest"
+    },
+    {
+      "id": "care-level",
+      "label": "Care Level",
+      "value": "I'm Easy"
+    },
+    {
+      "id": "overall-size",
+      "label": "Overall Size",
+      "value": "4\" to 6\" W 5\" to 8\" H"
+    }
+  ],
+  "title": "Blooming Kalanchoe",
+  "variants": [
+    {
+      "planters": [
+        {
+          "imgSrc": "blooming-kalanchoe_small_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$38.00"
+        },
+        {
+          "imgSrc": "blooming-kalanchoe_small_planter-eco-planter.jpg",
+          "planterId": "planter-eco-planter",
+          "planterLabel": "Eco Pot",
+          "price": "$43.00"
+        },
+        {
+          "imgSrc": "blooming-kalanchoe_small_planter-naturals-basket.jpg",
+          "planterId": "planter-naturals-basket",
+          "planterLabel": "Baskets",
+          "price": "$48.00"
+        }
+      ],
+      "sizeId": "small",
+      "sizeLabel": "S"
+    },
+    {
+      "planters": [
+        {
+          "imgSrc": "blooming-kalanchoe_medium_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$50.00"
+        },
+        {
+          "imgSrc": "blooming-kalanchoe_medium_planter-naturals-basket.jpg",
+          "planterId": "planter-naturals-basket",
+          "planterLabel": "Baskets",
+          "price": "$62.00"
+        },
+        {
+          "imgSrc": "blooming-kalanchoe_medium_planter-ceramic.jpg",
+          "planterId": "planter-ceramic",
+          "planterLabel": "Ceramic",
+          "price": "$64.00"
+        }
+      ],
+      "sizeId": "medium",
+      "sizeLabel": "M"
+    }
+  ]
+}

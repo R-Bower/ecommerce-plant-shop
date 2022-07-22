@@ -1,0 +1,156 @@
+{
+  "careGuide": [
+    {
+      "id": "Light",
+      "label": "Light Medium",
+      "value": [
+        "Medium to bright indirect light. Never direct sunlight."
+      ]
+    },
+    {
+      "id": "Water",
+      "label": "Water Medium",
+      "value": [
+        "Water thoroughly, but allow them to dry slightly between waterings."
+      ]
+    },
+    {
+      "id": "Humidity",
+      "label": "Humidity High",
+      "value": [
+        "Enjoys high humidity. Spritz occasionally."
+      ]
+    },
+    {
+      "id": "Temperature",
+      "label": "60°F to 90°F",
+      "value": [
+        "Ideally, the Flamingo Flower likes it on average of 68° at night and upwards of 86°F during daylight hours."
+      ]
+    },
+    {
+      "id": "Hardiness Zones",
+      "label": "Hardiness Zones 10|11",
+      "value": [
+        "Outside: Grow in early morning sun (2-4 hours) where nights are above 60°F.",
+        "Indoors: The Flamingo Flower prefers bright, indirect light for at least six hours in a southern, eastern and western windows."
+      ]
+    },
+    {
+      "id": "Fertilizing",
+      "label": "Fertilizing Monthly",
+      "value": [
+        "Fertilize once a month during the growing spring and summer with a balanced liquid fertilizer or topical granular soil fertilizer. Let the plant rest in the fall and winter.",
+        "Leach salt residue buildup away by flushing the potted plant each month. Let the water run out the drain holes."
+      ]
+    },
+    {
+      "id": "Re-potting",
+      "label": "Re-potting 2 Years",
+      "value": [
+        "When receiving the plant, do not repot immediately but wait at least 6-12 months or if the roots are beginning to get crowded and growing through the drainage holes.",
+        "Repot in the spring, using a 2\" bigger pot to keep the roots drier. (Too big of a pot could cause the soil to dry slower, which is not helpful.) Use a well-draining indoor potting mix with perlite to help with drainage.",
+        "Water your plant in the old pot before transferring over and let sit an hour. Place a piece of screening at the bottom of the container over the drainage hole to secure the soil and allow to drain. Add soil to the bottom to elevate the root ball. Lift the plant and release the roots against the existing planter. Use a clean knife or garden trowel to wedge between the pot and the soil to loosen.",
+        "Inspect the root ball. Notice if there are any dead or rotting roots and trim off with sterile pruners. If the plant is rootbound, cut through the roots to alleviate continued encircling.",
+        "Ensure the plant is sitting about 1\" below the edge of the pot to avoid water spillage. Add more soil and backfill around the sides by tamping down. Fill up to the soil line but not over.",
+        "Water thoroughly, leaving the soil damp but not soggy. If settling occurs, add more soil."
+      ]
+    },
+    {
+      "id": "Cleaning",
+      "label": "Cleaning Monthly",
+      "value": [
+        "Gently wipe clean with a soft, damp cloth or paper towel. Work gently from the stem's base toward the leaf's tip, cleaning both sides at once. After cleaning the leaves, remove any dead leaves or debris on the surface of the soil.",
+        "Refreshen the soil mixture if needed.",
+        "Prune away damaged or diseased leaves or flowers down to the stem base with sterile scissors."
+      ]
+    },
+    {
+      "id": "Propagation",
+      "label": "Propagation Division",
+      "value": [
+        "Indoors: Propagate and divide Flamingo Flowers in the early spring when emerging from dormancy.",
+        "Pull from the container and brush or wash away the soil carefully. Carefully divide and keep at least two rhizomes together and repot in a rich, indoor potting soil mix.",
+        "Use a container that has drainage and is deep enough for the roots to grow. Place the rhizomes at least 1-2 inches down into the soil.",
+        "Set in bright, indirect sunlight while they are rooting.",
+        "Check the moisture and humidity each day and add misting to keep the soil moist while the roots establish.",
+        "After 6-8 weeks, roots will begin to form. You can tug onto the stem to ensure the roots are establishing.",
+        "Outdoors: Carefully loosen the soil and dig the tubers up, avoiding damaging the rhizomes. Divide the rhizomes and plant in new locations in your garden. Add rich, damp, and loamy soil in a part-shade morning sun location."
+      ]
+    }
+  ],
+  "description": [
+    "Get your color fix with flamingo flowers. This year-round bloomer is a tropical treasure, instantly bringing vacation vibes to your home with their bold blooms. They change color through the year, ranging from vivid scarlet to pretty pink and rich purple. They can survive in low light, but medium to bright indirect sunlight will keep them happiest.",
+    "*Our blooms vary and may not arrive as they are pictured. We ship our plants still in buds, so you can enjoy a fresh bloom in your home.*"
+  ],
+  "id": "flamingo-flower",
+  "metadata": [
+    {
+      "id": "pet-warning",
+      "label": "Pet Warning",
+      "value": "Toxic To Ingest"
+    },
+    {
+      "id": "care-level",
+      "label": "Care Level",
+      "value": "I'm Easy"
+    }
+  ],
+  "title": "Flamingo Flower",
+  "variants": [
+    {
+      "planters": [
+        {
+          "imgSrc": "flamingo-flower_small_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$38.00"
+        },
+        {
+          "imgSrc": "flamingo-flower_small_planter-eco-planter.jpg",
+          "planterId": "planter-eco-planter",
+          "planterLabel": "Eco Pot",
+          "price": "$43.00"
+        },
+        {
+          "imgSrc": "flamingo-flower_small_planter-ceramic.jpg",
+          "planterId": "planter-ceramic",
+          "planterLabel": "Ceramic",
+          "price": "$50.00"
+        }
+      ],
+      "sizeId": "small",
+      "sizeLabel": "S"
+    },
+    {
+      "planters": [
+        {
+          "imgSrc": "flamingo-flower_medium_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$50.00"
+        },
+        {
+          "imgSrc": "flamingo-flower_medium_planter-eco-planter.jpg",
+          "planterId": "planter-eco-planter",
+          "planterLabel": "Eco Pot",
+          "price": "$56.00"
+        },
+        {
+          "imgSrc": "flamingo-flower_medium_planter-naturals-basket.jpg",
+          "planterId": "planter-naturals-basket",
+          "planterLabel": "Baskets",
+          "price": "$62.00"
+        },
+        {
+          "imgSrc": "flamingo-flower_medium_planter-ceramic.jpg",
+          "planterId": "planter-ceramic",
+          "planterLabel": "Ceramic",
+          "price": "$64.00"
+        }
+      ],
+      "sizeId": "medium",
+      "sizeLabel": "M"
+    }
+  ]
+}

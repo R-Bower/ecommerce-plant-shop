@@ -1,0 +1,68 @@
+{
+  "careGuide": [
+    {
+      "id": "Light",
+      "label": "Light High",
+      "value": [
+        "Loves bright light - as much as they can get."
+      ]
+    },
+    {
+      "id": "Water",
+      "label": "Water Medium",
+      "value": [
+        "Allow the soil to dry out completely between waterings, but water heavily when the soil becomes dry."
+      ]
+    },
+    {
+      "id": "Humidity",
+      "label": "Humidity Low",
+      "value": [
+        "Enjoys low levels of humidity."
+      ]
+    }
+  ],
+  "description": [
+    "Echeverias are lovely succulents that are both low-maintenance and gorgeous. Their beautiful rosette-like patterns, a wide range of colors, and stunning flowers make them one of the most beloved succulents out there - perfect for any Green Space!",
+    "This Assorted Echeveria 4-Pack includes four echeverias of varying colors and species."
+  ],
+  "id": "motley-crew-echeveria-succulents-4-pack",
+  "metadata": [
+    {
+      "id": "pet-safe",
+      "label": "Pet Safe",
+      "value": "Yes"
+    },
+    {
+      "id": "care-level",
+      "label": "Care Level",
+      "value": "I'm Easy"
+    },
+    {
+      "id": "overall-size",
+      "label": "Overall Size",
+      "value": "4\" to 5\" W 6\" to 7\" H"
+    }
+  ],
+  "title": "Motley Crew Echeveria Succulents: 4 Pack",
+  "variants": [
+    {
+      "planters": [
+        {
+          "imgSrc": "motley-crew-echeveria-succulents-4-pack_small_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$108.00"
+        },
+        {
+          "imgSrc": "motley-crew-echeveria-succulents-4-pack_small_planter-eco-planter.jpg",
+          "planterId": "planter-eco-planter",
+          "planterLabel": "Eco Pot",
+          "price": "$128.00"
+        }
+      ],
+      "sizeId": "small",
+      "sizeLabel": "S"
+    }
+  ]
+}

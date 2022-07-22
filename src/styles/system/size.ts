@@ -156,7 +156,7 @@ type Size =
   | "max-content"
   | "auto"
 
-export const size: Size[] = [
+export const systemSize: Size[] = [
   "inherit",
   "min-content",
   "max-content",

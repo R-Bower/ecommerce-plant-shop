@@ -1,0 +1,140 @@
+{
+  "careGuide": [
+    {
+      "id": "Light",
+      "label": "Light",
+      "value": []
+    },
+    {
+      "id": "Water",
+      "label": "Water",
+      "value": []
+    },
+    {
+      "id": "Humidity",
+      "label": "Humidity",
+      "value": []
+    },
+    {
+      "id": "Light",
+      "label": "Light Medium",
+      "value": [
+        "Best in medium light, but can survive in a range of low to high."
+      ]
+    },
+    {
+      "id": "Water",
+      "label": "Water Low",
+      "value": [
+        "Allow the soil to dry out completely between waterings."
+      ]
+    },
+    {
+      "id": "Humidity",
+      "label": "Humidity Low",
+      "value": [
+        "Doesn't prefer humidity, but they can tolerate it."
+      ]
+    },
+    {
+      "id": "Temperature",
+      "label": "55°F to 85°F",
+      "value": [
+        "Keep on the warmer side to keep them growing healthy."
+      ]
+    },
+    {
+      "id": "Hardiness Zones",
+      "label": "Hardiness Zones 9|10|11",
+      "value": [
+        "Outside: Grow in morning light, partial shade (4-6 hours) where nights are above 45°F.",
+        "Indoors: This plant prefers bright, to medium indirect light but can tolerate low light conditions."
+      ]
+    },
+    {
+      "id": "Fertilizing",
+      "label": "Fertilizing Every two years",
+      "value": [
+        "Sansevierias don't need a lot of fertilizer so fertilize only twice a year in the early spring and mid-summer. Use a balanced liquid fertilizer."
+      ]
+    },
+    {
+      "id": "Re-potting",
+      "label": "Re-potting 3 Years",
+      "value": [
+        "When receiving the Snake plant, do not repot immediately but wait at least 6-12 months. They like to be a bit root-bound. Repot in the spring, using a 2\" bigger pot to keep the roots drier. (Too big of a pot could cause the soil to dry slower, which is not helpful.) Use a succulent soilless potting mix with perlite to help with drainage. Place a piece of screening at the bottom of the container over the drainage hole to secure the soil and allow to drain.",
+        "Use a well-draining cacti and succulent potting mix with perlite to help with drainage.",
+        "Water your plant in the old pot before transferring over and let sit an hour.",
+        "Add cacti and succulent soil to the bottom to elevate the root ball. Lift the plant and release the roots against the existing planter. Use a clean knife or garden trowel to wedge between the pot and the soil to loosen.",
+        "Inspect the roots. Notice if there are any dead or rotting roots and trim off with sterile pruners.",
+        "Ensure the plant is sitting about 1 inch below the edge of the pot to avoid water spillage. Add more soil and backfill around the sides by tamping down. Fill up to the soil line but not over.",
+        "Water thoroughly, leaving the soil damp but not soggy. If settling occurs, add more soil.",
+        "Water well to dampen the soil and let drain."
+      ]
+    },
+    {
+      "id": "Cleaning",
+      "label": "Cleaning Bi-annually",
+      "value": [
+        "Using a sharp knife, trim off any dead or damaged leaves from the area closest to the soil. If a leaf is damaged, cut off the browning or damaged part at any point on the leaf. Remove any dust with a damp cloth wiping gently up both sides of each leaf, supporting them with the other hand. Remove any debris on the soil and replenish soil if needed."
+      ]
+    },
+    {
+      "id": "Propagation",
+      "label": "Propagation Cuttings",
+      "value": [
+        "Cut a leaf off at the base and place them in a container tall enough to hold the leaf upright. Add about an inch of water at the bottom and change the water weekly. Keep the leaf in medium indirect sunlight while they are beginning to form roots. Once roots are at least 1-2 inches long, plant them with rooting hormone mixed into the well-draining succulent and cacti mix. Water and place in bright to medium, indirect light. Use a wooden dowel to train them to stand upright until the roots are more anchored and secure."
+      ]
+    }
+  ],
+  "description": [
+    "If you're looking for some big beautiful floor plants, you have come to the right place.  These are the two most popular large houseplants and for good reason. They make any space more welcoming.",
+    "Whether you’re going for a formal appearance, jungle-ly vibe, or a calm and quiet presence, these large indoor plants will make your space more charming, welcoming, and cozy.",
+    "This Plant Collection Includes:"
+  ],
+  "id": "favorite-floor-plants",
+  "metadata": [
+    {
+      "id": "pet-warning",
+      "label": "Pet Warning",
+      "value": "Toxic To Ingest"
+    },
+    {
+      "id": "care-level",
+      "label": "Care Level",
+      "value": "I'm Easy"
+    },
+    {
+      "id": "overall-size",
+      "label": "Overall Size",
+      "value": "10\" to 16\" W 10\" to 24\" H"
+    }
+  ],
+  "title": "Favorite Floor Plants",
+  "variants": [
+    {
+      "planters": [
+        {
+          "imgSrc": "favorite-floor-plants_extra-large_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$187.00"
+        },
+        {
+          "imgSrc": "favorite-floor-plants_extra-large_planter-eco-planter.jpg",
+          "planterId": "planter-eco-planter",
+          "planterLabel": "Eco Pot",
+          "price": "$207.00"
+        },
+        {
+          "imgSrc": "favorite-floor-plants_extra-large_planter-naturals-basket.jpg",
+          "planterId": "planter-naturals-basket",
+          "planterLabel": "Baskets",
+          "price": "$227.00"
+        }
+      ],
+      "sizeId": "extra-large",
+      "sizeLabel": "XL"
+    }
+  ]
+}

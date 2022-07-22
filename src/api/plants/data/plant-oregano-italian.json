@@ -1,0 +1,112 @@
+{
+  "careGuide": [
+    {
+      "id": "Light",
+      "label": "Light High",
+      "value": [
+        "Plant this herb in full sun (6-8 hours) to part sun (4-6 hours)."
+      ]
+    },
+    {
+      "id": "Water",
+      "label": "Water Medium",
+      "value": [
+        "Keep the soil consistently moist but not soggy until he gets established and then let dry between deep waterings."
+      ]
+    },
+    {
+      "id": "Humidity",
+      "label": "Humidity Medium",
+      "value": [
+        "This herb is used to average humidity climates similar to the Mediterranean."
+      ]
+    },
+    {
+      "id": "Temperature",
+      "label": "70°F to 90°F",
+      "value": [
+        "Give this herb afternoon shade."
+      ]
+    },
+    {
+      "id": "Hardiness Zones",
+      "label": "Hardiness Zones 5|6|7|8|9|10",
+      "value": [
+        "The herb likes a more Mediterranean climate."
+      ]
+    },
+    {
+      "id": "Re-potting",
+      "label": "Re-potting Rarely",
+      "value": [
+        "To transplant into a garden container or the garden bed, water your plant the night before. Dig the hole twice as wide as the grower pot and the same depth as the grower pot (not deeper). Remove the plant and center in the spot. Add rooting hormone around the roots of the plant. Water in the hole and let drain. If you have clay soils, add composted leaves, to enhance the soil consistency. Fill around the plant and up to the top of its soil line. Tamp down with your hands to remove any air pockets. Water again around the drip line."
+      ]
+    },
+    {
+      "id": "Cleaning",
+      "label": "Cleaning As needed",
+      "value": [
+        "Prune any signs of flowers to alleviate bolting. Harvest leaves early in the morning and eat while fresh. When harvesting, use pruners and cut a stem above existing leaves to promote ongoing growth. Prune old growth out at the end of the season or the stems will become more woody and the leaves will turn bitter."
+      ]
+    },
+    {
+      "id": "Propagation",
+      "label": "Propagation Stem Cutting",
+      "value": [
+        "Stem cutting: To propagate, prune 4-6 inch stem cuttings with no buds or bloom from the parent plant. Remove leaves on 1/3 of the bottom half of the stem with pruners. (Do not tear off.) Dip the ends in root hormone (mixed in water at a paste consistency) and place 1-2 inches down in damp, well-draining, moist potting soil mix and tamp down around the stem to secure it. Use a 2-3 inch container with drainage and is deep enough for the roots to grow. Mist inside a clear plastic bag to create moisture and humidity and place the bag over the top of the plantings loosely. There is no need to tie off the bag but allow a little airflow under and into the planting pot. Set it in bright, indirect sunlight while they are rooting. Check the moisture and humidity each day and add misting to the soil (not the leaves) while the roots establish. After 4-6 weeks, roots will begin to form. You can tug onto the stem to ensure the roots establish after new growth begins. Transplant to the garden after the roots are mature."
+      ]
+    }
+  ],
+  "description": [],
+  "id": "oregano-italian",
+  "metadata": [
+    {
+      "id": "pet-warning",
+      "label": "Pet Warning",
+      "value": "Toxic To Ingest"
+    },
+    {
+      "id": "care-level",
+      "label": "Care Level",
+      "value": "I'm Easy"
+    },
+    {
+      "id": "overall-size",
+      "label": "Overall Size",
+      "value": "4\" to 12\" W 10\" to 12\" H"
+    }
+  ],
+  "title": "Oregano Italian",
+  "variants": [
+    {
+      "planters": [
+        {
+          "imgSrc": "oregano-italian_small_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$38.00"
+        },
+        {
+          "imgSrc": "oregano-italian_small_planter-eco-planter.jpg",
+          "planterId": "planter-eco-planter",
+          "planterLabel": "Eco Pot",
+          "price": "$43.00"
+        },
+        {
+          "imgSrc": "oregano-italian_small_planter-naturals-basket.jpg",
+          "planterId": "planter-naturals-basket",
+          "planterLabel": "Baskets",
+          "price": "$48.00"
+        },
+        {
+          "imgSrc": "oregano-italian_small_planter-ceramic.jpg",
+          "planterId": "planter-ceramic",
+          "planterLabel": "Ceramic",
+          "price": "$50.00"
+        }
+      ],
+      "sizeId": "small",
+      "sizeLabel": "S"
+    }
+  ]
+}

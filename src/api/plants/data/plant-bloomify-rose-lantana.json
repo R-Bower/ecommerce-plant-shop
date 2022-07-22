@@ -1,0 +1,96 @@
+{
+  "careGuide": [
+    {
+      "id": "Light",
+      "label": "Light High",
+      "value": [
+        "This plant enjoys full sun (6-8 hours) to part sun (4-6 hours)"
+      ]
+    },
+    {
+      "id": "Water",
+      "label": "Water Medium",
+      "value": [
+        "Keep this plant consistently moist, in well drained soil. If overwintering, cut back moisture during the winter months while in dormancy."
+      ]
+    },
+    {
+      "id": "Humidity",
+      "label": "Humidity Low",
+      "value": [
+        "Low to average humidity levels are fine for this plant."
+      ]
+    },
+    {
+      "id": "Temperature",
+      "label": "50°F to 77°F",
+      "value": [
+        "This plant doesn't like weather below 50°F and is considered an annual in some parts of the country."
+      ]
+    },
+    {
+      "id": "Hardiness Zones",
+      "label": "Hardiness Zones 9|10|11",
+      "value": [
+        "This plant will bloom from spring until fall. It is deciduous and evergreen plant and will be considered an annual in planting zones below zone 9."
+      ]
+    },
+    {
+      "id": "Fertilizing",
+      "label": "Fertilizing Monthly",
+      "value": [
+        "Fertilize every month during its growing period in the spring and summer with an organic fertilizer. Let the plant rest in the fall and winter."
+      ]
+    },
+    {
+      "id": "Re-potting",
+      "label": "Re-potting Rarely",
+      "value": [
+        "To transplant into a garden container or the garden bed, water your plant the night before. Dig the hole twice as wide as the grower pot and slightly shorter than the grower pot (not deeper) to raise the crown. Remove the plant and center in the spot. Add rooting hormone around the roots of the plant. Water in the hole and let drain. Add compost to enhance the soil consistency and bring the soil pH to neutral or slightly acidic. Fill around the plant and up to the top of its soil line. Tamp down with your hands to remove any air pockets. Water again around the drip line."
+      ]
+    },
+    {
+      "id": "Cleaning",
+      "label": "Cleaning As needed",
+      "value": [
+        "This plant doesn't need much pruning other than any dead, damaged or diseased limbs during the growing season. It is a compact plant."
+      ]
+    },
+    {
+      "id": "Propagation",
+      "label": "Propagation Cuttings",
+      "value": [
+        "Stem Cutting: In early spring, wearing gloves (leaves can cause dermatitis), take a Lantana cutting, using sharp pruners to remove a tip measuring 4-6 inches off the shrub with two sets of leaves or more. Using an indoor seed starting mix, fill a small 4-inch container with drainage holes (too large of a container for the cutting will make it challenging to regulate watering needs). Dip the stem into the rooting hormone and plant the stem tamping down the soil around it. Place a clear plastic bag loosely around it to help it root faster. Water the plant and keep it in bright indirect sunlight. After 4-6 weeks, the roots should establish."
+      ]
+    }
+  ],
+  "description": [],
+  "id": "bloomify-rose-lantana",
+  "metadata": [
+    {
+      "id": "pet-hazard",
+      "label": "Pet Hazard",
+      "value": "Toxic To Touch"
+    },
+    {
+      "id": "care-level",
+      "label": "Care Level",
+      "value": "I'm Easy"
+    }
+  ],
+  "title": "Bloomify™ Rose Lantana",
+  "variants": [
+    {
+      "planters": [
+        {
+          "imgSrc": "bloomify-rose-lantana_small_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$38.00"
+        }
+      ],
+      "sizeId": "small",
+      "sizeLabel": "S"
+    }
+  ]
+}

@@ -22,7 +22,13 @@
     "strictNullChecks": true,
     "allowJs": true,
     "forceConsistentCasingInFileNames": true,
-    "resolveJsonModule": true
+    "resolveJsonModule": true,
+    "paths": {
+      "~components/*": ["src/components/*"],
+      "~styles/*": [
+        "src/styles/*"
+      ]
+    }
   },
   "include": [
     "./src/**/*.ts",

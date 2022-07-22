@@ -1,0 +1,141 @@
+{
+  "careGuide": [
+    {
+      "id": "Light",
+      "label": "Light High",
+      "value": [
+        "Full direct sun outside (6-8 hrs.) Indoors bright direct sun."
+      ]
+    },
+    {
+      "id": "Water",
+      "label": "Water Low",
+      "value": [
+        "When the soil dries out thoroughly use filtered, bottled, or tap water sitting 24 hours to release the chemicals and water enough that the water discharges out of the drainage holes."
+      ]
+    },
+    {
+      "id": "Humidity",
+      "label": "Humidity High",
+      "value": [
+        "Humidity levels need to be between 45-55%. Spritz daily and add extra humidity."
+      ]
+    },
+    {
+      "id": "Temperature",
+      "label": "55°F to 80°F",
+      "value": [
+        "Rosemary prefers average cooler temperatures indoors at 60-65°F with good air circulation to avoid mildew and mold spores. A light fan may be used to circulate the air."
+      ]
+    },
+    {
+      "id": "Hardiness Zones",
+      "label": "Hardiness Zones 8|9|10|11",
+      "value": [
+        "Outdoors in full sun (6-8 hours), where nights are above 10°F."
+      ]
+    },
+    {
+      "id": "Fertilizing",
+      "label": "Fertilizing Monthly",
+      "value": [
+        "Rosemary needs a light fertilization with a slow-release fertilizer or liquid fertilizer diluted. Refrain from fertilizing eight weeks prior to the first frost date in your hardiness zone."
+      ]
+    },
+    {
+      "id": "Re-potting",
+      "label": "Re-potting 2 Years",
+      "value": [
+        "Indoors:",
+        "When the plant is rootbound or there is dieback on their growth, then they are ready to repot (early spring before growth starts), plant in a 2\" bigger container in diameter and slightly deeper than the existing planter.",
+        "Use an indoor container mix that is well-draining. Add soil to the bottom to elevate the root ball.",
+        "Lift the plant and inspect the root ball. Notice if there are any dead or rotting roots and trim off with sterile pruners. If the plant is rootbound, cut through the roots to alleviate continued encircling and trim away 10-20% of the root mass. Trim up the side of the root ball so new roots will form.",
+        "Ensure the plant is sitting about 1\" below the edge of the pot to avoid water spillage.",
+        "Add more soil and backfill around the sides by tamping down. Do not cover the current level of soil on the plant but add soil up to this level.",
+        "Water thoroughly, leaving the soil damp but not soggy. Add more soil after watering if the soil settles.",
+        "Outdoors:",
+        "Before planting or repotting in a container, water the plant in the grower pot well.",
+        "Find a spot in the garden where there are at least 6 hours of direct sunlight each day.",
+        "Be generous by digging a hole twice the pot's width and 1 inch shorter than the grower pot to raise them above the soil level for good drainage.",
+        "Use a pitchfork or a sharp object to stab the soil walls to make several indentions for the roots to take hold.",
+        "Tickle the roots to loosen them if they wrap inside the container.",
+        "Place the plant in the center of the hole.",
+        "Fill the hole with water first, so the roots get another good drink.",
+        "Next, backfill with native soil mixed with compost by one third to one half (if the native soil is clay).",
+        "Add a rooting hormone fertilizer to this backfill mixture. Tamp the soil firmly down around the edges and mound up. Avoid covering the original soil level of the plant that was in the container.",
+        "Add mulch as needed but not next to the stem or branches of the plant.",
+        "Water lightly. Continue to observe the soil moisture each day, depending on the temperatures and soil drainage."
+      ]
+    },
+    {
+      "id": "Cleaning",
+      "label": "Cleaning Monthly",
+      "value": [
+        "Throughout the spring and summer months outdoors, use pruning shears to trim back browning leaves or damaged stems on the plant. Never prune back to the older woody stem as they will not grow back. Clean the soil of debris around the base of the plant and replenish the soil as needed. Inspect for pests or diseases and treat. When pruning for culinary uses, take off no more than 5 inches of leaves. During colder months, a hard pruning (when the plant is dormant) to about half to maintain their size is permissible as long as they are not pruned back to where there are no leaves."
+      ]
+    },
+    {
+      "id": "Propagation",
+      "label": "Propagation Stem Cutting",
+      "value": [
+        "Throughout the spring and summer months outdoors, use pruning shears to trim back browning leaves or damaged stems on the plant. Never prune back to the older woody stem as they will not grow back. Clean the soil of debris around the base of the plant and replenish the soil as needed. Inspect for pests or diseases and treat. When pruning for culinary uses, take off no more than 5 inches of leaves. During colder months, a hard pruning (when the plant is dormant) to about half to maintain its size is permissible as long as they are not pruned back to where there are no leaves."
+      ]
+    }
+  ],
+  "description": [
+    "Enjoy the intense aromatic smell of Rosmarinus Officinalis (Rosemary) as you brush it with your hand or along the garden path. Its gray-green, needle-like leaves grow up to 1.5\" long and are closely spaced together. White or blue flowers eventually bloom on this herb, making it more appealing in the garden. Use as an ornamental in the garden or a garden pot. Add it to your culinary dishes with meats and veggies, or make scented sachets.",
+    "Rosemary may not be in bloom upon delivery"
+  ],
+  "id": "tuscan-blue-rosemary",
+  "metadata": [
+    {
+      "id": "pet-safe",
+      "label": "Pet Safe",
+      "value": "Yes"
+    },
+    {
+      "id": "care-level",
+      "label": "Care Level",
+      "value": "I'm Easy"
+    }
+  ],
+  "title": "Tuscan Blue Rosemary",
+  "variants": [
+    {
+      "planters": [
+        {
+          "imgSrc": "tuscan-blue-rosemary_oneGallon_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$54.00"
+        }
+      ],
+      "sizeId": "oneGallon",
+      "sizeLabel": "1G"
+    },
+    {
+      "planters": [
+        {
+          "imgSrc": "tuscan-blue-rosemary_fiveGallon_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$98.00"
+        }
+      ],
+      "sizeId": "fiveGallon",
+      "sizeLabel": "5G"
+    },
+    {
+      "planters": [
+        {
+          "imgSrc": "tuscan-blue-rosemary_small_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$38.00"
+        }
+      ],
+      "sizeId": "small",
+      "sizeLabel": "S"
+    }
+  ]
+}

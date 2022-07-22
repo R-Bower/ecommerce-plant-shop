@@ -1,0 +1,127 @@
+{
+  "careGuide": [
+    {
+      "id": "Light",
+      "label": "Light High",
+      "value": [
+        "Outdoors: Place in full sun (6-8 hours) to part sun (4-6 hours). Indoors: Bright south-facing exposure in indirect light."
+      ]
+    },
+    {
+      "id": "Water",
+      "label": "Water Medium",
+      "value": [
+        "Keep the soil moist consistently (but not soggy)."
+      ]
+    },
+    {
+      "id": "Humidity",
+      "label": "Humidity High",
+      "value": [
+        "Add a gravel tray, spritz daily, use a humidifier or group with other plants."
+      ]
+    },
+    {
+      "id": "Temperature",
+      "label": "60°F to 80°F",
+      "value": [
+        "This plant loves heat and humidity so the warmer the better. Keep away from heating vents or direct sunlight though as the leaves could burn."
+      ]
+    },
+    {
+      "id": "Hardiness Zones",
+      "label": "Hardiness Zones 9|10|11",
+      "value": [
+        "Outdoors in full (6-8 hours) to part sun (4-6 hours), where nights are above 62°F."
+      ]
+    },
+    {
+      "id": "Fertilizing",
+      "label": "Fertilizing Weekly",
+      "value": [
+        "A slow release fertilizer or diluted liquid fertilizer can be applied to the soil surface on the exterior or interior of this plant. Refrain from fertilizing during the winter. If the foliage exhibits tip burn, back off on the feeding as they can have exude salts from their leaf tips."
+      ]
+    },
+    {
+      "id": "Re-potting",
+      "label": "Re-potting 2 Years",
+      "value": [
+        "Indoors:",
+        "When the plant is rootbound or there is dieback on its growth, then they are ready to repot (early spring before growth starts), plant in a 2\" bigger container in diameter and slightly deeper than the existing planter.",
+        "Use an indoor container mix that is well-draining. Add soil to the bottom to elevate the root ball.",
+        "Lift the plant and inspect the root ball. Notice if there are any dead or rotting roots and trim off with sterile pruners. If the plant is rootbound, cut through the roots to alleviate continued encircling. Trim up the side of the root ball so new roots will form.",
+        "Ensure the plant is sitting about 1\" below the edge of the pot to avoid water spillage.",
+        "Add more soil and backfill around the sides by tamping down. Do not cover the current level of soil on the plant but add soil up to this level.",
+        "Water thoroughly, leaving the soil damp but not soggy. Add more soil after watering if the soil settles.",
+        "Outdoors:",
+        "Before planting or repotting in a container, water the plant in the grower pot well.",
+        "Find a spot in the garden where there are at least 4-8 hours of direct sunlight each day.",
+        "Be generous by digging a hole twice the pot's width and 1 inch shorter than the grower pot to raise them above the soil level for good drainage.",
+        "Use a pitchfork or a sharp object to stab the soil walls to make several indentions for the roots to take hold.",
+        "Tickle the roots to loosen them if they wrap inside the container.",
+        "Place the plant in the center of the hole.",
+        "Fill the hole with water first, so the roots get another good drink.",
+        "Next, backfill with native soil mixed with compost by one third to one half (if the native soil is clay).",
+        "Add a rooting hormone fertilizer to this backfill mixture. Tamp the soil firmly down around the edges and mound up. Avoid covering the original soil level of the plant that was in the container.",
+        "Add mulch as needed but not next to the stem or branches of the plant.",
+        "Water lightly. Continue to observe the soil moisture each day, depending on the temperatures and soil drainage. Keep consistently moist."
+      ]
+    },
+    {
+      "id": "Cleaning",
+      "label": "Cleaning Monthly",
+      "value": [
+        "Keep yellowing or browning fronds cut off. If tips get burned, trim off the edges at an angle so they look more natural. Keep the soil clean and replenish with soil if depleted."
+      ]
+    },
+    {
+      "id": "Propagation",
+      "label": "Propagation Cuttings",
+      "value": [
+        "Use a pot that's well-draining. You may mix in a rooting hormone into the soil to help establish root growth. Fill the container with soil to an inch at the top. Very lightly scrape off small portions of the brownish covering of the epidermis on the stem to expose the green cortex. Stick the branch in the pot and add more soil if needed. Give the plant a drink and let drain. Keep the soil consistently moist to promote the roots to grow from the stem. Keep them in part-shade or bright, indirect light to get them established. Check after 8-10 weeks to see if the roots are getting established by gently pulling upward on the stem. If they are snug, then you have success! Keep the soil moist continually, and don't let them ever dry out completely."
+      ]
+    }
+  ],
+  "description": [
+    "The Cordyline Red Sensation's dark stripes of pink to red burgundy leaves a grassy tropical look. This indoor plant is notably tough and therefore requires very little maintenance. The exotic colored palm tree-like growth makes a great focal point in the landscape or containers. Bring inside and enjoy its color up close in a brightly lit room for an accessory piece."
+  ],
+  "id": "cordyline-australis-red-sensation",
+  "metadata": [
+    {
+      "id": "pet-warning",
+      "label": "Pet Warning",
+      "value": "Toxic To Ingest"
+    },
+    {
+      "id": "care-level",
+      "label": "Care Level",
+      "value": "I'm Easy"
+    },
+    {
+      "id": "overall-size",
+      "label": "Overall Size",
+      "value": "10\" to 14\" W 24\" to 32\" H"
+    }
+  ],
+  "title": "Cordyline Australis Red Sensation",
+  "variants": [
+    {
+      "planters": [
+        {
+          "imgSrc": "cordyline-australis-red-sensation_extra-large_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$118.00"
+        },
+        {
+          "imgSrc": "cordyline-australis-red-sensation_extra-large_planter-naturals-basket.jpg",
+          "planterId": "planter-naturals-basket",
+          "planterLabel": "Baskets",
+          "price": "$138.00"
+        }
+      ],
+      "sizeId": "extra-large",
+      "sizeLabel": "XL"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "careGuide": [
+    {
+      "id": "Light",
+      "label": "Light High",
+      "value": [
+        "This plant prefers bright, indirect light to promote blooming!"
+      ]
+    },
+    {
+      "id": "Water",
+      "label": "Water Medium",
+      "value": [
+        "Keep the soil slightly moist and bottom water when the soil reaches #5 on the moisture meter. Use filtered, bottled, or tap water sitting 24 hours to release the chemicals and water enough to discharge out of the drainage holes. Once the water is fully drained, place her into the cache or decorative pot. Don't let her roots sit in standing water or in the saucer. Water less frequently during the winter months but keep it humid around the plant."
+      ]
+    },
+    {
+      "id": "Humidity",
+      "label": "Humidity High",
+      "value": [
+        "Add up to 60-80% humidity by adding a pebble tray filled with water, grouping with other plants or using a humidifier."
+      ]
+    },
+    {
+      "id": "Temperature",
+      "label": "60°F to 90°F",
+      "value": [
+        "Ideally, the Flamingo Flower likes it on average of 68° at night and upwards of 86°F during daylight hours."
+      ]
+    },
+    {
+      "id": "Hardiness Zones",
+      "label": "Hardiness Zones 10|11",
+      "value": [
+        "Outside: Grow in early morning sun (2-4 hours) where nights are above 60°F. Indoors: The Flamingo Flower prefers bright, indirect light for at least six hours in a southern, eastern and western windows."
+      ]
+    },
+    {
+      "id": "Fertilizing",
+      "label": "Fertilizing Monthly",
+      "value": [
+        "Fertilize once a month during the growing spring and summer with a high in phosphorus to promote blooms. Let the plant rest in the fall and winter. Leach salt residue buildup away by flushing the potted plant each month. Let the water run out the drain holes."
+      ]
+    },
+    {
+      "id": "Re-potting",
+      "label": "Re-potting 2 Years",
+      "value": []
+    },
+    {
+      "id": "Cleaning",
+      "label": "Cleaning Monthly",
+      "value": [
+        "Gently wipe clean with a soft, damp cloth or paper towel. Work gently from the stem's base toward the leaf's tip, cleaning both sides at once. After cleaning the leaves, remove any dead leaves or debris on the surface of the soil. Refreshen the soil mixture if needed. Prune away damaged or diseased leaves or flowers down to the stem base with sterile scissors."
+      ]
+    },
+    {
+      "id": "Propagation",
+      "label": "Propagation Division",
+      "value": [
+        "Indoors: Propagate and divide Flamingo Flowers in the early spring when emerging from dormancy. Pull from the container and brush or wash away the soil carefully. Carefully divide and keep at least two rhizomes together and repot in a rich, indoor potting soil mix. Use a container that has drainage and is deep enough for the roots to grow. Place the rhizomes at least 1-2 inches down into the soil. Set it in bright, indirect sunlight while they are rooting. Check the moisture and humidity each day and add misting to keep the soil moist while the roots establish. After 6-8 weeks, roots will begin to form. You can tug onto the stem to ensure the roots are establishing. Outdoors: Carefully loosen the soil and dig the tubers up, avoiding damaging the rhizomes. Divide the rhizomes and plant in new locations in your garden. Add rich, damp, and loamy soil in a part-shade morning sun location."
+      ]
+    }
+  ],
+  "description": [],
+  "id": "white-flamingo-flower",
+  "metadata": [
+    {
+      "id": "pet-warning",
+      "label": "Pet Warning",
+      "value": "Toxic To Ingest"
+    },
+    {
+      "id": "care-level",
+      "label": "Care Level",
+      "value": "Plays Hard to Get"
+    },
+    {
+      "id": "overall-size",
+      "label": "Overall Size",
+      "value": "6\" to 16\" W 18\" to 20\" H"
+    }
+  ],
+  "title": "White Flamingo Flower",
+  "variants": [
+    {
+      "planters": [
+        {
+          "imgSrc": "white-flamingo-flower_small_planter-eco-planter.jpg",
+          "planterId": "planter-eco-planter",
+          "planterLabel": "Eco Pot",
+          "price": "$43.00"
+        },
+        {
+          "imgSrc": "white-flamingo-flower_small_planter-naturals-basket.jpg",
+          "planterId": "planter-naturals-basket",
+          "planterLabel": "Baskets",
+          "price": "$48.00"
+        },
+        {
+          "imgSrc": "white-flamingo-flower_small_planter-ceramic.jpg",
+          "planterId": "planter-ceramic",
+          "planterLabel": "Ceramic",
+          "price": "$50.00"
+        }
+      ],
+      "sizeId": "small",
+      "sizeLabel": "S"
+    },
+    {
+      "planters": [
+        {
+          "imgSrc": "white-flamingo-flower_medium_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$50.00"
+        },
+        {
+          "imgSrc": "white-flamingo-flower_medium_planter-eco-planter.jpg",
+          "planterId": "planter-eco-planter",
+          "planterLabel": "Eco Pot",
+          "price": "$56.00"
+        },
+        {
+          "imgSrc": "white-flamingo-flower_medium_planter-naturals-basket.jpg",
+          "planterId": "planter-naturals-basket",
+          "planterLabel": "Baskets",
+          "price": "$62.00"
+        },
+        {
+          "imgSrc": "white-flamingo-flower_medium_planter-ceramic.jpg",
+          "planterId": "planter-ceramic",
+          "planterLabel": "Ceramic",
+          "price": "$64.00"
+        }
+      ],
+      "sizeId": "medium",
+      "sizeLabel": "M"
+    }
+  ]
+}

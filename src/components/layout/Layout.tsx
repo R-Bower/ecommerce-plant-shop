@@ -1,6 +1,7 @@
 import React from "react"
 
-import {sx} from "../../styles/sx.css"
+import {sx} from "~styles/sx.css"
+
 import {Header} from "./Header"
 
 interface Props {

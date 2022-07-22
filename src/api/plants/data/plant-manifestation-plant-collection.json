@@ -1,0 +1,266 @@
+{
+  "careGuide": [
+    {
+      "id": "Light",
+      "label": "Light Medium",
+      "value": [
+        "<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--> This plant enjoys early morning light or indirect bright light throughout the day to encourage flowering."
+      ]
+    },
+    {
+      "id": "Water",
+      "label": "Water Medium",
+      "value": [
+        "<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--> Use filtered, bottled, or tap water sitting 24 hours to release the chemicals and water enough that the water discharges out of the drainage holes. Once the water is fully drained, replace them into the cache or decorative pot. Don't let the roots sit in standing water. Keep the soil consistently moist but avoid overwatering as they can suffer from root rot. Let the top few inches of potting soil dry between waterings in the winter months. Do not let the root ball dry out or they will protest with damaged leaves. During winter months, reduce watering while their in dormancy."
+      ]
+    },
+    {
+      "id": "Humidity",
+      "label": "Humidity Medium",
+      "value": [
+        "<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--> Enjoys high humidity. Add a pebble tray or humidifier to keep the humidity high. Avoid spritzing the leaves"
+      ]
+    },
+    {
+      "id": "Temperature",
+      "label": "60°F to 75°F",
+      "value": [
+        "Average comfortable room temperatures will be sufficient. These plants do not like cold temperatures under 58°F."
+      ]
+    },
+    {
+      "id": "Hardiness Zones",
+      "label": "Hardiness Zones 8|9|10",
+      "value": [
+        "<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--> Begonias love tropical climates but anytime the night time temperatures dip below 55°F, to save them, dig them up and move inside."
+      ]
+    },
+    {
+      "id": "Fertilizing",
+      "label": "Fertilizing Monthly",
+      "value": [
+        "<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--> Fertilize every 2-3 weeks by diluting an organic balanced liquid fertilizer into the water while watering. If you have the fancy leaf begonias, use a higher nitrogen fertilizer in the early spring. You may switch to a high phosphorus for a flowering boost. Fertilize in the spring through fall months but let the plant rest in the winter. Avoid any foliar feeding on the leaves."
+      ]
+    },
+    {
+      "id": "Re-potting",
+      "label": "Re-potting 3 Years",
+      "value": [
+        "<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--> Inside:",
+        "When receiving the Begonia plant, do not repot immediately but wait at least 6-12 months or if the roots are beginning to get crowded and growing through the drainage holes.",
+        "Repot in the spring, using a one inch wider in diameter pot to keep the roots more snug (they like to be root bound). (Too big of a pot could cause the soil to dry slower, which is not helpful.)",
+        "Place a piece of screening at the bottom of the container over the drainage hole to secure the soil and allow it to drain.",
+        "Use a well-draining indoor potting mix with perlite, coconut coir and vermiculite to help with drainage, moisture retenion and absorption of nutrients.",
+        "Add soil to the bottom to elevate the root ball.",
+        "Lift the plant and release the roots against the existing planter. Use a clean knife or garden trowel to wedge between the pot and the soil to loosen.",
+        "Inspect the root ball. Notice if there are any dead or rotting roots and trim off with sterile pruners.",
+        "Ensure the plant is sitting about 1 inch below the edge of the pot to avoid water spillage. Add more soil and backfill around the sides by tamping down.",
+        "Fill up to the soil line but not over.",
+        "Water thoroughly, leaving the soil damp but not soggy. If settling occurs, add more soil. Water well to dampen the soil and let it drain.",
+        "Outside:",
+        "Plant outside in a warm plant zone (10-12) or after the last frost in your planting zone (where the temperature is above 60°F) in well-draining soil and keep consistently moist but never soggy. Mix in compost or well-draining garden soil and root hormone to get them established. Plant them about 1 inch in depth and 10-12 inches apart if planting several. Keep in a part sun (early morning) garden where direct light will not burn the leaves."
+      ]
+    },
+    {
+      "id": "Cleaning",
+      "label": "Cleaning Monthly",
+      "value": [
+        "<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--> Trim off any dead or damaged leaves down to the base of the stem. Remove spent flowers. Replenish divots in the soil from watering. Check for pests."
+      ]
+    },
+    {
+      "id": "Propagation",
+      "label": "Propagation Cuttings",
+      "value": [
+        "<!--td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}--> Take a stem cutting between 4-6 inches long with leaves attached with sanitized pruners.",
+        "Dip the cuttings in water, then in a rooting hormone.",
+        "Use a pot with drainage and place the stem 1-2 inches down into the damp, well-draining, moist potting soil mix and tamp down around the stem to secure.",
+        "Place a clear plastic bag over the cutting to mimic a greenhouse and mist the inside of the bag but not the foliage. Set them in bright, indirect sunlight while they are rooting.",
+        "Check the moisture and humidity each day and add misting to keep the soil moist while the roots establish.",
+        "After 6-8 weeks, roots will begin to establish. You can tug onto the stem to ensure the roots are secure."
+      ]
+    },
+    {
+      "id": "Light",
+      "label": "Light High",
+      "value": [
+        "Bright, indirect light to filtered sun."
+      ]
+    },
+    {
+      "id": "Water",
+      "label": "Water Medium",
+      "value": [
+        "Allow the soil to dry out completely between waterings."
+      ]
+    },
+    {
+      "id": "Humidity",
+      "label": "Humidity Medium",
+      "value": [
+        "Enjoys moderate to high levels of humidity. Spritz occasionally."
+      ]
+    },
+    {
+      "id": "Temperature",
+      "label": "65°F to 75°F",
+      "value": [
+        "Ideally, the Money Tree likes the room temperature at 72°F. They handle warmth rather than cold so keep them away from cold drafts."
+      ]
+    },
+    {
+      "id": "Hardiness Zones",
+      "label": "Hardiness Zones 10|11|12",
+      "value": [
+        "Outside: Grow in morning light, partial shade (4-6 hours) where nights are above 45°F.",
+        "Indoors: The Money Tree prefers bright, indirect light for at least six hours in a southern, eastern and western windows."
+      ]
+    },
+    {
+      "id": "Fertilizing",
+      "label": "Fertilizing Monthly",
+      "value": [
+        "Fertilize bimonthly during their growing period. Use a balanced liquid fertilizer at 1/2 strength. Reduce during the fall and winter months while the plant is in their dormant phase and refrain from watering as much so they can rest."
+      ]
+    },
+    {
+      "id": "Re-potting",
+      "label": "Re-potting 2 Years",
+      "value": [
+        "When receiving the plant, do not repot immediately but wait at least 6-12 months or if the roots are beginning to get crowded and growing through the drainage holes.",
+        "Repot in the spring, using a 2\" bigger pot to keep the roots drier. (Too big of a pot could cause the soil to dry slower, which is not helpful.) Use a well-draining indoor potting mix with perlite to help with drainage. Water your plant in the old pot before transferring over and let sit an hour. Place a piece of screening at the bottom of the container over the drainage hole to secure the soil and allow to drain.",
+        "Add soil to the bottom to elevate the root ball. Lift the plant and release the roots against the existing planter. Use a clean knife or garden trowel to wedge between the pot and the soil to loosen. Inspect the root ball. Notice if there are any dead or rotting roots and trim off with sterile pruners. If the plant is rootbound, cut through the roots to alleviate continued encircling. Ensure the plant is sitting about 1\" below the edge of the pot to avoid water spillage. Add more soil and backfill around the sides by tamping down. Fill up to the soil line but not over. Water thoroughly, leaving the soil damp but not soggy. If settling occurs, add more soil."
+      ]
+    },
+    {
+      "id": "Cleaning",
+      "label": "Cleaning Monthly",
+      "value": [
+        "Prune the leaves to stimulate new growth by cutting in front of a leaf node. Trim off any dead or damaged stems to keep them healthy."
+      ]
+    },
+    {
+      "id": "Propagation",
+      "label": "Propagation Cuttings",
+      "value": [
+        "Stem Cutting: In early summer, take a stem cutting, use sharp pruners to remove a cutting from a tip off the vine. Cut at least 4-6 inches of stem to propagate. Place in a vase with water to root. Change the water each week with filtered, bottled, or tap water sitting at least 24 hours. After 3-4 weeks, check to make sure the stem has 1-2 inch, well-formed roots. If so, it is time to plant. *Fill a small container with drainage holes (too large of a container for the cutting will make it challenging to regulate watering needs) using an indoor well-draining potting mix. Mix a little rooting hormone into the soil. Poke a hole in the soil with a pencil. Then, place the cutting in the hole and tamp the soil down around them. Water the plant and keep them in medium to bright indirect sunlight. After 4-6 weeks, the roots should establish."
+      ]
+    },
+    {
+      "id": "Light",
+      "label": "Light Medium",
+      "value": [
+        "Medium to bright indirect light. Never direct sunlight."
+      ]
+    },
+    {
+      "id": "Water",
+      "label": "Water Medium",
+      "value": [
+        "Enjoys being on the moist, but not soggy side."
+      ]
+    },
+    {
+      "id": "Humidity",
+      "label": "Humidity High",
+      "value": [
+        "Enjoys high humidity. Spritz occasionally."
+      ]
+    },
+    {
+      "id": "Temperature",
+      "label": "60°F to 75°F",
+      "value": [
+        "Avoid any sudden temperature changes. Keep humidity high in warmer temperatures."
+      ]
+    },
+    {
+      "id": "Hardiness Zones",
+      "label": "Hardiness Zones 10|11",
+      "value": [
+        "Outside: Grow in morning light, partial shade (4-6 hours) where nights are above 45°F.",
+        "Indoors: The Money Tree prefers bright, indirect light for at least six hours in a southern, eastern and western windows."
+      ]
+    },
+    {
+      "id": "Fertilizing",
+      "label": "Fertilizing Monthly",
+      "value": [
+        "Trim off any dead or damaged stems to keep energy moving to the healthy leaves. Shower the leaves using a watering can with filtered or rainwater to remove dust. Remove any debris on the soil and replenish soil if needed."
+      ]
+    },
+    {
+      "id": "Re-potting",
+      "label": "Re-potting 2 Years",
+      "value": [
+        "When receiving the plant, do not repot immediately but wait at least 6-12 months. Repot in the spring, using a 2\" wider pot. (Too large of a pot could cause the soil to dry slower, which is not helpful.) Use a well-draining indoor potting mix with perlite to help with drainage or an african violet potting mix.",
+        "Water your plant in the old pot and let sit an hour before transferring. Place a piece of screening at the bottom of the container over the drainage hole to secure the soil and allow to drain. Add soil to the bottom to elevate the root ball. Lift the plant and release the roots against the existing planter. Use a clean knife or garden trowel to wedge between the pot and the soil to loosen. Inspect the root ball. Notice if there are any dead or rotting roots and trim off with sterile pruners. If the plant is rootbound, cut through the roots to alleviate continued encircling.",
+        "Ensure the plant is sitting about 1\" below the edge of the pot to avoid water spillage. Add more soil and backfill around the sides by tamping down. Fill up to the soil line but not over. Water thoroughly, leaving the soil damp but not soggy. If settling occurs, add more soil. Enclose the new plantings in plastic bags, mist and keep them in medium light. Remove the plastic bag when the roots are established. You may observe some leaf changes as they acclimates to their new environment. They may suffer some transplant shock depending on how tight the roots were intertwined together. Trim off any declining leaves as they regains their energy and gets rooted into the soil over time."
+      ]
+    },
+    {
+      "id": "Cleaning",
+      "label": "Cleaning Monthly",
+      "value": [
+        "Trim off any dead or damaged stems to keep energy moving to the healthy leaves. Shower the leaves using a watering can with filtered or rainwater to remove dust. Remove any debris on the soil and replenish soil if needed."
+      ]
+    },
+    {
+      "id": "Propagation",
+      "label": "Propagation Division",
+      "value": [
+        "Indoors: Propagate and divide Peacock plants in the early spring when emerging from dormancy. Pull from the container and brush or wash away the soil carefully. Carefully divide and repot in a rich, indoor potting soil mix or African violet mix. Use a container that has drainage and is deep enough for the roots to grow. Set them in medium to bright, indirect sunlight while they are rooting. Check the moisture and humidity each day and add misting to keep the soil moist while the roots establish. After 6-8 weeks, roots will begin to establish. You can tug onto the stem to ensure the roots are anchoring well. Outdoors: Carefully loosen the soil and dig the roots up and separate the plant in new locations in your garden. Add rich, damp, and loamy soil in a part-shade morning sun location. Water with filtered or rain water at soil level."
+      ]
+    }
+  ],
+  "description": [
+    "This Manifestation Plant Collection is a group of some pretty inspiring plants.  From the peacock plant that reminds us to be mindful to the money tree that brings good fortune and the begonias that brighten our space - all these plants bring a thoughtful and inspired vibe to any space.",
+    "Open your heart to these plants and only good things will come your way.",
+    "Collection Includes:"
+  ],
+  "id": "manifestation-plant-collection",
+  "metadata": [
+    {
+      "id": "pet-warning",
+      "label": "Pet Warning",
+      "value": "Toxic To Ingest"
+    },
+    {
+      "id": "care-level",
+      "label": "Care Level",
+      "value": "Plays Hard to Get"
+    },
+    {
+      "id": "overall-size",
+      "label": "Overall Size",
+      "value": "6\" to 10\" W 10\" to 18\" H"
+    }
+  ],
+  "title": "Manifestation Plant Collection",
+  "variants": [
+    {
+      "planters": [
+        {
+          "imgSrc": "manifestation-plant-collection_medium_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$170.00"
+        },
+        {
+          "imgSrc": "manifestation-plant-collection_medium_planter-eco-planter.jpg",
+          "planterId": "planter-eco-planter",
+          "planterLabel": "Eco Pot",
+          "price": "$194.00"
+        },
+        {
+          "imgSrc": "manifestation-plant-collection_medium_planter-ceramic.jpg",
+          "planterId": "planter-ceramic",
+          "planterLabel": "Ceramic",
+          "price": "$226.00"
+        }
+      ],
+      "sizeId": "medium",
+      "sizeLabel": "M"
+    }
+  ]
+}

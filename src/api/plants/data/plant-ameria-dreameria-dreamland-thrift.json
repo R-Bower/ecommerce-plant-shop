@@ -1,0 +1,112 @@
+{
+  "careGuide": [
+    {
+      "id": "Light",
+      "label": "Light High",
+      "value": [
+        "This plant prefers full sun (6-8 hours) and part sun (4-6 hours)."
+      ]
+    },
+    {
+      "id": "Water",
+      "label": "Water Medium",
+      "value": [
+        "Water well in well-draining soil. Water regularly, keeping the soil moist but not soggy. Check it periodically and water while its roots get established. Use a plant moisture meter and keep the soil above #3."
+      ]
+    },
+    {
+      "id": "Humidity",
+      "label": "Humidity Medium",
+      "value": [
+        "Likes humidity levels 50% or higher."
+      ]
+    },
+    {
+      "id": "Temperature",
+      "label": "70°F to 85°F",
+      "value": [
+        "While cooler temps are optimum at 62°F-65°F, it is a heat tolerant plant."
+      ]
+    },
+    {
+      "id": "Hardiness Zones",
+      "label": "Hardiness Zones 6|7|8|9",
+      "value": [
+        "This plant blooms from early spring to late fall!"
+      ]
+    },
+    {
+      "id": "Fertilizing",
+      "label": "Fertilizing Every two weeks",
+      "value": [
+        "Fertilize when watering twice a month in the spring and summer with a 1/2 strength water-soluble fertilizer high in phosphorus to encourage blooms."
+      ]
+    },
+    {
+      "id": "Re-potting",
+      "label": "Re-potting Rarely",
+      "value": [
+        "To transplant into a garden container or the garden bed, water your plant the night before. Dig the hole twice as wide as the grower pot and the same depth as the grower pot (not deeper). Remove the plant and center in the spot. Add rooting hormone around the roots of the plant. Water in the hole and let drain. This plant prefers sandy soils and slopes work well for drainage. Fill around the plant and up to the top of its soil line. Tamp down with your hands to remove any air pockets. Water again around the drip line, being careful not to soak the leaves to help prevent fungus. Give this plant consistent waterings to allow the roots to establish but not remaining soggy. Mulch around the roots throughout the season."
+      ]
+    },
+    {
+      "id": "Cleaning",
+      "label": "Cleaning After bloom begins to die",
+      "value": [
+        "Deadhead your blooms and remove the flower and cut down to the next set of leaves."
+      ]
+    }
+  ],
+  "description": [],
+  "id": "ameria-dreameria-dreamland-thrift",
+  "metadata": [
+    {
+      "id": "pet-hazard",
+      "label": "Pet Hazard",
+      "value": "Toxic To Touch"
+    },
+    {
+      "id": "care-level",
+      "label": "Care Level",
+      "value": "I'm Easy"
+    },
+    {
+      "id": "overall-size",
+      "label": "Overall Size",
+      "value": "4\" to 12\" W 8\" to 10\" H"
+    }
+  ],
+  "title": "Ameria Dreameria® Dreamland Thrift",
+  "variants": [
+    {
+      "planters": [
+        {
+          "imgSrc": "ameria-dreameria-dreamland-thrift_small_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$38.00"
+        },
+        {
+          "imgSrc": "ameria-dreameria-dreamland-thrift_small_planter-eco-planter.jpg",
+          "planterId": "planter-eco-planter",
+          "planterLabel": "Eco Pot",
+          "price": "$43.00"
+        },
+        {
+          "imgSrc": "ameria-dreameria-dreamland-thrift_small_planter-naturals-basket.jpg",
+          "planterId": "planter-naturals-basket",
+          "planterLabel": "Baskets",
+          "price": "$48.00"
+        },
+        {
+          "imgSrc": "ameria-dreameria-dreamland-thrift_small_planter-ceramic.jpg",
+          "planterId": "planter-ceramic",
+          "planterLabel": "Ceramic",
+          "price": "$50.00"
+        }
+      ],
+      "sizeId": "small",
+      "sizeLabel": "S"
+    }
+  ]
+}

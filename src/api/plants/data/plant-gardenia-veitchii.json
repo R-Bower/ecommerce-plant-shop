@@ -1,0 +1,141 @@
+{
+  "careGuide": [
+    {
+      "id": "Light",
+      "label": "Light High",
+      "value": [
+        "Indoors: Bright, indirect light (southern exposure) all day long. Outdoors: full sun (6-8 hours) to light shade with morning sun and afternoon shade."
+      ]
+    },
+    {
+      "id": "Water",
+      "label": "Water Medium",
+      "value": [
+        "Keep them evenly moist but not soggy. When the top 1\" soil is dry, water thoroughly."
+      ]
+    },
+    {
+      "id": "Humidity",
+      "label": "Humidity Medium",
+      "value": [
+        "50-60% is ideal. Run a humidifier or use a tray of pebbles with water in the pebbles. Do not group with other plants since they need good air flow."
+      ]
+    },
+    {
+      "id": "Temperature",
+      "label": "60°F to 70°F",
+      "value": [
+        "65-70°F (daytime); 60-62°F (night time) is required for buds to form"
+      ]
+    },
+    {
+      "id": "Hardiness Zones",
+      "label": "Hardiness Zones 8|9|10",
+      "value": [
+        "Outdoors in full sun (6-8 hrs.), to part sun (4-6 hrs.) where nights are above 50°F. Indoors in bright indirect light on a southern exposure all day."
+      ]
+    },
+    {
+      "id": "Fertilizing",
+      "label": "Fertilizing Monthly",
+      "value": [
+        "Use a 6-4-4 fertilizer or a slow release. Dilute to half strength of avoid burning the roots. If there are yellow leaves but green veins, it could be chlorosis and in need of iron."
+      ]
+    },
+    {
+      "id": "Re-potting",
+      "label": "Re-potting 2 Years",
+      "value": [
+        "Use a pot with drainage holes. Cover the hole with broken chards. Fill the container's bottom with a few inches of soil to bring your plant height to about an inch below the planter's top. Stabilize the top of the soil and flip upside down, and gently tug on the grower pot to loosen and remove. Observe the root system. If thick and entangled, loosen the roots and pull apart. Keep your hand on the root system for support and place the plant inside the pot. Gently add soil around the space between the pot and the soil. Pack in firmly and fill up to the soil level. (Careful to leave a 1-inch lip above the soil for watering.) Please do not add more soil around the stem, as this could deprive them of oxygen. Use rich potting mix and add compost and slow-release fertilizer about every four weeks. Water well following the watering instructions and enjoy the exotic smells of this lovely addition to the patio garden!"
+      ]
+    },
+    {
+      "id": "Cleaning",
+      "label": "Cleaning Bi-annually",
+      "value": [
+        "Prune or shape your plant while in dormancy to promote branching and compact growth or to tame rogue branches. Pick up spent blooms off the ground or any fallen leaves. Keep the ground clean and remove any dead, damaged or diseased limbs. This cleaning will detract from pests and diseases. Trim faded flowers below the leaf node to promote continual blooms."
+      ]
+    },
+    {
+      "id": "Propagation",
+      "label": "Propagation Stem Cutting",
+      "value": [
+        "Use hand pruners and cut at a 45° angle at least 6-8 inches long off at right below a leaf node. Remove the leaves on the bottom half of the branch. Then cut the remaining leaves in half to still promote photosynthesis but not take excess energy away from the rooting system. Use a sterilized knife or box cutter to scrape the stem down to the green inner growth, breaking through the outer layer. Dip in root hormone (mixed in water at a paste consistency) and place in damp, well-draining, moist potting soil mix and tamp down around the stem to secure. Use a container that has drainage and is deep enough for the roots to grow. Plant at least 1-2 inches down into the soil. Mist inside a clear plastic bag to create moisture and humidity. Place the bag over the top of the plantings and let it set over the planter. There is no need to tie off the bag but allow a little airflow under and into the planting pot. Set in bright, indirect sunlight while they are rooting. Check the moisture and humidity each day and add misting to keep the soil moist while the roots establish.",
+        "After 6-8 weeks, roots will begin to form. You can tug onto the stem to ensure the roots are establishing. When temperatures are warm outside, transplant into the garden for years of enjoyment!"
+      ]
+    }
+  ],
+  "description": [
+    "If you dream of waking up to a sweet aromatic fragrance with large, lush blooms, this plant is an excellent addition to the patio! The Gardenia Jasminoides 'Veitchii' or Cape Jasmine can bloom from mid-spring to fall. They are a great evergreen addition outside in 8-11 planting zones or an indoor plant in the winter months. Add this gorgeous specimen to your repertoire.",
+    "May or may not ship with bloom or bud - typically blooms mid-spring to fall!"
+  ],
+  "id": "gardenia-veitchii",
+  "metadata": [
+    {
+      "id": "pet-warning",
+      "label": "Pet Warning",
+      "value": "Toxic To Ingest"
+    },
+    {
+      "id": "care-level",
+      "label": "Care Level",
+      "value": "Plays Hard to Get"
+    },
+    {
+      "id": "overall-size",
+      "label": "Overall Size",
+      "value": "8\" to 12\" W 16\" to 24\" H"
+    }
+  ],
+  "title": "Gardenia Veitchii",
+  "variants": [
+    {
+      "planters": [
+        {
+          "imgSrc": "gardenia-veitchii_oneGallon_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$54.00"
+        }
+      ],
+      "sizeId": "oneGallon",
+      "sizeLabel": "1G"
+    },
+    {
+      "planters": [
+        {
+          "imgSrc": "gardenia-veitchii_fiveGallon_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$98.00"
+        }
+      ],
+      "sizeId": "fiveGallon",
+      "sizeLabel": "5G"
+    },
+    {
+      "planters": [
+        {
+          "imgSrc": "gardenia-veitchii_extra-large_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$118.00"
+        },
+        {
+          "imgSrc": "gardenia-veitchii_extra-large_planter-eco-planter.jpg",
+          "planterId": "planter-eco-planter",
+          "planterLabel": "Eco Pot",
+          "price": "$128.00"
+        },
+        {
+          "imgSrc": "gardenia-veitchii_extra-large_planter-naturals-basket.jpg",
+          "planterId": "planter-naturals-basket",
+          "planterLabel": "Baskets",
+          "price": "$138.00"
+        }
+      ],
+      "sizeId": "extra-large",
+      "sizeLabel": "XL"
+    }
+  ]
+}

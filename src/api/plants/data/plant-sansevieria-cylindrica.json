@@ -1,0 +1,121 @@
+{
+  "careGuide": [
+    {
+      "id": "Light",
+      "label": "Light Medium",
+      "value": [
+        "Place this plant in a northern or eastern window where they can get mild indirect light."
+      ]
+    },
+    {
+      "id": "Water",
+      "label": "Water Low",
+      "value": [
+        "Use filtered, bottled, or tap water sitting 24 hours to release the chemicals and water enough that the water discharges out of the drainage holes. Once the water is fully drained, replace them into the cache or decorative pot. Avoid overwatering as it can suffer from root rot. During winter months, they need only to be watered every couple of months."
+      ]
+    },
+    {
+      "id": "Humidity",
+      "label": "Humidity Low",
+      "value": [
+        "Prefers low humidity"
+      ]
+    },
+    {
+      "id": "Temperature",
+      "label": "60°F to 73°F",
+      "value": [
+        "This plant likes warm and dry climates and normal temperatures in a home."
+      ]
+    },
+    {
+      "id": "Hardiness Zones",
+      "label": "Hardiness Zones 9|10|11",
+      "value": [
+        "Outside: Keep in dappled shade (early morning sun) to full shade on a patio out of direct sunlight to prevent leaf burn where nights are above 55°F."
+      ]
+    },
+    {
+      "id": "Fertilizing",
+      "label": "Fertilizing Seasonally",
+      "value": [
+        "Fertilize sparingly in the spring and summer apply at half-strength a balanced, liquid fertilizer especially formulated for indoor plants and let the rest of the year."
+      ]
+    },
+    {
+      "id": "Re-potting",
+      "label": "Re-potting 3 Years",
+      "value": [
+        "When receiving the Spear sansevieria plant, do not repot immediately but wait at least 6-12 months. They like to be a bit root-bound. Repot in the spring, using a 2\" bigger pot to keep the roots drier. (Too big of a pot could cause the soil to dry slower, which is not helpful.) Use a succulent soilless potting mix with perlite to help with drainage. Place a piece of screening at the bottom of the container over the drainage hole to secure the soil and allow to drain. Use a well-draining cacti and succulent potting mix with perlite to help with drainage. Water your plant in the old pot before transferring over and let sit an hour. Add cacti and succulent soil to the bottom to elevate the root ball. Lift the plant and release the roots against the existing planter. Use a clean knife or garden trowel to wedge between the pot and the soil to loosen. Inspect the roots. Notice if there are any dead or rotting roots and trim off with sterile pruners. Ensure the plant is sitting about 1 inch below the edge of the pot to avoid water spillage. Add more soil and backfill around the sides by tamping down. Fill up to the soil line but not over. Water thoroughly, leaving the soil damp but not soggy. If settling occurs, add more soil. Water well to dampen the soil and let drain."
+      ]
+    },
+    {
+      "id": "Cleaning",
+      "label": "Cleaning Monthly",
+      "value": [
+        "To clean the leaves and alleviate dust particles, give them a shower from above. Fill a watering can with filtered, distilled or tap water that has been sitting for 24 hours. Place the plant in a sink and lightly wash the leaves with a shower spray end watering can. Remove any debris from the soil and replenish soil if needed. Inspect for any insects at this time."
+      ]
+    },
+    {
+      "id": "Propagation",
+      "label": "Propagation Cuttings",
+      "value": [
+        "Cut a leaf off at the base and let them heal several days. Then dip into a root hormone and place them in a container with succulent and cacti soil. Keep the leaf in medium indirect sunlight while they are beginning to form roots. Water and place in bright to medium, indirect light. Use a wooden dowel to train them to stand upright until the roots are more anchored and secure."
+      ]
+    }
+  ],
+  "description": [
+    "Spear Sansevieria (Dracaena angolensis) has a unique leaf shape that is upright, dense, and cylindrical-shaped leaves that come to a point on the ends. The leaves grow in a vertical line radiating from the basal rosette causing their form to look like a shooting star. This succulent withstands drought well. An easy-care-for plant to have and exotic conversational piece."
+  ],
+  "id": "sansevieria-cylindrica",
+  "metadata": [
+    {
+      "id": "pet-warning",
+      "label": "Pet Warning",
+      "value": "Toxic To Ingest"
+    },
+    {
+      "id": "care-level",
+      "label": "Care Level",
+      "value": "I'm Easy"
+    },
+    {
+      "id": "overall-size",
+      "label": "Overall Size",
+      "value": "6\" to 6\" W 6\" to 15\" H"
+    }
+  ],
+  "title": "Sansevieria Cylindrica",
+  "variants": [
+    {
+      "planters": [
+        {
+          "imgSrc": "sansevieria-cylindrica_medium_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$50.00"
+        },
+        {
+          "imgSrc": "sansevieria-cylindrica_medium_planter-eco-planter.jpg",
+          "planterId": "planter-eco-planter",
+          "planterLabel": "Eco Pot",
+          "price": "$56.00"
+        },
+        {
+          "imgSrc": "sansevieria-cylindrica_medium_planter-naturals-basket.jpg",
+          "planterId": "planter-naturals-basket",
+          "planterLabel": "Baskets",
+          "price": "$62.00"
+        },
+        {
+          "imgSrc": "sansevieria-cylindrica_medium_planter-ceramic.jpg",
+          "planterId": "planter-ceramic",
+          "planterLabel": "Ceramic",
+          "price": "$64.00"
+        }
+      ],
+      "sizeId": "medium",
+      "sizeLabel": "M"
+    }
+  ]
+}

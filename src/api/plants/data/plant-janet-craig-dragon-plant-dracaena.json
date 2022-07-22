@@ -1,0 +1,200 @@
+{
+  "careGuide": [
+    {
+      "id": "Light",
+      "label": "Light Low",
+      "value": [
+        "Average comfortable room temperatures will be sufficient. These plants do not like heat or leaf discoloration will occur."
+      ]
+    },
+    {
+      "id": "Water",
+      "label": "Water Low",
+      "value": [
+        "Depending on the size and indoor temperatures only water this plant every 7-10 days."
+      ]
+    },
+    {
+      "id": "Humidity",
+      "label": "Humidity Medium",
+      "value": [
+        "Spritz daily"
+      ]
+    },
+    {
+      "id": "Temperature",
+      "label": "65°F to 75°F",
+      "value": [
+        "Average comfortable room temperatures will be sufficient. These plants do not like heat or leaf discoloration will occur."
+      ]
+    },
+    {
+      "id": "Hardiness Zones",
+      "label": "Hardiness Zones 9",
+      "value": [
+        "Outdoor landscape plant in morning part shade (4-6 hours), where nights are above 55°F."
+      ]
+    },
+    {
+      "id": "Fertilizing",
+      "label": "Fertilizing Monthly",
+      "value": [
+        "Water the plant before fertilizing to avoid fertilizer burn. Fertilize once a month by diluting a liquid fertilizer into the water while watering. Use half the recommended strength. Fertilize in the spring and summer months but let the plant rest in the fall and winter."
+      ]
+    },
+    {
+      "id": "Re-potting",
+      "label": "Re-potting 3 Years",
+      "value": [
+        "When the plant is ready to repot (early spring before growth starts), plant in a 2\" bigger container in diameter and slightly deeper than the existing container. Use an indoor container mix that is well-draining. Add soil to the bottom to elevate the root ball. Tenderly lift the plant and release the roots against the existing planter. Use a clean knife or garden trowel to wedge between the pot and the soil to loosen. Inspect the root ball. Notice if there are any dead or rotting roots and trim off with sterile pruners. If the plant was rootbound, cut through the roots to alleviate continued encircling. Ensure the plant is sitting about 1\" below the edge of the pot to avoid water spillage. Add more soil and backfill around the sides by tamping down. Do not cover the current level of soil on the plant but add soil up to this level. Replant and water thoroughly, leaving the soil damp but not soggy. Add more soil after watering if the soil settles. Hydrate the leaves with filtered water by spritzing. Your plant may wilt at first from transplanting but will recover shortly."
+      ]
+    },
+    {
+      "id": "Cleaning",
+      "label": "Cleaning Monthly",
+      "value": [
+        "Gently wipe clean with a soft damp cloth or paper towel. Work gently from the stem's base toward the tip of the leaf doing both sides at once. After cleaning the leaves, remove any dead leaves or debris on the surface of the soil. At this time, keep a lookout for pests and treat or remove them. Refresh soil mixture if needed.",
+        "Prune away dead, damaged, or diseased leaves down to the stem base with sterile scissors or a knife. They can be pruned down to a manageable height if overgrown in early spring and summer. Cut off where you'd like new growth to start. Right below the cut, new growth will emerge."
+      ]
+    },
+    {
+      "id": "Propagation",
+      "label": "Propagation Stem Cutting",
+      "value": [
+        "To propagate this plant, you will take stalk cuttings in the early spring. This will cause the parent plant to branch eventually. Decide where you prefer the plant to branch. Trim the leaves away from the stalk all the way around to get a clean, proper cutting. Make a diagonal cut. With the cutting, remove the bottom leaves up 3-4 inches to expose the stalk. Place the stalk in a glass jar and fill with filtered water and watch the roots grow! Replace and freshen the water each week. After the roots are several months old, add to moistened potting soil and continue to water and give them the lighting requirements."
+      ]
+    }
+  ],
+  "description": [
+    "Try this virtually indestructible plant that thrives on low light and little water. The Dracaena 'Janet Craig' is perfect for people on the go with little time to waste! They even earn their keep by cleaning the air of nasty toxins! Their sword-like dark green 3 inches wide and eventually 2 feet long leaves fill out the mature stalk giving you that tropical vibe in your casa."
+  ],
+  "id": "janet-craig-dragon-plant-dracaena",
+  "metadata": [
+    {
+      "id": "pet-warning",
+      "label": "Pet Warning",
+      "value": "Toxic To Ingest"
+    },
+    {
+      "id": "care-level",
+      "label": "Care Level",
+      "value": "I'm Easy"
+    },
+    {
+      "id": "overall-size",
+      "label": "Overall Size",
+      "value": "4\" to 6\" W 6\" to 12\" H"
+    }
+  ],
+  "title": "Janet Craig Dragon Plant (Dracaena)",
+  "variants": [
+    {
+      "planters": [
+        {
+          "imgSrc": "janet-craig-dragon-plant-dracaena_small_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$38.00"
+        },
+        {
+          "imgSrc": "janet-craig-dragon-plant-dracaena_small_planter-eco-planter.jpg",
+          "planterId": "planter-eco-planter",
+          "planterLabel": "Eco Pot",
+          "price": "$43.00"
+        },
+        {
+          "imgSrc": "janet-craig-dragon-plant-dracaena_small_planter-naturals-basket.jpg",
+          "planterId": "planter-naturals-basket",
+          "planterLabel": "Baskets",
+          "price": "$48.00"
+        },
+        {
+          "imgSrc": "janet-craig-dragon-plant-dracaena_small_planter-ceramic.jpg",
+          "planterId": "planter-ceramic",
+          "planterLabel": "Ceramic",
+          "price": "$50.00"
+        }
+      ],
+      "sizeId": "small",
+      "sizeLabel": "S"
+    },
+    {
+      "planters": [
+        {
+          "imgSrc": "janet-craig-dragon-plant-dracaena_medium_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$50.00"
+        },
+        {
+          "imgSrc": "janet-craig-dragon-plant-dracaena_medium_planter-eco-planter.jpg",
+          "planterId": "planter-eco-planter",
+          "planterLabel": "Eco Pot",
+          "price": "$56.00"
+        },
+        {
+          "imgSrc": "janet-craig-dragon-plant-dracaena_medium_planter-naturals-basket.jpg",
+          "planterId": "planter-naturals-basket",
+          "planterLabel": "Baskets",
+          "price": "$62.00"
+        },
+        {
+          "imgSrc": "janet-craig-dragon-plant-dracaena_medium_planter-ceramic.jpg",
+          "planterId": "planter-ceramic",
+          "planterLabel": "Ceramic",
+          "price": "$64.00"
+        }
+      ],
+      "sizeId": "medium",
+      "sizeLabel": "M"
+    },
+    {
+      "planters": [
+        {
+          "imgSrc": "janet-craig-dragon-plant-dracaena_large_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$86.00"
+        },
+        {
+          "imgSrc": "janet-craig-dragon-plant-dracaena_large_planter-eco-planter.jpg",
+          "planterId": "planter-eco-planter",
+          "planterLabel": "Eco Pot",
+          "price": "$94.00"
+        },
+        {
+          "imgSrc": "janet-craig-dragon-plant-dracaena_large_planter-naturals-basket.jpg",
+          "planterId": "planter-naturals-basket",
+          "planterLabel": "Baskets",
+          "price": "$102.00"
+        }
+      ],
+      "sizeId": "large",
+      "sizeLabel": "L"
+    },
+    {
+      "planters": [
+        {
+          "imgSrc": "janet-craig-dragon-plant-dracaena_extra-large_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$118.00"
+        },
+        {
+          "imgSrc": "janet-craig-dragon-plant-dracaena_extra-large_planter-eco-planter.jpg",
+          "planterId": "planter-eco-planter",
+          "planterLabel": "Eco Pot",
+          "price": "$128.00"
+        },
+        {
+          "imgSrc": "janet-craig-dragon-plant-dracaena_extra-large_planter-naturals-basket.jpg",
+          "planterId": "planter-naturals-basket",
+          "planterLabel": "Baskets",
+          "price": "$138.00"
+        }
+      ],
+      "sizeId": "extra-large",
+      "sizeLabel": "XL"
+    }
+  ]
+}

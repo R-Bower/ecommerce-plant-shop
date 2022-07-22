@@ -45,7 +45,7 @@ export type Space =
 // Also generates -8px through 8px in increments of 1px (negative and small
 // margins for one-off adjustments).  Anything outside these bounds can
 // be customized on a per-case basis using the style utility.
-export const space: Space[] = [
+export const systemSpace: Space[] = [
   ...(range(0, 8)
     .map((value) => [value, `-${value}`])
     .flat() as Space[]),

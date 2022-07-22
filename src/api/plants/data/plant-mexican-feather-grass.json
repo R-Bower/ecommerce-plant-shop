@@ -1,0 +1,96 @@
+{
+  "careGuide": [
+    {
+      "id": "Light",
+      "label": "Light High",
+      "value": [
+        "Place your plant in full sun (6-8 hours)."
+      ]
+    },
+    {
+      "id": "Water",
+      "label": "Water Low",
+      "value": [
+        "Let the soil dry out between waterings."
+      ]
+    },
+    {
+      "id": "Humidity",
+      "label": "Humidity Medium",
+      "value": [
+        "Average humidity will help keep the foliage hydrated during the hottest of days."
+      ]
+    },
+    {
+      "id": "Temperature",
+      "label": "60°F to 86°F",
+      "value": [
+        "This plant is a perennial grass and will reseed itself, going dormant after the first frost in the fall."
+      ]
+    },
+    {
+      "id": "Hardiness Zones",
+      "label": "Hardiness Zones 6|7|8|9|10",
+      "value": [
+        "This plant is invasive in some parts of the country. Please check with your extension agent before planting."
+      ]
+    },
+    {
+      "id": "Fertilizing",
+      "label": "Fertilizing Yearly",
+      "value": [
+        "Add organic compost around the plant in the spring or a balanced granular fertilizer each year. Scratch the soil's surface, spread the fertilizer, then cover up with the existing soil and mulch."
+      ]
+    },
+    {
+      "id": "Re-potting",
+      "label": "Re-potting Rarely",
+      "value": [
+        "To transplant into the garden bed, water your plant the night before. Dig the hole twice as wide as the grower pot and the same depth as the grower pot (not deeper). Remove the plant and center in the spot. Add rooting hormone around the roots of the plant. Water in the hole and let drain. If you have clay soils, add compost to enhance the soil consistency. Fill around the plant and up to the top of its soil line. Tamp down with your hands to remove any air pockets. Water again around the drip line."
+      ]
+    },
+    {
+      "id": "Cleaning",
+      "label": "Cleaning As needed",
+      "value": [
+        "In late winter, cut the old-growth back to 6 inches to promote fresh foliage in the spring. Tie the grass up with rope or duck tape, then sheer it with a sterilized sharp knife or electric hedge shears. Place the leftover foliage in a compost pile."
+      ]
+    },
+    {
+      "id": "Propagation",
+      "label": "Propagation Division",
+      "value": [
+        "Division: After the plant is fully established (three or more years), dig up the plant, ensuring you capture all the roots. Remove the root ball and slice through the roots with a sharp knife or pruners. Replant in a full sun spot (6-8 hours) in rich soil with good drainage or a container plant mix. Dig the hole twice as wide and the same depth as the original. Add root hormone at the bottom of the hole, place the root ball in the center, and water. Add compost and supplemental garden soil mixed with the native soil to the hole. Water around the plant again and keep the soil consistently moist the first year but not soggy."
+      ]
+    }
+  ],
+  "description": [],
+  "id": "mexican-feather-grass",
+  "metadata": [
+    {
+      "id": "pet-safe",
+      "label": "Pet Safe",
+      "value": "Yes"
+    },
+    {
+      "id": "care-level",
+      "label": "Care Level",
+      "value": "I'm Easy"
+    }
+  ],
+  "title": "Mexican Feather Grass",
+  "variants": [
+    {
+      "planters": [
+        {
+          "imgSrc": "mexican-feather-grass_oneGallon_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$54.00"
+        }
+      ],
+      "sizeId": "oneGallon",
+      "sizeLabel": "1G"
+    }
+  ]
+}

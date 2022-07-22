@@ -18,7 +18,6 @@ export default class MyDocument extends Document {
             as={"font"}
             crossOrigin={""}
             href={"/fonts/AvenirNextLTPro-Regular.otf"}
-            rel={"preload"}
             type={"font/otf"}
           />
 
@@ -26,30 +25,8 @@ export default class MyDocument extends Document {
             as={"font"}
             crossOrigin={""}
             href={"/fonts/AvenirNextLTPro-Bold.otf"}
-            rel={"preload"}
             type={"font/otf"}
           />
-
-          {/* @ts-ignore */}
-          <style global jsx>
-            {`
-              @font-face {
-                font-family: "Avenir Next";
-                font-style: normal;
-                font-weight: 400;
-                font-display: swap;
-                src: url("/fonts/AvenirNextLTPro-Regular.otf")
-                  format("opentype");
-              }
-              @font-face {
-                font-family: "Avenir Next";
-                font-style: normal;
-                font-weight: 500;
-                font-display: swap;
-                src: url("/fonts/AvenirNextLTPro-Bold.otf") format("opentype");
-              }
-            `}
-          </style>
         </Head>
         <body>
           <Main />

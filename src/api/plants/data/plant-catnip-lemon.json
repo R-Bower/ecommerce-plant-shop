@@ -1,0 +1,96 @@
+{
+  "careGuide": [
+    {
+      "id": "Light",
+      "label": "Light High",
+      "value": [
+        "Place this plant in full sun (6-8 hours) to part sun (4-6)."
+      ]
+    },
+    {
+      "id": "Water",
+      "label": "Water Medium",
+      "value": [
+        "Keep the plant moist until it is established and then water when the soil dries."
+      ]
+    },
+    {
+      "id": "Humidity",
+      "label": "Humidity Medium",
+      "value": [
+        "Provide good air circulation around this plant in areas with high humidity to prevent fungi."
+      ]
+    },
+    {
+      "id": "Temperature",
+      "label": "55°F to 85°F",
+      "value": [
+        "Best temperatures to grow catnip is 55°F-85°F. This plant will suffer hotter and more humid climates."
+      ]
+    },
+    {
+      "id": "Hardiness Zones",
+      "label": "Hardiness Zones 3|4|5|6|7|8|9",
+      "value": [
+        "This cultivar will grow as a perennial in plant hardiness zones 3-9."
+      ]
+    },
+    {
+      "id": "Fertilizing",
+      "label": "Fertilizing Seasonally",
+      "value": [
+        "When planting add compost to the hole or around the dripline each year."
+      ]
+    },
+    {
+      "id": "Re-potting",
+      "label": "Re-potting Rarely",
+      "value": [
+        "To transplant into a garden container or the garden bed, water your plant the night before. Dig the hole twice as wide as the grower pot and slightly shorter than the grower pot (not deeper) to raise the crown. Remove the plant and center in the spot. Add rooting hormone around the roots of the plant. Water in the hole and let drain. Add soil amendments like organic compost to enhance the soil consistency and ensure its well-draining. Fill around the plant and up to the top of its soil line. Tamp down with your hands to remove any air pockets. Water again around the drip line."
+      ]
+    },
+    {
+      "id": "Cleaning",
+      "label": "Cleaning As needed",
+      "value": [
+        "This plant has the same characteristics as mint and can get invasive. Keep this plant in a container or keep it pruned to avoid further spreading past its boundaries. Prune off the flowers to prevent them from going to seed. After the first frost in the fall, cut back the stems to a few inches from the ground. This plant will regrow in the spring as a perennial."
+      ]
+    },
+    {
+      "id": "Propagation",
+      "label": "Propagation Cuttings",
+      "value": [
+        "When plants grow lots of foliage in the spring, prune a 4-inch stem cutting. Cut the stem just below a leaf node. Remove leaves on 1/3 of the bottom half of the branch with pruners. (Do not tear off.) Dip the roots' ends and place down to the first leaf intersection in the damp, well-draining, seedling mixture. Tamp down around the stem to secure them. Use a 2-3 inch container with a 5 inch deep base with deep drainage for the roots to grow. Set it in bright, indirect sunlight while they are rooting. The soil needs to be at 70°F. Check the moisture each day and add misting to the soil (not the leaves) while the roots establish. After 3-4 weeks, roots will begin to form. You can tug onto the stem to ensure the roots establish after new growth begins. Place the cuttings in the morning sun for a couple of hours each day to harden them off. Increase the time each day and check to ensure the leaves aren't getting sunburnt. Once they have transitioned into the sun, you can transplant them to the garden after the roots are mature."
+      ]
+    }
+  ],
+  "description": [],
+  "id": "catnip-lemon",
+  "metadata": [
+    {
+      "id": "pet-safe",
+      "label": "Pet Safe",
+      "value": "Yes"
+    },
+    {
+      "id": "care-level",
+      "label": "Care Level",
+      "value": "I'm Easy"
+    }
+  ],
+  "title": "Catnip Lemon",
+  "variants": [
+    {
+      "planters": [
+        {
+          "imgSrc": "catnip-lemon_small_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$38.00"
+        }
+      ],
+      "sizeId": "small",
+      "sizeLabel": "S"
+    }
+  ]
+}

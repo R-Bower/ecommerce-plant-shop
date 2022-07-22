@@ -1,0 +1,144 @@
+{
+  "careGuide": [
+    {
+      "id": "Light",
+      "label": "Light High",
+      "value": [
+        "Indoors: Bright, indirect light Outdoors: Morning part shade (4-6 hours)"
+      ]
+    },
+    {
+      "id": "Water",
+      "label": "Water High",
+      "value": [
+        "Keep the soil consistently moist (but not soggy). Let them dry between waterings on the top 1-2 inches of the soil. Use filtered, bottled, or tap water sitting 24 hours to release the chemicals and water enough that the water discharges out of the drainage holes. Once the water is fully drained, replace them into the cache or decorative pot."
+      ]
+    },
+    {
+      "id": "Humidity",
+      "label": "Humidity High",
+      "value": [
+        "Keep high humidity around this plant at an average of 65-80%. Add a gravel tray, or use a humidifier or group with other plants. Don't spritz as it can cause foliar disease."
+      ]
+    },
+    {
+      "id": "Temperature",
+      "label": "36°F to 77°F",
+      "value": [
+        "The Elephant Ear 'Dark Star' is more cold tolerant than most Elephant Ear Plants. Keep this big baby above freezing and watch them thrive!"
+      ]
+    },
+    {
+      "id": "Hardiness Zones",
+      "label": "Hardiness Zones 10|11",
+      "value": [
+        "Outdoors in part to full sun (4-8 hours), where nights are above 65°F. Acclimate this plant to full sun over a month."
+      ]
+    },
+    {
+      "id": "Fertilizing",
+      "label": "Fertilizing Monthly",
+      "value": [
+        "Add a balanced liquid fertilizer at a quarter strength when watering indoors during the growing season between spring and summer. Give them a rest during the winter months. Use a slow-release fertilizer during the growing season in the garden beds."
+      ]
+    },
+    {
+      "id": "Re-potting",
+      "label": "Re-potting 2 Years",
+      "value": [
+        "Indoors: Repot the Alocasia Dark Star when the plant is rootbound (more roots than soil) in early spring before growth starts. Hydrate the plant in the pot before transplanting or dividing and let rest for an hour. Plant in a 2\" bigger container in diameter and slightly deeper than the existing planter. Use an indoor container mix that is well-draining mixed with a third cactus mix for good drainage. Add soil to the bottom to elevate the root ball. Lift the plant and inspect the root ball. Notice if there are any dead or rotting roots and trim off with sterile pruners. If the plant is rootbound, untangle the roots to alleviate continued encircling. Trim up the side of the root ball so new roots will form. Ensure the plant is sitting about 1\" below the edge of the pot to avoid water spillage. Add more soil and backfill around the sides by tamping down. Do not cover the current level of soil on the plant but add soil up to this level. Water thoroughly, leaving the soil damp but not soggy. Add more soil after watering if the soil settles.",
+        "Outdoors: Before planting or repotting in a container, water the plant in the grower pot well. Find a spot in the garden where there are at least 4-8 hours of direct sunlight each day. Be generous by digging a hole twice the pot's width and 1 inch shorter than the grower pot to raise it above the soil level for good drainage. Use a pitchfork or a sharp object to stab the soil walls to make several indentions for the roots to take hold. Tickle the roots to loosen them if they wrap inside the container. Place the plant in the center of the hole. Fill the hole with water first, so the roots get another good drink. Next, backfill with native soil mixed with compost by one third to one half (if the native soil is clay). Add a rooting hormone fertilizer to this backfill mixture. Tamp the soil firmly down around the edges and mound up. Avoid covering the original soil level of the plant that was in the container. Add mulch as needed but not next to the stem or branches of the plant. Water lightly. Continue to observe the soil moisture each day, depending on the temperatures and soil drainage."
+      ]
+    },
+    {
+      "id": "Cleaning",
+      "label": "Cleaning Monthly",
+      "value": [
+        "Gently wipe clean with a soft damp cloth or paper towel. Work gently from the stem's base toward the tip of the leaf doing both sides at once. After cleaning the leaves, remove any dead leaves or debris on the surface of the soil. At this time, keep a lookout for pests and treat or remove them. Refresh the soil mixture if needed. Wear gloves to prune away dead, damaged, or diseased leaves down to the stem base with sterile scissors or a knife (The sap can irritate the skin). If leaves become heavy and the stems droop, staking may be needed to keep them lifted."
+      ]
+    },
+    {
+      "id": "Propagation",
+      "label": "Propagation Division",
+      "value": [
+        "Propagate your Alocasia by dividing the established plant. Remove the clump from the container after watering to help loosen the soil. Wash off the soil and gently brush away the soil from their roots. Identify where the stalks are attached to the roots. Take a sharp, sterilized garden knife and split the clump in half or thirds or split with your hands. Keep the knife disinfected as cuts are made throughout the root system to avoid spreading diseases. Divide the clumps carefully. Follow our potting instructions to keep your new baby plant happy!"
+      ]
+    }
+  ],
+  "description": [],
+  "id": "alocasia-dark-star-elephant-ear",
+  "metadata": [
+    {
+      "id": "pet-hazard",
+      "label": "Pet Hazard",
+      "value": "Toxic To Touch"
+    },
+    {
+      "id": "care-level",
+      "label": "Care Level",
+      "value": "High Maintenance"
+    },
+    {
+      "id": "overall-size",
+      "label": "Overall Size",
+      "value": "6\" to 12\" W 10\" to 18\" H"
+    }
+  ],
+  "title": "Alocasia Dark Star Elephant Ear",
+  "variants": [
+    {
+      "planters": [
+        {
+          "imgSrc": "alocasia-dark-star-elephant-ear_medium_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$50.00"
+        },
+        {
+          "imgSrc": "alocasia-dark-star-elephant-ear_medium_planter-eco-planter.jpg",
+          "planterId": "planter-eco-planter",
+          "planterLabel": "Eco Pot",
+          "price": "$56.00"
+        },
+        {
+          "imgSrc": "alocasia-dark-star-elephant-ear_medium_planter-naturals-basket.jpg",
+          "planterId": "planter-naturals-basket",
+          "planterLabel": "Baskets",
+          "price": "$62.00"
+        },
+        {
+          "imgSrc": "alocasia-dark-star-elephant-ear_medium_planter-ceramic.jpg",
+          "planterId": "planter-ceramic",
+          "planterLabel": "Ceramic",
+          "price": "$64.00"
+        }
+      ],
+      "sizeId": "medium",
+      "sizeLabel": "M"
+    },
+    {
+      "planters": [
+        {
+          "imgSrc": "alocasia-dark-star-elephant-ear_extra-large_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$118.00"
+        },
+        {
+          "imgSrc": "alocasia-dark-star-elephant-ear_extra-large_planter-eco-planter.jpg",
+          "planterId": "planter-eco-planter",
+          "planterLabel": "Eco Pot",
+          "price": "$128.00"
+        },
+        {
+          "imgSrc": "alocasia-dark-star-elephant-ear_extra-large_planter-naturals-basket.jpg",
+          "planterId": "planter-naturals-basket",
+          "planterLabel": "Baskets",
+          "price": "$138.00"
+        }
+      ],
+      "sizeId": "extra-large",
+      "sizeLabel": "XL"
+    }
+  ]
+}

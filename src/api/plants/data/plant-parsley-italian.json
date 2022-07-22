@@ -1,0 +1,119 @@
+{
+  "careGuide": [
+    {
+      "id": "Light",
+      "label": "Light High",
+      "value": [
+        "Plant this herb in full sun (6-8 hours) to part sun (4-6 hours) with afternoon shade."
+      ]
+    },
+    {
+      "id": "Water",
+      "label": "Water Medium",
+      "value": [
+        "Keep the soil consistently moist but not soggy."
+      ]
+    },
+    {
+      "id": "Humidity",
+      "label": "Humidity Medium",
+      "value": [
+        "This herb is used to average humidity climates similar to the Mediterranean."
+      ]
+    },
+    {
+      "id": "Temperature",
+      "label": "50°F to 90°F",
+      "value": [
+        "This herb needs afternoon shade and a drop in the temperatures at night."
+      ]
+    },
+    {
+      "id": "Hardiness Zones",
+      "label": "Hardiness Zones 4|5|6|7|8|9",
+      "value": [
+        "This is a biennial culinary herb and only spreads by seed—therefore, plant in consecutive years."
+      ]
+    },
+    {
+      "id": "Fertilizing",
+      "label": "Fertilizing Seasonally",
+      "value": [
+        "Apply a balanced fertilizer around the base of the plant in every six weeks during the growing season."
+      ]
+    },
+    {
+      "id": "Re-potting",
+      "label": "Re-potting Rarely",
+      "value": [
+        "To transplant into a garden container or the garden bed, water your plant the night before. Dig the hole twice as wide as the grower pot and the same depth as the grower pot (not deeper). Remove the plant and center in the spot. Add rooting hormone around the roots of the plant. Water in the hole and let drain. If you have clay soils, add composted leaves, to enhance the soil consistency. Check to ensure your pH levels are between 5.5-6.7 with our 3 in1 plant meter. Fill around the plant and up to the top of its soil line. Tamp down with your hands to remove any air pockets. Water again around the drip line."
+      ]
+    },
+    {
+      "id": "Cleaning",
+      "label": "Cleaning As needed",
+      "value": [
+        "To harvest, trim stems around the outer edges. Trimming will promote more growth."
+      ]
+    },
+    {
+      "id": "Propagation",
+      "label": "Propagation Seeds",
+      "value": [
+        "Since Italian Parsley is a biennial, you will need to plant him for two consecutive years to harvest each year. To extract the seeds, the plant flowers and dries first. Trim the Parsley with the seed heads and place into a bag to lightly remove the seeds. Dry the seeds in a warm place by turning them daily on a paper plate or towel for two weeks. Label and store in an envelope and place in an unused refrigerator for up to three years. To plant, use well-draining soil with rich nutrients and compost. The pH should be between 6-7. Use our 3 in 1 plant meter to test the pH. Soak the seeds in warm, soapy water for an hour. This procedure will break the outer layer of the seeds and help them germinate faster. Afterward, rinse the seeds in a colander with warm running water to remove the soap. Place the seeds in a warm bowl of water to soak overnight to help with germination. Then strain and place on wax paper to dry completely before planting. Prepare seed trays with well-draining moist soil for seedlings. Start this process 2-4 months before the last frost date in your area. Plant the seeds in 1/2 inch of soil and 12 inches apart if growing outside. Once the plant has germinated at around 70°F, let it grow to 3 inches before transplanting into the garden. Keep the seedlings in bright light or under grow lights to germinate."
+      ]
+    }
+  ],
+  "description": [],
+  "id": "parsley-italian",
+  "metadata": [
+    {
+      "id": "pet-warning",
+      "label": "Pet Warning",
+      "value": "Toxic To Ingest"
+    },
+    {
+      "id": "care-level",
+      "label": "Care Level",
+      "value": "I'm Easy"
+    },
+    {
+      "id": "overall-size",
+      "label": "Overall Size",
+      "value": "4\" to 16\" W 16\" to 18\" H"
+    }
+  ],
+  "title": "Parsley Italian",
+  "variants": [
+    {
+      "planters": [
+        {
+          "imgSrc": "parsley-italian_small_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$38.00"
+        },
+        {
+          "imgSrc": "parsley-italian_small_planter-eco-planter.jpg",
+          "planterId": "planter-eco-planter",
+          "planterLabel": "Eco Pot",
+          "price": "$43.00"
+        },
+        {
+          "imgSrc": "parsley-italian_small_planter-naturals-basket.jpg",
+          "planterId": "planter-naturals-basket",
+          "planterLabel": "Baskets",
+          "price": "$48.00"
+        },
+        {
+          "imgSrc": "parsley-italian_small_planter-ceramic.jpg",
+          "planterId": "planter-ceramic",
+          "planterLabel": "Ceramic",
+          "price": "$50.00"
+        }
+      ],
+      "sizeId": "small",
+      "sizeLabel": "S"
+    }
+  ]
+}

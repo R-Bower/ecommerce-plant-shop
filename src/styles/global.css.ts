@@ -9,9 +9,16 @@ import {theme} from "./theme.css"
 export const fontFamily = `'Avenir Next', sans-serif`
 
 const commonTextProps: ComplexStyleRule = {
-  color: theme.color.text.primary,
+  color: theme.color.textPrimary,
   fontFamily,
 }
+
+globalFontFace(`"Avenir Next", sans-serif`, {
+  fontDisplay: "swap",
+  fontStyle: "normal",
+  fontWeight: 400,
+  src: 'url("/fonts/AvenirNextLTPro-Regular.otf") format("opentype")',
+})
 
 globalStyle("html", {
   fontFamily: "'Red Hat Text', sans-serif",
@@ -34,10 +41,11 @@ globalStyle("h1, h2, h3, h4, h5", {
 
 globalStyle("body", {
   margin: 0,
+  width: "calc(100vw - 15px)",
 })
 
 globalStyle("html, body, ul, li", {
-  color: theme.color.text.primary,
+  color: theme.color.textPrimary,
   fontFamily,
   margin: 0,
   padding: 0,
@@ -49,8 +57,8 @@ globalFontFace(fontFamily, {
 })
 
 globalStyle("#app", {
-  backgroundColor: theme.color.background.dark,
-  color: theme.color.text.primary,
+  backgroundColor: theme.color.backgroundDark,
+  color: theme.color.textPrimary,
   margin: 0,
   minHeight: "100vh",
   minWidth: "100vw",

@@ -1,0 +1,93 @@
+{
+  "careGuide": [
+    {
+      "id": "Light",
+      "label": "Light High",
+      "value": [
+        "Plant your flower in full sun (6-8 hours)."
+      ]
+    },
+    {
+      "id": "Water",
+      "label": "Water Medium",
+      "value": [
+        "When planting Dahlia tubers, wait until green shoots emerge in the spring to start watering. Then water each week or water more depending on heat and soil moisture intensity. Set up a drip irrigation system around them for consistency in the heat of summer."
+      ]
+    },
+    {
+      "id": "Humidity",
+      "label": "Humidity Medium",
+      "value": [
+        "Average humidity will help keep the foliage hydrated during the hottest of days."
+      ]
+    },
+    {
+      "id": "Temperature",
+      "label": "60°F to 80°F",
+      "value": [
+        "Plant dahlias after the last frost date. When temps reach above 80°F, your dahlia will stop blooming. Once temperatures decrease, blooms will start again. If you're in warmer climates, place your plant where it will get shade from the hot afternoon heat."
+      ]
+    },
+    {
+      "id": "Hardiness Zones",
+      "label": "Hardiness Zones 8|9|10",
+      "value": [
+        "If you're in planting zone 8-10, leave your tubers in the ground during the winter months. Otherwise, lift the tubers and store them in a cool, dry place such as a cellar during the winter months."
+      ]
+    },
+    {
+      "id": "Fertilizing",
+      "label": "Fertilizing Monthly",
+      "value": [
+        "Your dahlia will need a fertilizer high in potassium and phosphorus or one for blooming plants. Apply it monthly for ground plants and bi-monthly for potted plants."
+      ]
+    },
+    {
+      "id": "Re-potting",
+      "label": "Re-potting Rarely",
+      "value": [
+        "To transplant into a garden container or the garden bed, water your plant the night before. Dig the hole twice as wide as the grower pot and the same depth as the grower pot (not deeper). Remove the plant and center in the spot. Add rooting hormone around the roots of the plant. Water in the hole and let drain. If you have clay soils, add compost to enhance the soil consistency. Fill around the plant and up to the top of its soil line. Tamp down with your hands to remove any air pockets. Water again around the drip line."
+      ]
+    },
+    {
+      "id": "Cleaning",
+      "label": "Cleaning As needed",
+      "value": [
+        "When the plant reaches 8-12 inches tall, use pruners and take 3-4 inches off the main stem to encourage more flower branching. Remove spent blooms to encourage more flower production."
+      ]
+    },
+    {
+      "id": "Propagation",
+      "label": "Propagation Division|Stem Cutting",
+      "value": [
+        "Stem cutting: When plants begin to grow lots of foliage in the spring, prune 4-6 inch stem cuttings with no buds or bloom from the parent plant. Remove leaves on 1/3 of the bottom half of the stem with pruners. (Do not tear off.) Dip the ends in root hormone (mixed in water at a paste consistency) and place down to the first leaf intersection in the damp, well-draining, potting soil mix with perlite. Tamp down around the stem to secure them. Use a 2-3 inch container with a 5 inch deep base with deep drainage for the roots to grow. Mist inside a clear plastic bag to create moisture and humidity and place the bag over the top of the plantings loosely. There is no need to tie off the bag but allow a little airflow under and into the planting pot. Set it in bright, indirect sunlight while they are rooting. Check the moisture and humidity each day and add misting to the soil (not the leaves) while the roots establish. After 3-4 weeks, roots will begin to form. You can tug onto the stem to ensure the roots establish after new growth begins. Transplant to the garden after the roots are mature.",
+        "Division: Wait to dig up your tubers three weeks after the last hard frost when all your annuals have died. Waiting this long will help toughen the skins and help protect them against shriveling and rot. Trim all the blackened stalks away and remove them. (If you live in a warmer climate, trim off the stems and foliage down to the ground to start the curing process two weeks before digging.) Use a pitchfork to dig up the tubers, place it about a foot away from the central stalk, and rock it back and forth to loosen the soil around the tubers. Go around the plant doing this, then gently lift the clump out of the ground. Hose off the tuber clump removing all the soil from the crevices. Lay them out to air dry in a well-ventilated area above 40°F. Within 24 hours, start splitting the clusters. Remove any broken or damaged tubers, including those with broken necks. Use sharp pruners and clip apart each tuber with a strong neck and visible eyes. Each eye is where a sprout will form. Prune any hairy roots or chunks around the neck. Each tuber should have a body, eye, and strong neck. Lay them all out and let them dry for a day before they start dehydrating and shriveling. If you have several varieties, label them with a permanent marker on the body of the tuber. Sprinkle the tubers with a powder fungicide such as sulfur dust to prevent disease and rot. To store, use a plastic bin, fill the bottom with vermiculite, and lay the tubers side by side but not touching. Then pour a layer of vermiculite over them so they're all covered, and repeat until the bin is full. Drill 2-3 holes in the plastic lid to help moisture expire. Store your container in an area between 40-50°F and 85 to 95% humidity. Check your tubers monthly for any rotting or mold and remove them.",
+        "If you're in a hardy USDA growing zone of 9 or above, you can leave the tubers in the ground over the winter. Then, in the spring (May in most locations after the last frost), carefully dig them up, divide the tubers and replant them in several areas in the landscape or decorative patio containers."
+      ]
+    }
+  ],
+  "description": [],
+  "id": "dahlia-karma-corona-pink",
+  "metadata": [
+    {
+      "id": "pet-hazard",
+      "label": "Pet Hazard",
+      "value": "Toxic To Touch"
+    }
+  ],
+  "title": "Dahlia Karma Corona Pink",
+  "variants": [
+    {
+      "planters": [
+        {
+          "imgSrc": "dahlia-karma-corona-pink_oneGallon_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$42.00"
+        }
+      ],
+      "sizeId": "oneGallon",
+      "sizeLabel": "1G"
+    }
+  ]
+}

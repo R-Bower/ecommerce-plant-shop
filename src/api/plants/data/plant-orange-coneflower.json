@@ -1,0 +1,83 @@
+{
+  "careGuide": [
+    {
+      "id": "Light",
+      "label": "Light High",
+      "value": [
+        "Place your plant in full sun (6-8 hours)."
+      ]
+    },
+    {
+      "id": "Water",
+      "label": "Water Medium",
+      "value": [
+        "Keep the soil consistently moist for the first two years until the plant acclimates and establishes its roots. Water when the ground becomes dry or during drought conditions."
+      ]
+    },
+    {
+      "id": "Humidity",
+      "label": "Humidity Low",
+      "value": [
+        "This plant is used to dry and less humid conditions."
+      ]
+    },
+    {
+      "id": "Temperature",
+      "label": "65°F to 85°F",
+      "value": [
+        "This plant will thrive, in hot, dry climates once established."
+      ]
+    },
+    {
+      "id": "Hardiness Zones",
+      "label": "Hardiness Zones 4|5|6|7|8|9",
+      "value": [
+        "This plant will naturalize in planting zone 4-9."
+      ]
+    },
+    {
+      "id": "Fertilizing",
+      "label": "Fertilizing Yearly",
+      "value": [
+        "Add organic compost around the plant in the spring or a balanced granular fertilizer each year. Scratch the soil's surface, spread the fertilizer, then cover up with the existing soil and mulch."
+      ]
+    },
+    {
+      "id": "Re-potting",
+      "label": "Re-potting Rarely",
+      "value": [
+        "To transplant into a garden container or the garden bed, water your plant the night before. Dig the hole twice as wide as the grower pot and the same depth as the grower pot (not deeper). Remove the plant and center in the spot. Add rooting hormone around the roots of the plant. Water in the hole and let drain. If you have clay soils, add compost to enhance the soil consistency. Fill around the plant and up to the top of its soil line. Tamp down with your hands to remove any air pockets. Water again around the drip line."
+      ]
+    },
+    {
+      "id": "Cleaning",
+      "label": "Cleaning After bloom begins to die",
+      "value": [
+        "Deadheading isn't necessary but will promote more blooms. The dead flowers can be left on the plant at the end of the season. The center seed-cone will feed the birds throughout the winter."
+      ]
+    },
+    {
+      "id": "Propagation",
+      "label": "Propagation Seeds",
+      "value": [
+        "Collect the seeds from the stiff cone and separate them. Let them dry for a couple of days in an airy, dry area. Sow the seeds in the ground about an inch deep and cover in well-draining rich soil in the fall. The seeds will need cold stratification to break dormancy. If you don't have a cold climate, keep them in a refrigerator during the winter months for 8-10 weeks before planting outside. Place a marker where the seeds are planted. When the soil reaches 65°F-70°F, seedlings will pop out in about 10-20 days. Keep the soil moist but not soggy."
+      ]
+    }
+  ],
+  "description": [],
+  "id": "orange-coneflower",
+  "metadata": [
+    {
+      "id": "pet-safe",
+      "label": "Pet Safe",
+      "value": "Yes"
+    },
+    {
+      "id": "care-level",
+      "label": "Care Level",
+      "value": "I'm Easy"
+    }
+  ],
+  "title": "Orange Coneflower",
+  "variants": []
+}

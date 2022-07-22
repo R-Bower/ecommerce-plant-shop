@@ -3,29 +3,12 @@ import {createSprinkles, defineProperties} from "@vanilla-extract/sprinkles"
 import {
   conditions,
   defaultCondition,
-  flex,
-  fontSize,
-  fontWeight,
   leftTopRightBottom,
-  letterSpacing,
-  lineHeight,
-  size,
-  space,
+  systemFlex,
+  systemSize,
+  systemSpace,
 } from "./system"
 import {theme} from "./theme.css"
-
-const fontProperties = defineProperties({
-  conditions,
-  defaultCondition,
-  properties: {
-    fontSize,
-    fontWeight,
-    letterSpacing,
-    lineHeight,
-    textTransform: ["inherit", "capitalize", "uppercase", "lowercase"],
-  },
-  responsiveArray: ["default", "mobile", "tablet", "desktop"],
-})
 
 /*
  * Common CSS properties for layout components.
@@ -36,21 +19,17 @@ const sxProperties = defineProperties({
   properties: {
     alignItems: ["stretch", "flex-start", "center", "flex-end"],
     alignSelf: ["stretch", "flex-start", "center", "flex-end"],
+    backgroundColor: theme.color,
     bottom: leftTopRightBottom,
     boxShadow: theme.shadows,
-    columnGap: space,
-    display: [
-      "flex",
-      "inline-flex",
-      "grid",
-      "block",
-      "inline-block",
-      "inline",
-      "none",
-    ],
-    flex,
+    color: theme.color,
+    columnGap: systemSpace,
+    cursor: ["initial", "pointer"],
+    display: ["flex", "inline-flex", "none"],
+    fill: theme.color,
+    flex: systemFlex,
     flexDirection: ["row", "column", "column-reverse", "row-reverse"],
-    height: size,
+    height: systemSize,
     justifyContent: [
       "stretch",
       "flex-start",
@@ -60,24 +39,24 @@ const sxProperties = defineProperties({
       "space-between",
     ],
     left: leftTopRightBottom,
-    marginBottom: space,
-    marginLeft: space,
-    marginRight: space,
-    marginTop: space,
-    maxHeight: size,
-    maxWidth: size,
-    minHeight: size,
-    minWidth: size,
-    paddingBottom: space,
-    paddingLeft: space,
-    paddingRight: space,
-    paddingTop: space,
+    marginBottom: systemSpace,
+    marginLeft: systemSpace,
+    marginRight: systemSpace,
+    marginTop: systemSpace,
+    maxHeight: systemSize,
+    maxWidth: systemSize,
+    minHeight: systemSize,
+    minWidth: systemSize,
+    paddingBottom: systemSpace,
+    paddingLeft: systemSpace,
+    paddingRight: systemSpace,
+    paddingTop: systemSpace,
     position: ["fixed", "absolute", "relative", "static", "sticky"],
     right: leftTopRightBottom,
-    rowGap: space,
+    rowGap: systemSpace,
     top: leftTopRightBottom,
     whiteSpace: ["nowrap", "normal", "pre"],
-    width: size,
+    width: systemSize,
   },
   responsiveArray: ["default", "mobile", "tablet", "desktop"],
   shorthands: {
@@ -100,5 +79,4 @@ const sxProperties = defineProperties({
   },
 })
 
-export const font = createSprinkles(fontProperties)
 export const sx = createSprinkles(sxProperties)

@@ -1,0 +1,120 @@
+{
+  "careGuide": [
+    {
+      "id": "Light",
+      "label": "Light High",
+      "value": [
+        "Enjoys bright, direct sunlight."
+      ]
+    },
+    {
+      "id": "Water",
+      "label": "Water Low",
+      "value": [
+        "Use filtered, bottled, or tap water sitting 24 hours to release the chemicals and water enough that the water discharges out of the drainage holes. Once the water is fully drained, replace them into the cache or decorative pot."
+      ]
+    },
+    {
+      "id": "Humidity",
+      "label": "Humidity Low",
+      "value": [
+        "Requires no extra humidity"
+      ]
+    },
+    {
+      "id": "Temperature",
+      "label": "65°F to 80°F",
+      "value": [
+        "Keep this plant in rooms where the temperature is a comfortable 65°F-80°F and avoid cold drafts below 40°F."
+      ]
+    },
+    {
+      "id": "Hardiness Zones",
+      "label": "Hardiness Zones 8|9|10",
+      "value": [
+        "Outside: Keep them in full sun (6-8 hours) on a patio where nights are above 40°F."
+      ]
+    },
+    {
+      "id": "Fertilizing",
+      "label": "Fertilizing Weekly",
+      "value": [
+        "Apply at half-strength a balanced, liquid fertilizer especially formulated for indoor plants several times per month during the growing season between April and August. A slow release balanced fertilizer can be used as a top dressing instead of a liquid fertilizer. Avoid contact with the leaves to prevent leaf burn. Wash off the leaves if any fertilizer splashes onto them."
+      ]
+    },
+    {
+      "id": "Re-potting",
+      "label": "Re-potting 3 Years",
+      "value": [
+        "When receiving the Dwarf Olive plant, do not repot immediately but wait at least 6-12 months or if the roots are beginning to get crowded and growing through the drainage holes.",
+        "Repot in the spring, using a 2 inches bigger pot to keep the roots drier. (Too big of a pot could cause the soil to dry slower, which is not helpful.)",
+        "Place a piece of screening at the bottom of the container over the drainage hole to secure the soil and allow to drain. Use a succulent or cacti indoor potting mix with perlite to help with drainage.",
+        "Water your plant in the old pot before transferring over and let them sit an hour.",
+        "Add soil to the bottom to elevate the root ball. Lift the plant and release the roots against the existing planter. Use a clean knife or garden trowel to wedge between the pot and the soil to loosen.",
+        "Inspect the root ball. Notice if there are any dead or rotting roots and trim off with sterile pruners. If the plant is rootbound, cut through the roots to alleviate continued encircling.",
+        "Ensure the plant is sitting about 1 inch below the edge of the pot to avoid water spillage. Add more soil and backfill around the sides by tamping down. Fill up to the soil line but not over.",
+        "Water thoroughly, leaving the soil damp but not soggy. If settling occurs, add more soil.",
+        "Water well to dampen the soil and let drain."
+      ]
+    },
+    {
+      "id": "Cleaning",
+      "label": "Cleaning Bi-annually",
+      "value": [
+        "Prune your Dwarf olive plant during dormancy in the autumn and winter to keep them compact. Prune their branches to keep an attractive appearance. Use sterilized and sharp hand pruners to cut the stem at a 45° angle, 1/4-inch above where a leaf attaches to a limb."
+      ]
+    },
+    {
+      "id": "Propagation",
+      "label": "Propagation Cuttings",
+      "value": [
+        "In the growing season, hydrate the plant the night before taking cuttings. Take a young stem cutting between 4-6 inches long with several sets of leaves attached. Make the cut 1/4-inch below one of the sets of leaves.",
+        "Remove the lower leaves to expose the nodes (the spot where the leaves were attached)",
+        "Dip the end of the cuttings in water, then in a rooting hormone.",
+        "Use a pot with drainage. and place the stem 1-2 inches down into the damp, well-draining, moist potting soil mix amended with perlite. Tamp down around the stem to secure.",
+        "Place a clear plastic bag over the cutting to mimic a greenhouse and mist the bag. Set them in bright, indirect sunlight while they are rooting.",
+        "Check the moisture and humidity each day and add misting to keep the soil moist while the roots establish.",
+        "After 6-8 weeks, roots will begin to establish. You can tug onto the stem to ensure the roots are secure. Cut a slit in the plastic bag and continue to keep the plant's soil damp until rooting has developed. This will help acclimate the plant to normal humidity levels.",
+        "Once the roots are secure, transplant to their new home and place them in bright, indirect sunlight and water each week, providing them necessary temperatures and humidity."
+      ]
+    }
+  ],
+  "description": [
+    "Enjoy a bit of the Mediterranean in your own tropical paradise! Plant this dwarf shrub in a pot on the patio or as an evergreen hedge for privacy. They are non-fruiting and can be clipped or sheared into geometric shapes. They love full sun lending formality to the garden."
+  ],
+  "id": "dwarf-olive-tree",
+  "metadata": [
+    {
+      "id": "care-level",
+      "label": "Care Level",
+      "value": "I'm Easy"
+    }
+  ],
+  "title": "Dwarf Olive Tree",
+  "variants": [
+    {
+      "planters": [
+        {
+          "imgSrc": "dwarf-olive-tree_oneGallon_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$54.00"
+        }
+      ],
+      "sizeId": "oneGallon",
+      "sizeLabel": "1G"
+    },
+    {
+      "planters": [
+        {
+          "imgSrc": "dwarf-olive-tree_fiveGallon_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$98.00"
+        }
+      ],
+      "sizeId": "fiveGallon",
+      "sizeLabel": "5G"
+    }
+  ]
+}

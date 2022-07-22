@@ -1,0 +1,132 @@
+{
+  "careGuide": [
+    {
+      "id": "Light",
+      "label": "Light Medium",
+      "value": [
+        "Indoors in low to brightly lit areas; outdoors in full to moderate shade where nights are above 50°F. The lower light they get the slower they grow."
+      ]
+    },
+    {
+      "id": "Water",
+      "label": "Water Low",
+      "value": [
+        "If using a water meter, wait until they register 1-3 on the scale before watering. Use filtered, bottled, or tap water sitting 24 hours to release the chemicals and water enough that the water discharges out of the drainage holes. Once the water is fully drained, replace them into the cache or decorative pot. Avoid overwatering as they can suffer from root rot. During winter months, they need only to be watered every couple of months."
+      ]
+    },
+    {
+      "id": "Humidity",
+      "label": "Humidity Low",
+      "value": [
+        "Prefers low humidity."
+      ]
+    },
+    {
+      "id": "Temperature",
+      "label": "55°F to 85°F",
+      "value": [
+        "Indoors: 55-85°F but prefer warmer environments"
+      ]
+    },
+    {
+      "id": "Hardiness Zones",
+      "label": "Hardiness Zones 9|10|11",
+      "value": [
+        "Outside: Avoid temperatures that dip below 30°F in the wintertime. Overwinter inside in a bright, indirect light window or a greenhouse."
+      ]
+    },
+    {
+      "id": "Fertilizing",
+      "label": "Fertilizing Yearly",
+      "value": [
+        "Fertilize sparingly in the spring and summer apply at half-strength a balanced, liquid fertilizer especially formulated for indoor plants. Do not fertilize in the fall and winter months."
+      ]
+    },
+    {
+      "id": "Re-potting",
+      "label": "Re-potting 3 Years",
+      "value": [
+        "When receiving the Snake plant, do not repot immediately but wait at least 6-12 months. They like to be a bit root-bound. Repot in the spring, using a 2\" bigger pot to keep the roots drier. (Too big of a pot could cause the soil to dry slower, which is not helpful.) Use a succulent soilless potting mix with perlite to help with drainage. Place a piece of screening at the bottom of the container over the drainage hole to secure the soil and allow it to drain. Use a well-draining cacti and succulent potting mix with perlite to help with drainage. Water your plant in the old pot before transferring over and let them sit an hour. Add cacti and succulent soil to the bottom to elevate the root ball. Lift the plant and release the roots against the existing planter. Use a clean knife or garden trowel to wedge between the pot and the soil to loosen. Inspect the roots. Notice if there are any dead or rotting roots and trim off with sterile pruners. Ensure the plant is sitting about 1 inch below the edge of the pot to avoid water spillage. Add more soil and backfill around the sides by tamping down. Fill up to the soil line but not over. Water thoroughly, leaving the soil damp but not soggy. If settling occurs, add more soil. Water well to dampen the soil and let them drain."
+      ]
+    },
+    {
+      "id": "Cleaning",
+      "label": "Cleaning Monthly",
+      "value": [
+        "To clean the leaves and alleviate dust particles, give them a shower from above. Fill a watering can with filtered, distilled or tap water that has been sitting for 24 hours. Place the plant in a sink and lightly wash the leaves with a shower spray end watering can. Trim off discolored spots with a sterile knife. Remove any debris from the soil and replenish soil if needed. Inspect for any insects at this time."
+      ]
+    },
+    {
+      "id": "Propagation",
+      "label": "Propagation Division",
+      "value": [
+        "Propagate by division when repotting. Use clean pruners to divide multiple sections of rhizomes. When dividing each section, include the roots hairs growing off the rhizomes. Use a rooting hormone fertilizer with cacti and succulent soil to replant into and water well."
+      ]
+    }
+  ],
+  "description": [],
+  "id": "black-coral-snake-plant",
+  "metadata": [
+    {
+      "id": "pet-warning",
+      "label": "Pet Warning",
+      "value": "Toxic To Ingest"
+    },
+    {
+      "id": "care-level",
+      "label": "Care Level",
+      "value": "I'm Easy"
+    }
+  ],
+  "title": "Black Coral Snake Plant",
+  "variants": [
+    {
+      "planters": [
+        {
+          "imgSrc": "black-coral-snake-plant_medium_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$118.00"
+        },
+        {
+          "imgSrc": "black-coral-snake-plant_medium_planter-eco-planter.jpg",
+          "planterId": "planter-eco-planter",
+          "planterLabel": "Eco Pot",
+          "price": "$124.00"
+        },
+        {
+          "imgSrc": "black-coral-snake-plant_medium_planter-naturals-basket.jpg",
+          "planterId": "planter-naturals-basket",
+          "planterLabel": "Baskets",
+          "price": "$130.00"
+        }
+      ],
+      "sizeId": "medium",
+      "sizeLabel": "M"
+    },
+    {
+      "planters": [
+        {
+          "imgSrc": "black-coral-snake-plant_extra-large_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$118.00"
+        },
+        {
+          "imgSrc": "black-coral-snake-plant_extra-large_planter-eco-planter.jpg",
+          "planterId": "planter-eco-planter",
+          "planterLabel": "Eco Pot",
+          "price": "$128.00"
+        },
+        {
+          "imgSrc": "black-coral-snake-plant_extra-large_planter-naturals-basket.jpg",
+          "planterId": "planter-naturals-basket",
+          "planterLabel": "Baskets",
+          "price": "$138.00"
+        }
+      ],
+      "sizeId": "extra-large",
+      "sizeLabel": "XL"
+    }
+  ]
+}

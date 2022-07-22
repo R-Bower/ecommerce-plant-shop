@@ -2,65 +2,60 @@ import {createGlobalTheme} from "@vanilla-extract/css"
 
 export const theme = createGlobalTheme("#app", {
   color: {
-    action: {
-      active: "#fff",
-      disabled: "rgba(255, 255, 255, 0.3)",
-      disabledBackground: "rgba(255, 255, 255, 0.12)",
-      focus: "rgba(255, 255, 255, 0.12)",
-      hover: "rgba(255, 255, 255, 0.08)",
-      selected: "rgba(255, 255, 255, 0.16)",
-    },
-    background: {
-      dark: "#E0E0E0",
-      elevation: {
-        1: "linear-gradient(0deg, rgba(208, 188, 255, 0.05), rgba(208, 188, 255, 0.05)), #1C1B1F",
-        2: "linear-gradient(0deg, rgba(208, 188, 255, 0.08), rgba(208, 188, 255, 0.08)), #1C1B1F",
-        3: "linear-gradient(0deg, rgba(208, 188, 255, 0.11), rgba(208, 188, 255, 0.11)), #1C1B1F",
-        4: "linear-gradient(0deg, rgba(208, 188, 255, 0.12), rgba(208, 188, 255, 0.12)), #1C1B1F",
-        5: "linear-gradient(0deg, rgba(208, 188, 255, 0.14), rgba(208, 188, 255, 0.14)), #1C1B1F",
-      },
-      main: "#FFFFFF",
-    },
-    border: {
-      active: "#E0E0E0",
-      disable: "rgba(131, 131, 131, 0.24)",
-      hover: "#F5F5F5",
-    },
-    common: {
-      white: "#FFF",
-    },
+    actionActive: "#fff",
+    actionDisabled: "rgba(255, 255, 255, 0.3)",
+    actionDisabledBackground: "rgba(255, 255, 255, 0.12)",
+    actionFocus: "rgba(255, 255, 255, 0.12)",
+    actionHover: "rgba(255, 255, 255, 0.08)",
+    actionSelected: "rgba(255, 255, 255, 0.16)",
+
+    backgroundDark: "#E0E0E0",
+    backgroundElevation1:
+      "linear-gradient(0deg, rgba(208, 188, 255, 0.05), rgba(208, 188, 255, 0.05)), #1C1B1F",
+    backgroundElevation2:
+      "linear-gradient(0deg, rgba(208, 188, 255, 0.08), rgba(208, 188, 255, 0.08)), #1C1B1F",
+    backgroundElevation3:
+      "linear-gradient(0deg, rgba(208, 188, 255, 0.11), rgba(208, 188, 255, 0.11)), #1C1B1F",
+    backgroundElevation4:
+      "linear-gradient(0deg, rgba(208, 188, 255, 0.12), rgba(208, 188, 255, 0.12)), #1C1B1F",
+    backgroundElevation5:
+      "linear-gradient(0deg, rgba(208, 188, 255, 0.14), rgba(208, 188, 255, 0.14)), #1C1B1F",
+    backgroundMain: "#FFFFFF",
+
+    borderActive: "#E0E0E0",
+    borderDisable: "rgba(131, 131, 131, 0.24)",
+    borderHover: "#F5F5F5",
+
     divider: "#EBEBEB",
-    grey: {
-      "50": "#F3F6F9",
-      "100": "#E7EBF0",
-      "200": "#E0E3E7",
-      "300": "#CDD2D7",
-      "400": "#B2BAC2",
-      "500": "#A0AAB4",
-      "600": "#6F7E8C",
-      "700": "#3E5060",
-      "800": "#2D3843",
-      "900": "#1A2027",
-      A100: "#f5f5f5",
-      A200: "#eeeeee",
-      A400: "#bdbdbd",
-      A700: "#616161",
-    },
-    primary: {
-      dark: "#2a3921",
-      light: "#668950",
-      main: "#425934",
-    },
-    secondary: {
-      dark: "#a5b51d",
-      light: "#dfeb81",
-      main: "#cfe03f",
-    },
-    text: {
-      disabled: "rgba(131, 131, 131, 0.48)",
-      primary: "#424242",
-      secondary: "#838383",
-    },
+
+    grey50: "#F3F6F9",
+    grey100: "#E7EBF0",
+    grey200: "#E0E3E7",
+    grey300: "#CDD2D7",
+    grey400: "#B2BAC2",
+    grey500: "#A0AAB4",
+    grey600: "#6F7E8C",
+    grey700: "#3E5060",
+    grey800: "#2D3843",
+    grey900: "#1A2027",
+    greyA100: "#f5f5f5",
+    greyA200: "#eeeeee",
+    greyA400: "#bdbdbd",
+    greyA700: "#616161",
+
+    primaryDark: "#2a3921",
+    primaryLight: "#668950",
+    primaryMain: "#425934",
+
+    secondaryDark: "#a5b51d",
+    secondaryLight: "#dfeb81",
+    secondaryMain: "#cfe03f",
+
+    textDisabled: "rgba(131, 131, 131, 0.48)",
+    textPrimary: "#424242",
+    textSecondary: "#838383",
+
+    white: "#FFF",
   },
   font: {
     body: "'Red Hat Text', sans-serif",

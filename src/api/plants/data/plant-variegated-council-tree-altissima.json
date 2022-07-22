@@ -1,0 +1,172 @@
+{
+  "careGuide": [
+    {
+      "id": "Light",
+      "label": "Light High",
+      "value": [
+        "Indoors: Bright, indirect light Outdoors: Morning part shade (4-6 hours)"
+      ]
+    },
+    {
+      "id": "Water",
+      "label": "Water Medium",
+      "value": [
+        "Keep the soil consistently moist (but not soggy)."
+      ]
+    },
+    {
+      "id": "Humidity",
+      "label": "Humidity High",
+      "value": [
+        "Enjoys some extra humidity. Spritz occasionally."
+      ]
+    },
+    {
+      "id": "Temperature",
+      "label": "60°F to 80°F",
+      "value": [
+        "The Ficus altissima prefers indoor temperatures above 70°F. Avoid any drafts from outside sources or air vents."
+      ]
+    },
+    {
+      "id": "Hardiness Zones",
+      "label": "Hardiness Zones 10|11|12",
+      "value": [
+        "Outdoors in morning part sun (4-6 hours), where nights are above 60°F."
+      ]
+    },
+    {
+      "id": "Fertilizing",
+      "label": "Fertilizing Monthly",
+      "value": [
+        "Add liquid fertilizer at a quarter strength when watering indoors during the growing season between spring and summer. Give them a rest during the winter months. Use a slow-release fertilizer during the growing season in the garden beds."
+      ]
+    },
+    {
+      "id": "Re-potting",
+      "label": "Re-potting Yearly",
+      "value": [
+        "Indoors:",
+        "Repot the Ficus benghalensis in early spring before growth starts. Plant in a 2\" bigger container in diameter and slightly deeper than the existing planter.",
+        "Use an indoor container mix that is well-draining. Add soil to the bottom to elevate the root ball.",
+        "Lift the plant and inspect the root ball. Notice if there are any dead or rotting roots and trim off with sterile pruners. If the plant is rootbound, cut through the roots to alleviate continued encircling. Trim up the side of the root ball so new roots will form.",
+        "Ensure the plant is sitting about 1\" below the edge of the pot to avoid water spillage.",
+        "Add more soil and backfill around the sides by tamping down. Do not cover the current level of soil on the plant but add soil up to this level.",
+        "Water thoroughly, leaving the soil damp but not soggy. Add more soil after watering if the soil settles.",
+        "Outdoors:",
+        "Before planting or repotting in a container, water the plant in the grower pot well.",
+        "Find a spot in the garden where there are at least 4-6 part shade hours of direct sunlight each day with morning sun only. (Afternoon sun could burn the leaves.)",
+        "Be generous by digging a hole twice the pot's width and 1 inch shorter than the grower pot to raise them above the soil level for good drainage.",
+        "Use a pitchfork or a sharp object to stab the soil walls to make several indentions for the roots to take hold.",
+        "Tickle the roots to loosen them if they wrap inside the container.",
+        "Place the plant in the center of the hole.",
+        "Fill the hole with water first, so the roots get another good drink.",
+        "Next, backfill with native soil mixed with compost by one third to one half (if the native soil is clay).",
+        "Add a rooting hormone fertilizer to this backfill mixture. Tamp the soil firmly down around the edges and mound up. Avoid covering the original soil level of the plant that was in the container.",
+        "Add mulch as needed but not next to the stem or branches of the plant.",
+        "Water lightly. Continue to observe the soil moisture each day, depending on the temperatures and soil drainage."
+      ]
+    },
+    {
+      "id": "Cleaning",
+      "label": "Cleaning Monthly",
+      "value": [
+        "Gently wipe clean with a soft damp cloth or paper towel. Work gently from the stem's base toward the tip of the leaf doing both sides at once. After cleaning the leaves, remove any dead leaves or debris on the surface of the soil. At this time, keep a lookout for pests and treat or remove them. Refresh soil mixture if needed.",
+        "Use gloves to prune away dead, damaged, or diseased leaves down to the stem base with sterile scissors or a knife.",
+        "To maintain their shape, prune the limbs during the winter season when they are in the resting mode. Cut back to right above a node to encourage branching and new growth in the spring."
+      ]
+    },
+    {
+      "id": "Propagation",
+      "label": "Propagation Cuttings",
+      "value": [
+        "Take cuttings from healthy young non-woody stems and cut at least an inch below the leaf.",
+        "Cut the leaf in half on the stem to remove part of them, giving more energy to produce roots.",
+        "Dip the tip of the stem into a rooting hormone and set them into a damp propagation mix.",
+        "Water a couple of times a week to keep the mixture moist but not soggy. Keep the cuttings in bright, indirect light out of breezes. The warmer the weather, the faster the roots will grow.",
+        "After eight weeks, a stable root system should be developing, and new leaves will start emerging.",
+        "Transplant these cuttings into an organic potting mix. Add a slow-release fertilizer and continue to let them grow.",
+        "Once a healthy root system is created, transplant out into the landscape or a container pot.",
+        "Take a week to harden off to acclimate them to the weather conditions."
+      ]
+    }
+  ],
+  "description": [
+    "The Council Tree (Ficus Altissima) is an evergreen tree that can grow 5-10' feet tall indoors. Their rich, velvet green leaves serve as a dramatic backdrop to the cream veins throughout the fuzzy surface of the leaf. In their native environment, they are one of the largest canopy trees in the world."
+  ],
+  "id": "variegated-council-tree-altissima",
+  "metadata": [
+    {
+      "id": "pet-warning",
+      "label": "Pet Warning",
+      "value": "Toxic To Ingest"
+    },
+    {
+      "id": "care-level",
+      "label": "Care Level",
+      "value": "I'm Easy"
+    },
+    {
+      "id": "overall-size",
+      "label": "Overall Size",
+      "value": "6\" to 8\" W 12\" to 16\" H"
+    }
+  ],
+  "title": "Variegated Council Tree Altissima",
+  "variants": [
+    {
+      "planters": [
+        {
+          "imgSrc": "variegated-council-tree-altissima_medium_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$50.00"
+        },
+        {
+          "imgSrc": "variegated-council-tree-altissima_medium_planter-eco-planter.jpg",
+          "planterId": "planter-eco-planter",
+          "planterLabel": "Eco Pot",
+          "price": "$56.00"
+        },
+        {
+          "imgSrc": "variegated-council-tree-altissima_medium_planter-naturals-basket.jpg",
+          "planterId": "planter-naturals-basket",
+          "planterLabel": "Baskets",
+          "price": "$62.00"
+        },
+        {
+          "imgSrc": "variegated-council-tree-altissima_medium_planter-ceramic.jpg",
+          "planterId": "planter-ceramic",
+          "planterLabel": "Ceramic",
+          "price": "$64.00"
+        }
+      ],
+      "sizeId": "medium",
+      "sizeLabel": "M"
+    },
+    {
+      "planters": [
+        {
+          "imgSrc": "variegated-council-tree-altissima_extra-large_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$118.00"
+        },
+        {
+          "imgSrc": "variegated-council-tree-altissima_extra-large_planter-eco-planter.jpg",
+          "planterId": "planter-eco-planter",
+          "planterLabel": "Eco Pot",
+          "price": "$128.00"
+        },
+        {
+          "imgSrc": "variegated-council-tree-altissima_extra-large_planter-naturals-basket.jpg",
+          "planterId": "planter-naturals-basket",
+          "planterLabel": "Baskets",
+          "price": "$138.00"
+        }
+      ],
+      "sizeId": "extra-large",
+      "sizeLabel": "XL"
+    }
+  ]
+}

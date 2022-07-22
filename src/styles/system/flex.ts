@@ -18,7 +18,7 @@ type Flex =
   | 11
   | 12
 
-export const flex: Flex[] = [
+export const systemFlex: Flex[] = [
   "min-content",
   "max-content",
   "initial",

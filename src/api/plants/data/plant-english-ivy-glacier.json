@@ -1,0 +1,183 @@
+{
+  "careGuide": [
+    {
+      "id": "Light",
+      "label": "Light Medium",
+      "value": [
+        "This plant loves low to medium indirect light."
+      ]
+    },
+    {
+      "id": "Water",
+      "label": "Water Low",
+      "value": [
+        "Allow the soil to dry out completely between waterings."
+      ]
+    },
+    {
+      "id": "Humidity",
+      "label": "Humidity Medium",
+      "value": [
+        "Prerfers light humidity. Spritz occasionally."
+      ]
+    },
+    {
+      "id": "Temperature",
+      "label": "50°F to 65°F",
+      "value": [
+        "Keep indoor temps between 60-65°F."
+      ]
+    },
+    {
+      "id": "Hardiness Zones",
+      "label": "Hardiness Zones 5|6|7|8|10",
+      "value": [
+        "Outside: Grow in morning sun (2-4 hours) to dappled shade the rest of the day. Bring inside if temperatures reach below 35°F.",
+        "Indoors: Grow in bright to medium indirect light."
+      ]
+    },
+    {
+      "id": "Fertilizing",
+      "label": "Fertilizing Monthly",
+      "value": [
+        "Fertilize once a month during the growing spring and summer by diluting a liquid fertilizer by half strength. Let the plant rest in the fall and winter."
+      ]
+    },
+    {
+      "id": "Re-potting",
+      "label": "Re-potting 4 Years",
+      "value": [
+        "When receiving the plant, do not repot immediately but wait at least 6-12 months or if the roots are beginning to get crowded and growing through the drainage holes.",
+        "Repot in the spring, using a 2\" bigger pot to keep the roots drier. (Too big of a pot could cause the soil to dry slower, which is not helpful.) Use a well-draining indoor potting mix with perlite to help with drainage.",
+        "Water your plant in the old pot before transferring over and let sit an hour. Place a piece of screening at the bottom of the container over the drainage hole to secure the soil and allow to drain. Add soil to the bottom to elevate the root ball. Lift the plant and release the roots against the existing planter. Use a clean knife or garden trowel to wedge between the pot and the soil to loosen.",
+        "Inspect the root ball. Notice if there are any dead or rotting roots and trim off with sterile pruners. If the plant is rootbound, cut through the roots to alleviate continued encircling.",
+        "Ensure the plant is sitting about 1\" below the edge of the pot to avoid water spillage. Add more soil and backfill around the sides by tamping down. Fill up to the soil line but not over.",
+        "Water thoroughly, leaving the soil damp but not soggy. If settling occurs, add more soil."
+      ]
+    },
+    {
+      "id": "Cleaning",
+      "label": "Cleaning Monthly",
+      "value": [
+        "To clean the leaves and alleviate dust particles, give a shower from above. Fill a watering can with filtered, distilled or tap water that has been sitting for 24 hours. Place the plant in a sink and lightly wash the leaves with a shower spray end watering can.",
+        "Trim off any brown leaves with sterile scissors. Remove any debris from the soil and replenish soil if needed. Inspect for any insects at this time."
+      ]
+    },
+    {
+      "id": "Propagation",
+      "label": "Propagation Stem Cutting",
+      "value": [
+        "Take several stem-cuttings up to 6-8 inches off the parent plant. Remove some of the leaves closest to the cutting and place them in a vase filled with water. After several weeks roots will form. After three inches of roots have emerged, use well-draining soil in a small container with drainage. Poke a hole in the soil center. Slip the roots down into it and tamp down the soil around them. Keep the soil moist and watch them grow!"
+      ]
+    }
+  ],
+  "description": [
+    "With its silvery grey and cream-colored markings, the variegated English ivy glacier is a sought-after houseplant. Luckily we have them available for delivery! A natural climber that can be trained along walls, doorframes, or bookcases, they work well as a hanging plant. They are tolerant to low levels of light and will instantly brighten up dull parts of your home.",
+    "***Enjoy your plant hanging in the original grower pot, or remove the hanger and admire them in the decorative pot of your choosing! Either one is a great display!"
+  ],
+  "id": "english-ivy-glacier",
+  "metadata": [
+    {
+      "id": "pet-warning",
+      "label": "Pet Warning",
+      "value": "Toxic To Ingest"
+    },
+    {
+      "id": "care-level",
+      "label": "Care Level",
+      "value": "I'm Easy"
+    },
+    {
+      "id": "overall-size",
+      "label": "Overall Size",
+      "value": "8\" to 22\" W 4\" to 10\" H"
+    }
+  ],
+  "title": "English Ivy Glacier",
+  "variants": [
+    {
+      "planters": [
+        {
+          "imgSrc": "english-ivy-glacier_small_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$38.00"
+        },
+        {
+          "imgSrc": "english-ivy-glacier_small_planter-eco-planter.jpg",
+          "planterId": "planter-eco-planter",
+          "planterLabel": "Eco Pot",
+          "price": "$43.00"
+        },
+        {
+          "imgSrc": "english-ivy-glacier_small_planter-naturals-basket.jpg",
+          "planterId": "planter-naturals-basket",
+          "planterLabel": "Baskets",
+          "price": "$48.00"
+        },
+        {
+          "imgSrc": "english-ivy-glacier_small_planter-ceramic.jpg",
+          "planterId": "planter-ceramic",
+          "planterLabel": "Ceramic",
+          "price": "$50.00"
+        }
+      ],
+      "sizeId": "small",
+      "sizeLabel": "S"
+    },
+    {
+      "planters": [
+        {
+          "imgSrc": "english-ivy-glacier_medium_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$50.00"
+        },
+        {
+          "imgSrc": "english-ivy-glacier_medium_planter-eco-planter.jpg",
+          "planterId": "planter-eco-planter",
+          "planterLabel": "Eco Pot",
+          "price": "$56.00"
+        },
+        {
+          "imgSrc": "english-ivy-glacier_medium_planter-naturals-basket.jpg",
+          "planterId": "planter-naturals-basket",
+          "planterLabel": "Baskets",
+          "price": "$62.00"
+        },
+        {
+          "imgSrc": "english-ivy-glacier_medium_planter-ceramic.jpg",
+          "planterId": "planter-ceramic",
+          "planterLabel": "Ceramic",
+          "price": "$64.00"
+        }
+      ],
+      "sizeId": "medium",
+      "sizeLabel": "M"
+    },
+    {
+      "planters": [
+        {
+          "imgSrc": "english-ivy-glacier_large_grower.jpg",
+          "planterId": "grower",
+          "planterLabel": "Grower",
+          "price": "$86.00"
+        },
+        {
+          "imgSrc": "english-ivy-glacier_large_planter-eco-planter.jpg",
+          "planterId": "planter-eco-planter",
+          "planterLabel": "Eco Pot",
+          "price": "$94.00"
+        },
+        {
+          "imgSrc": "english-ivy-glacier_large_planter-naturals-basket.jpg",
+          "planterId": "planter-naturals-basket",
+          "planterLabel": "Baskets",
+          "price": "$102.00"
+        }
+      ],
+      "sizeId": "large",
+      "sizeLabel": "L"
+    }
+  ]
+}
