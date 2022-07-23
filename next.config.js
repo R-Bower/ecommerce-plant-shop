@@ -8,6 +8,7 @@ const withVanillaExtract = createVanillaExtractPlugin()
  **/
 const nextConfig = {
   /* config options here */
+  pageExtensions: ["tsx", "ts"],
 }
 
 module.exports = withVanillaExtract(nextConfig)

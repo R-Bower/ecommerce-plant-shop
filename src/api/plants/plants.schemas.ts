@@ -1,5 +1,7 @@
 import {z} from "zod"
 
+import {filterOptionSchema} from "../shared.schemas"
+
 export const plantSize = z.enum([
   "oneGallon",
   "fiveGallon",
@@ -64,3 +66,11 @@ export const plantSchema = z.object({
 })
 
 export type PlantDto = z.infer<typeof plantSchema>
+
+export const plantSearchResponseSchema = z.object({
+  filters: z.array(filterOptionSchema),
+  numberFound: z.number(),
+  plants: z.array(plantSchema),
+})
+
+export type PlantSearchResponseDto = z.infer<typeof plantSearchResponseSchema>

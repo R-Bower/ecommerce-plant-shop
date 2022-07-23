@@ -1,5 +1,3 @@
-import {range} from "rambda"
-
 type Flex =
   | "min-content"
   | "max-content"
@@ -22,5 +20,17 @@ export const systemFlex: Flex[] = [
   "min-content",
   "max-content",
   "initial",
-  ...(range(0, 13) as Flex[]),
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
 ]

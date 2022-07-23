@@ -8,28 +8,23 @@ import {
 } from "~styles/common.css"
 import {sx} from "~styles/sx.css"
 
+import {PlantSearchView} from "../views/PlantSearchView"
+
 export default function HomePage(): React.ReactElement {
   return (
     <section
       className={clsx(
         sx({
           display: "flex",
-          flexDirection: "column",
+          flex: 1,
+          gap: 16,
         }),
         sitePaddingX,
         siteContentWrapper,
         contentPaddingY,
       )}
     >
-      <div
-        className={sx({
-          display: "flex",
-          flex: 1,
-          justifyContent: ["center", "center", "flex-start"],
-        })}
-      >
-        <h2>All Plants</h2>
-      </div>
+      <PlantSearchView />
     </section>
   )
 }

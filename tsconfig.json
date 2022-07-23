@@ -24,10 +24,10 @@
     "forceConsistentCasingInFileNames": true,
     "resolveJsonModule": true,
     "paths": {
+      "~api/*": ["src/api/*"],
       "~components/*": ["src/components/*"],
-      "~styles/*": [
-        "src/styles/*"
-      ]
+      "~lib/*": ["src/lib/*"],
+      "~styles/*": ["src/styles/*"]
     }
   },
   "include": [

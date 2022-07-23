@@ -27,5 +27,5 @@ export const siteContentWrapper = style({
 })
 
 export const contentPaddingY = sx({
-  pt: [60, 60, 80],
+  pt: [40, 40, 80],
 })

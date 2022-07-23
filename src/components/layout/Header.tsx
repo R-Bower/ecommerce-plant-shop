@@ -34,6 +34,7 @@ export function Header(): React.ReactElement {
           <Link href={"/"}>
             <div
               className={sx({
+                cursor: "pointer",
                 display: "flex",
                 flex: 1,
                 gap: 24,
@@ -49,7 +50,7 @@ export function Header(): React.ReactElement {
                   }),
                 )}
               >
-                <Logo height={"inherit"} />
+                <Logo className={clsx(sx({height: [50, 50, 75]}))} />
               </span>
               <div
                 className={clsx(
