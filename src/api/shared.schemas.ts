@@ -1,8 +1,21 @@
 import {z} from "zod"
 
-export const filterOptionSchema = z.object({
+export const filterGroupSchema = z.object({
   id: z.string(),
+  label: z.string(),
   values: z.array(z.string()),
 })
 
-export type FilterOptionDto = z.infer<typeof filterOptionSchema>
+export type FilterGroupDto = z.infer<typeof filterGroupSchema>
+
+export const enabledFilterValuesSchema = z.record(z.record(z.boolean()))
+
+export type EnabledFilterValuesDto = z.infer<typeof enabledFilterValuesSchema>
+
+export const searchFilterSchema = z.object({
+  id: z.string(),
+  label: z.string(),
+  values: z.array(z.string()),
+})
+
+export type SearchFilterDto = z.infer<typeof searchFilterSchema>

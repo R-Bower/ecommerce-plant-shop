@@ -92,10 +92,10 @@ const h5: ComplexStyleRule = {
 
 const h6: ComplexStyleRule = {
   ...commonTextProps,
-  fontSize: "1.25rem",
+  fontSize: "1rem",
   fontWeight: 500,
   letterSpacing: "0.0075em",
-  lineHeight: 1.6,
+  lineHeight: 1.5,
 }
 
 const body: ComplexStyleRule = {

@@ -10,10 +10,10 @@ export const bodyFont = recipe({
         lineHeight: 1.66,
       },
       overline: {
-        fontSize: "0.75rem",
+        fontSize: "0.625rem",
         fontWeight: 400,
         letterSpacing: "0.08333em",
-        lineHeight: 1.66,
+        lineHeight: 1.5,
         textTransform: "uppercase",
       },
       subtitle: {

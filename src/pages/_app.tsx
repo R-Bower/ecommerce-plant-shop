@@ -2,9 +2,9 @@ import {QueryClient, QueryClientProvider} from "@tanstack/react-query"
 import {AppProps} from "next/app"
 import React from "react"
 
-import "../styles/global.css"
-
 import {Layout} from "~components/layout"
+
+import "../styles/global.css"
 
 interface Props extends AppProps {}
 

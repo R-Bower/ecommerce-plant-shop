@@ -1,4 +1,4 @@
-type Size =
+export type Size =
   | 0
   | 1
   | 2

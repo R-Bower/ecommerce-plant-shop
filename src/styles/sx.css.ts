@@ -1,4 +1,5 @@
 import {createSprinkles, defineProperties} from "@vanilla-extract/sprinkles"
+import {Property} from "csstype"
 
 import {
   conditions,
@@ -10,6 +11,12 @@ import {
 } from "./system"
 import {theme} from "./theme.css"
 
+const borders: Property.BorderTop<any> = [
+  "1px solid",
+  "1px dashed",
+  "1px dotted",
+]
+
 /*
  * Common CSS properties for layout components.
  */
@@ -19,7 +26,16 @@ const sxProperties = defineProperties({
   properties: {
     alignItems: ["stretch", "flex-start", "center", "flex-end"],
     alignSelf: ["stretch", "flex-start", "center", "flex-end"],
+    appearance: ["none"],
     backgroundColor: theme.color,
+    borderBottom: borders,
+    borderBottomColor: theme.color,
+    borderLeft: borders,
+    borderLeftColor: theme.color,
+    borderRight: borders,
+    borderRightColor: theme.color,
+    borderTop: borders,
+    borderTopColor: theme.color,
     bottom: leftTopRightBottom,
     boxShadow: theme.shadows,
     color: theme.color,
@@ -47,6 +63,8 @@ const sxProperties = defineProperties({
     maxWidth: systemSize,
     minHeight: systemSize,
     minWidth: systemSize,
+    overflowX: ["visible", "hidden", "clip", "scroll"],
+    overflowY: ["visible", "hidden", "clip", "scroll"],
     paddingBottom: systemSpace,
     paddingLeft: systemSpace,
     paddingRight: systemSpace,
@@ -61,6 +79,13 @@ const sxProperties = defineProperties({
   },
   responsiveArray: ["default", "mobile", "tablet", "desktop"],
   shorthands: {
+    border: ["borderTop", "borderRight", "borderBottom", "borderLeft"],
+    borderColor: [
+      "borderTopColor",
+      "borderRightColor",
+      "borderBottomColor",
+      "borderLeftColor",
+    ],
     gap: ["columnGap", "rowGap"],
     m: ["marginTop", "marginRight", "marginBottom", "marginLeft"],
     mb: ["marginBottom"],
@@ -69,6 +94,7 @@ const sxProperties = defineProperties({
     mt: ["marginTop"],
     mx: ["marginLeft", "marginRight"],
     my: ["marginTop", "marginBottom"],
+    overflow: ["overflowX", "overflowY"],
     p: ["paddingTop", "paddingRight", "paddingBottom", "paddingLeft"],
     pb: ["paddingBottom"],
     pl: ["paddingLeft"],

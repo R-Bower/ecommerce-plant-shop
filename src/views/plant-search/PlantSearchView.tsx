@@ -8,11 +8,15 @@ import {sx} from "~styles/sx.css"
 import {SearchFilters} from "./components"
 
 export function PlantSearchView(): React.ReactElement {
-  const {data, loading} = usePlantSearchQuery({})
+  const {data, error, loading} = usePlantSearchQuery({})
 
   React.useEffect(() => {
-    console.debug(data)
-  }, [data])
+    if (error) {
+      console.debug("error", error)
+    } else {
+      console.debug(data)
+    }
+  }, [data, error])
 
   return (
     <div
@@ -45,7 +49,7 @@ export function PlantSearchView(): React.ReactElement {
       >
         <div
           className={clsx(
-            sx({display: "flex", flex: 1, flexDirection: "column", width: 300}),
+            sx({display: "flex", flexDirection: "column", gap: 16, width: 300}),
           )}
           id={"plant-search-filter-wrapper"}
         >
@@ -61,8 +65,11 @@ export function PlantSearchView(): React.ReactElement {
           >
             Filter By
           </p>
+          <SearchFilters
+            enabledValues={data.filters.enabledValues}
+            filters={data.filters.filters}
+          />
         </div>
-        <SearchFilters />
       </div>
     </div>
   )

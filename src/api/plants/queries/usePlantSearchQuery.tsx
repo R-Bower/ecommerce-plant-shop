@@ -12,7 +12,10 @@ interface QueryResult {
 }
 
 const defaultResponse: PlantSearchResponseDto = {
-  filters: [],
+  filters: {
+    enabledValues: {},
+    filters: [],
+  },
   numberFound: 0,
   plants: [],
 }
