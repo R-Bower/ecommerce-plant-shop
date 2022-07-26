@@ -45,6 +45,7 @@ const sxProperties = defineProperties({
     fill: theme.color,
     flex: systemFlex,
     flexDirection: ["row", "column", "column-reverse", "row-reverse"],
+    flexWrap: ["wrap"],
     height: systemSize,
     justifyContent: [
       "stretch",
@@ -77,7 +78,7 @@ const sxProperties = defineProperties({
     whiteSpace: ["nowrap", "normal", "pre"],
     width: systemSize,
   },
-  responsiveArray: ["default", "mobile", "tablet", "desktop"],
+  responsiveArray: ["default", "mobile", "tablet", "laptop", "desktop"],
   shorthands: {
     border: ["borderTop", "borderRight", "borderBottom", "borderLeft"],
     borderColor: [

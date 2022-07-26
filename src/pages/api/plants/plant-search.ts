@@ -13,8 +13,6 @@ export default async function plantSearch(
   req: NextApiRequest,
   res: NextApiResponse,
 ): Promise<void> {
-  console.debug(req.body)
-
   return res.status(200).json({
     filters: {
       enabledValues: getPlantFilters(plants).enabledValues,

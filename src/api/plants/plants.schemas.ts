@@ -39,16 +39,29 @@ export const planterSchema = z.object({
 
 export type PlanterDto = z.infer<typeof planterSchema>
 
+const plantVariantPlanterSchema = z.object({
+  imgSrc: z.undefined().optional(),
+  planters: z.array(planterSchema),
+  sizeId: plantSize,
+  sizeLabel: z.string(),
+})
+
+export type PlantVariantPlanterDto = z.infer<typeof plantVariantPlanterSchema>
+
+const plantVariantSingleSchema = z.object({
+  imgSrc: z.string().optional(),
+  planters: z.undefined().optional(),
+  price: z.string(),
+})
+
+export type PlantVariantSingleDto = z.infer<typeof plantVariantSingleSchema>
+
 // #################
 // # PLANT VARIANT #
 // #################
 export const plantVariantSchema = z.union([
-  z.object({
-    planters: z.array(planterSchema),
-    sizeId: plantSize,
-    sizeLabel: z.string(),
-  }),
-  z.object({imgSrc: z.string().optional(), price: z.string()}),
+  plantVariantPlanterSchema,
+  plantVariantSingleSchema,
 ])
 
 export type PlantVariantDto = z.infer<typeof plantVariantSchema>

@@ -3,6 +3,12 @@ import {recipe} from "@vanilla-extract/recipes"
 export const bodyFont = recipe({
   variants: {
     variant: {
+      body: {
+        fontSize: "1rem",
+        fontWeight: 400,
+        letterSpacing: "0.03em",
+        lineHeight: 1.5,
+      },
       caption: {
         fontSize: "0.75rem",
         fontWeight: 400,

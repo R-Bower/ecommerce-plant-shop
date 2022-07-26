@@ -39,6 +39,7 @@ export function SearchFilters({
           display: "flex",
           flexDirection: "column",
           gap: 16,
+          minWidth: 250,
         }),
       )}
     >

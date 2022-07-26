@@ -74,7 +74,7 @@ export function getPlantFilters(plants: PlantDto[]): {
 } {
   const filterGroups: EnabledFilterValues = plants.reduce(
     (acc: EnabledFilterValues, {careGuide, metadata}: PlantDto) => {
-      // the pet-safe field won't be present if the plant isn't pet-safe.
+      // the pet-safe field may not be present if the plant isn't pet-safe.
       // We account for this manually.
       let petSafe = false
       careGuide.forEach(({id, label, value}) => {
@@ -93,14 +93,16 @@ export function getPlantFilters(plants: PlantDto[]): {
           return
         }
         if (id === "pet-safe") {
-          petSafe = true
+          petSafe = value === "Yes"
+          acc["pet-safe"] = {Yes: true}
+        } else {
+          if (!acc[id]) {
+            acc[id] = {}
+          }
+          // this is an interface issue – the value field's type is always a
+          // string.  TODO: update interface
+          acc[id][value as string] = true
         }
-        if (!acc[id]) {
-          acc[id] = {}
-        }
-        // this is an interface issue – the value field's type is always a
-        // string.  TODO: update interface
-        acc[id][value as string] = true
       })
 
       if (!petSafe) {

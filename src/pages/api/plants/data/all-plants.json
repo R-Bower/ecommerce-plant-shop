@@ -1,36 +1,6 @@
 {
   "plants": [
     {
-      "careGuide": [],
-      "description": [
-        "This wreath is hand-made and can be either hung or used as a table centerpiece. We start with a grapevine wreath and add moss and quality succulent rosettes that are grown in Southern California.",
-        "Easy maintenance, just keep them in lots of bright sunlight, avoiding harsh direct noon rays in summer. Drench with water every week or when moss is very dry.Succulent plants have a beautiful floral shape but are actually living plants! They'll grow and thrive with little care and surprise you with a showy display of colorful, long-lasting blooms.",
-        "Our process and materials ensure the highest quality product. Our wreaths are made to stay looking beautiful for years.",
-        "Perfect Valentine or Mother's Day gift, exquisite Wedding Centerpiece and the perfect Housewarming gift, Girlfriend gift, Birthday or Sympathy gift- anytime you think to send flowers.",
-        "Since each wreath is handmade, please allow 5 to 7 days for processing prior to shipping."
-      ],
-      "id": "18-fresh-live-succulent-wreath-fully-covered",
-      "metadata": [
-        {
-          "id": "pet-safe",
-          "label": "Pet Safe",
-          "value": "Yes"
-        },
-        {
-          "id": "care-level",
-          "label": "Care Level",
-          "value": "I'm Easy"
-        }
-      ],
-      "title": "18\" Fresh Live Succulent Wreath: Fully Covered",
-      "variants": [
-        {
-          "imgSrc": "18-fresh-live-succulent-wreath-fully-covered.jpg",
-          "price": "$200.00"
-        }
-      ]
-    },
-    {
       "careGuide": [
         {
           "id": "Light",
@@ -233,7 +203,7 @@
       "id": "alocasia-dark-star-elephant-ear",
       "metadata": [
         {
-          "id": "pet-hazard",
+          "id": "pet-safe",
           "label": "Pet Hazard",
           "value": "Toxic To Touch"
         },
@@ -376,7 +346,7 @@
       "id": "alocasia-gagaena-california",
       "metadata": [
         {
-          "id": "pet-hazard",
+          "id": "pet-safe",
           "label": "Pet Hazard",
           "value": "Toxic To Touch"
         },
@@ -495,7 +465,7 @@
       "id": "alocasia-kuching-mask",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -614,7 +584,7 @@
       "id": "alocasia-portora",
       "metadata": [
         {
-          "id": "pet-hazard",
+          "id": "pet-safe",
           "label": "Pet Hazard",
           "value": "Toxic To Touch"
         },
@@ -726,7 +696,7 @@
       "id": "ameria-dreameria-dreamland-thrift",
       "metadata": [
         {
-          "id": "pet-hazard",
+          "id": "pet-safe",
           "label": "Pet Hazard",
           "value": "Toxic To Touch"
         },
@@ -858,7 +828,7 @@
       "id": "aralia-fabian-stump",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -1039,6 +1009,36 @@
       ]
     },
     {
+      "careGuide": [],
+      "description": [
+        "This wreath is hand-made and can be either hung or used as a table centerpiece. We start with a grapevine wreath and add moss and quality succulent rosettes that are grown in Southern California.",
+        "Easy maintenance, just keep them in lots of bright sunlight, avoiding harsh direct noon rays in summer. Drench with water every week or when moss is very dry.Succulent plants have a beautiful floral shape but are actually living plants! They'll grow and thrive with little care and surprise you with a showy display of colorful, long-lasting blooms.",
+        "Our process and materials ensure the highest quality product. Our wreaths are made to stay looking beautiful for years.",
+        "Perfect Valentine or Mother's Day gift, exquisite Wedding Centerpiece and the perfect Housewarming gift, Girlfriend gift, Birthday or Sympathy gift- anytime you think to send flowers.",
+        "Since each wreath is handmade, please allow 5 to 7 days for processing prior to shipping."
+      ],
+      "id": "18-fresh-live-succulent-wreath-fully-covered",
+      "metadata": [
+        {
+          "id": "pet-safe",
+          "label": "Pet Safe",
+          "value": "Yes"
+        },
+        {
+          "id": "care-level",
+          "label": "Care Level",
+          "value": "I'm Easy"
+        }
+      ],
+      "title": "18\" Fresh Live Succulent Wreath: Fully Covered",
+      "variants": [
+        {
+          "imgSrc": "18-fresh-live-succulent-wreath-fully-covered.jpg",
+          "price": "$200.00"
+        }
+      ]
+    },
+    {
       "careGuide": [
         {
           "id": "Light",
@@ -1124,7 +1124,7 @@
       "id": "bicolor-cane-dragon-tree-dracaena",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -1270,7 +1270,7 @@
       "id": "bigleaf-hydrangea",
       "metadata": [
         {
-          "id": "pet-hazard",
+          "id": "pet-safe",
           "label": "Pet Hazard",
           "value": "Toxic To Touch"
         },
@@ -1495,7 +1495,7 @@
       "id": "black-coral-snake-plant",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -1635,7 +1635,7 @@
       "id": "black-gold-snake-plant",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -1780,7 +1780,7 @@
       "id": "black-leaf-dragon-tree-collection-dracaena",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -1935,7 +1935,7 @@
       "id": "black-raven-zz",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -2043,7 +2043,7 @@
       "id": "bloomify-rose-lantana",
       "metadata": [
         {
-          "id": "pet-hazard",
+          "id": "pet-safe",
           "label": "Pet Hazard",
           "value": "Toxic To Touch"
         },
@@ -2145,7 +2145,7 @@
       "id": "blooming-kalanchoe",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -2303,7 +2303,7 @@
       "id": "blooming-superba-double-begonia",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -2434,7 +2434,7 @@
       "id": "burgundy-rubber-tree",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -2690,7 +2690,7 @@
       "id": "calandiva",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -3002,7 +3002,7 @@
       "id": "clover-leaf-ivy",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -3141,7 +3141,7 @@
       "id": "cordyline-australis-red-sensation",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -3268,7 +3268,7 @@
       "id": "cordyline-florida-flamingo",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -3394,7 +3394,7 @@
       "id": "croton-petra",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -3569,7 +3569,7 @@
       "id": "dahlia-karma-corona-pink",
       "metadata": [
         {
-          "id": "pet-hazard",
+          "id": "pet-safe",
           "label": "Pet Hazard",
           "value": "Toxic To Touch"
         }
@@ -3660,7 +3660,7 @@
       "id": "dieffenbachia-camouflage",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -3790,7 +3790,7 @@
       "id": "dieffenbachia-memoria-corsii",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -3915,7 +3915,7 @@
       "id": "dieffenbachia-tropic-snow",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -4364,7 +4364,7 @@
       "id": "elephant-ear-alocasia-regal-shield-40-off-this-week-only",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -4512,7 +4512,7 @@
       "id": "english-ivy-glacier",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -4695,7 +4695,7 @@
       "id": "english-ivy-green-ideal",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -4948,7 +4948,7 @@
       "id": "everyone-s-favorite-golden-pothos",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -5130,7 +5130,7 @@
       "id": "favorite-floor-plants",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -5245,7 +5245,7 @@
       "id": "fern-asparagus-sprengerii",
       "metadata": [
         {
-          "id": "pet-hazard",
+          "id": "pet-safe",
           "label": "Pet Hazard",
           "value": "Toxic To Touch"
         },
@@ -5394,7 +5394,7 @@
       "id": "ficus-audrey",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -5579,7 +5579,7 @@
       "id": "ficus-benjamina-midnight-braid",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -5764,7 +5764,7 @@
       "id": "ficus-yellow-gem-column",
       "metadata": [
         {
-          "id": "pet-hazard",
+          "id": "pet-safe",
           "label": "Pet Hazard",
           "value": "Toxic To Touch"
         }
@@ -5879,7 +5879,7 @@
       "id": "flamingo-flower",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -5984,7 +5984,7 @@
       "id": "futura-superba-snake-plant",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -6131,7 +6131,7 @@
       "id": "gardenia-veitchii",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -6283,7 +6283,7 @@
       "id": "giant-bird-of-paradise",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -6491,7 +6491,7 @@
       "id": "hawaiian-sunshine-dragon-tree-dracaena",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -6656,7 +6656,7 @@
       "id": "heloise-and-abelard-bundle-snake-plant-pygmy-date-palm",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -6946,7 +6946,7 @@
       "id": "janet-craig-dragon-plant-dracaena",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -7144,7 +7144,7 @@
       "id": "karo-red-mirror-bush-coprosma",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -7255,7 +7255,7 @@
       "id": "lemon-lime-dragon-tree-dracaena",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -7615,7 +7615,7 @@
       "id": "mandevilla-red",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -7887,7 +7887,7 @@
       "id": "manifestation-plant-collection",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -8016,7 +8016,7 @@
       "id": "marginata-cane-dragon-tree-dracaena",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -8279,7 +8279,7 @@
       "id": "million-kisses-honeymoon-begonia",
       "metadata": [
         {
-          "id": "pet-hazard",
+          "id": "pet-safe",
           "label": "Pet Hazard",
           "value": "Toxic To Touch"
         },
@@ -8411,7 +8411,7 @@
       "id": "mini-schefflera-umbrella-tree",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -9273,7 +9273,7 @@
       "id": "new-plant-parents-bundle",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -9386,7 +9386,7 @@
       "id": "on-top-sunset-shades-tuberous-begonia",
       "metadata": [
         {
-          "id": "pet-hazard",
+          "id": "pet-safe",
           "label": "Pet Hazard",
           "value": "Toxic To Touch"
         },
@@ -9598,7 +9598,7 @@
       "id": "orange-flower-bird-of-paradise",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -9768,7 +9768,7 @@
       "id": "oregano-italian",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -9887,7 +9887,7 @@
       "id": "ornamental-onion",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -10007,7 +10007,7 @@
       "id": "parsley-italian",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -10143,7 +10143,7 @@
       "id": "peace-lily",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -10488,7 +10488,7 @@
       "id": "pepper-yum-yum-mix",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -10607,7 +10607,7 @@
       "id": "philodendron-birkin",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -10756,7 +10756,7 @@
       "id": "philodendron-xanadu",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -10982,7 +10982,7 @@
       "id": "pink-polka-dot-plant",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -11102,7 +11102,7 @@
       "id": "provence-french-lavender",
       "metadata": [
         {
-          "id": "pet-hazard",
+          "id": "pet-safe",
           "label": "Pet Hazard",
           "value": "Toxic To Touch"
         },
@@ -11560,7 +11560,7 @@
       "id": "radiant-red-bundle",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         }
@@ -11675,7 +11675,7 @@
       "id": "rainbow-succulent-kalanchoe-collection",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -11810,7 +11810,7 @@
       "id": "robusta-snake-plant",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -11937,7 +11937,7 @@
       "id": "ruby-rubber-tree",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -12100,7 +12100,7 @@
       "id": "sago-palm",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -12245,7 +12245,7 @@
       "id": "sansevieria-cylindrica",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -12372,7 +12372,7 @@
       "id": "sansevieria-moonshine",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -12545,7 +12545,7 @@
       "id": "scallion-tokyo-long",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -12841,7 +12841,7 @@
       "id": "split-leaf-philodendron-monstera",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -13487,7 +13487,7 @@
       "id": "sweetheart-vine",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -14248,7 +14248,7 @@
       "id": "tropical-vibe-plant-collection",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -14504,7 +14504,7 @@
       "id": "upright-jurassic-elephant-ear-giant-premium-caladium-bulbs",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -14621,7 +14621,7 @@
       "id": "variegated-council-tree-altissima",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -14774,7 +14774,7 @@
       "id": "variegated-laurentii-snake-plant",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -15042,7 +15042,7 @@
       "id": "white-flamingo-flower",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -15194,7 +15194,7 @@
       "id": "white-stripe-dragon-tree-dracaena",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -15382,7 +15382,7 @@
       "id": "yucca-cane",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -15555,7 +15555,7 @@
       "id": "zeylanica-snake-plant",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },
@@ -15759,7 +15759,7 @@
       "id": "zz-plant",
       "metadata": [
         {
-          "id": "pet-warning",
+          "id": "pet-safe",
           "label": "Pet Warning",
           "value": "Toxic To Ingest"
         },

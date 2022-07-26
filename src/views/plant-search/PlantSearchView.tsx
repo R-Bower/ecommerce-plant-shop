@@ -5,7 +5,8 @@ import {usePlantSearchQuery} from "~api/plants"
 import {bodyFont} from "~styles/body-font.css"
 import {sx} from "~styles/sx.css"
 
-import {SearchFilters} from "./components"
+import {PlantCard, SearchFilters} from "./components"
+import {plantWrapperStyle} from "./PlantSearchView.css"
 
 export function PlantSearchView(): React.ReactElement {
   const {data, error, loading} = usePlantSearchQuery({})
@@ -17,6 +18,9 @@ export function PlantSearchView(): React.ReactElement {
       console.debug(data)
     }
   }, [data, error])
+
+  const [page, setPage] = React.useState(0)
+  const [pageSize, setPageSize] = React.useState(20)
 
   return (
     <div
@@ -47,9 +51,14 @@ export function PlantSearchView(): React.ReactElement {
         )}
         id={"plant-search-wrapper"}
       >
+        {/* Filters */}
         <div
           className={clsx(
-            sx({display: "flex", flexDirection: "column", gap: 16, width: 300}),
+            sx({
+              display: ["none", "none", "flex"],
+              flexDirection: "column",
+              gap: 16,
+            }),
           )}
           id={"plant-search-filter-wrapper"}
         >
@@ -65,10 +74,18 @@ export function PlantSearchView(): React.ReactElement {
           >
             Filter By
           </p>
+
           <SearchFilters
             enabledValues={data.filters.enabledValues}
             filters={data.filters.filters}
           />
+        </div>
+
+        {/* Plants */}
+        <div className={clsx(plantWrapperStyle)}>
+          {data.plants.slice(0, (page + 1) * pageSize).map((plant) => {
+            return <PlantCard key={plant.id} plant={plant} />
+          })}
         </div>
       </div>
     </div>
