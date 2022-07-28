@@ -61,6 +61,9 @@ const colors = {
 export type Color = keyof typeof colors
 
 export const theme = createGlobalTheme("#app", {
+  animations: {
+    easeInOut: "cubic-bezier(0.230, 1.000, 0.320, 1.000)",
+  },
   color: colors,
   font: {
     body: "'Red Hat Text', sans-serif",

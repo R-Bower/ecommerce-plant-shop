@@ -41,7 +41,7 @@ const sxProperties = defineProperties({
     color: theme.color,
     columnGap: systemSpace,
     cursor: ["pointer"],
-    display: ["flex", "inline-flex", "none"],
+    display: ["flex", "inline-flex", "inline", "none"],
     fill: theme.color,
     flex: systemFlex,
     flexDirection: ["row", "column", "column-reverse", "row-reverse"],

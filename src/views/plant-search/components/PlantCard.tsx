@@ -6,7 +6,11 @@ import {PlantDto} from "~api/plants"
 import {bodyFont} from "~styles/body-font.css"
 import {sx} from "~styles/sx.css"
 
-import {plantImageWrapperStyle} from "./PlantCard.css"
+import {
+  plantCardViewNowStyle,
+  plantImageWrapperStyle,
+  viewNowTextStyle,
+} from "./PlantCard.css"
 
 interface Props {
   plant: PlantDto
@@ -35,28 +39,56 @@ export function PlantCard({
           display: "flex",
           flexDirection: "column",
           gap: 8,
+          height: "100%",
+          justifyContent: "space-between",
           maxWidth: 300,
-          width: "100%",
         }),
       )}
     >
-      <div className={clsx(plantImageWrapperStyle)}>
-        {imgSrc ? (
-          <Image
-            height={300}
-            layout={"responsive"}
-            src={`/images/plants/${imgSrc}`}
-            width={250}
-          />
-        ) : null}
-      </div>
-      <h5>{title}</h5>
       <div
         className={clsx(
           sx({
             display: "flex",
+            flexDirection: "column",
+            gap: 8,
+          }),
+        )}
+      >
+        <div className={clsx(plantImageWrapperStyle)}>
+          {imgSrc ? (
+            <Image
+              height={300}
+              layout={"responsive"}
+              src={`/images/plants/${imgSrc}`}
+              width={250}
+            />
+          ) : null}
+          <div
+            className={clsx(
+              plantCardViewNowStyle,
+              sx({
+                alignItems: "center",
+                display: "flex",
+                flex: 1,
+                justifyContent: "center",
+              }),
+            )}
+          >
+            <p className={viewNowTextStyle}>View Now</p>
+          </div>
+        </div>
+        <h5>{title}</h5>
+      </div>
+      <div
+        className={clsx(
+          sx({
+            alignItems: "flex-end",
+            borderBottom: "1px solid",
+            borderBottomColor: "border",
+            display: "flex",
             gap: 4,
             mt: 16,
+            pb: 2,
           }),
         )}
       >
