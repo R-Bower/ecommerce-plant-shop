@@ -1,6 +1,6 @@
 import {z} from "zod"
 
-import {enabledFilterValuesSchema, filterGroupSchema} from "../shared.schemas"
+import {PlantFilterId} from "./plants.enums"
 
 export const plantSize = z.enum([
   "oneGallon",
@@ -10,6 +10,26 @@ export const plantSize = z.enum([
   "large",
   "extra-large",
 ])
+
+export const filterGroupSchema = z.object({
+  id: z.nativeEnum(PlantFilterId),
+  label: z.string(),
+  values: z.array(z.string()),
+})
+
+export type FilterGroupDto = z.infer<typeof filterGroupSchema>
+
+export const enabledFilterValuesSchema = z.record(z.record(z.boolean()))
+
+export type EnabledFilterValuesDto = z.infer<typeof enabledFilterValuesSchema>
+
+export const searchFilterSchema = z.object({
+  id: z.nativeEnum(PlantFilterId),
+  label: z.string(),
+  values: z.array(z.string()),
+})
+
+export type SearchFilterDto = z.infer<typeof searchFilterSchema>
 
 // ############
 // # METADATA #
@@ -90,3 +110,17 @@ export const plantSearchResponseSchema = z.object({
 })
 
 export type PlantSearchResponseDto = z.infer<typeof plantSearchResponseSchema>
+
+export const plantFilterInputSchema = z.object({
+  id: z.nativeEnum(PlantFilterId),
+  values: z.array(z.string()),
+})
+
+export type PlantFilterInputDto = z.infer<typeof plantFilterInputSchema>
+
+export const plantSearchRequestSchema = z.object({
+  filters: z.array(plantFilterInputSchema),
+  searchText: z.string().optional(),
+})
+
+export type PlantSearchRequestDto = z.infer<typeof plantSearchRequestSchema>

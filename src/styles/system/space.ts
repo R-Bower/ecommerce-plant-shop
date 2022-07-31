@@ -16,9 +16,13 @@ export type Space =
   | 6
   | 7
   | 8
+  | 12
   | 16
+  | 20
   | 24
+  | 28
   | 32
+  | 36
   | 40
   | 48
   | 56
@@ -33,8 +37,8 @@ export type Space =
 // margins for one-off adjustments).  Anything outside these bounds can
 // be customized on a per-case basis using the style utility.
 export const systemSpace: Space[] = [
-  -8, -7, -6, -5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 16, 24, 32, 40, 48,
-  56, 64, 72, 80, 88, 96,
+  -8, -7, -6, -5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 12, 16, 20, 24, 28,
+  32, 36, 40, 48, 56, 64, 72, 80, 88, 96,
 ]
 
 // 0 through 32px, in increments of 4px

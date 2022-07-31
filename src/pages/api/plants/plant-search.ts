@@ -1,6 +1,11 @@
 import type {NextApiRequest, NextApiResponse} from "next"
 
-import {getPlantFilters, PlantDto} from "~api/plants"
+import {
+  filterPlants,
+  getPlantFilters,
+  PlantDto,
+  plantSearchRequestSchema,
+} from "~api/plants"
 
 import plantData from "./data/all-plants.json"
 
@@ -13,12 +18,21 @@ export default async function plantSearch(
   req: NextApiRequest,
   res: NextApiResponse,
 ): Promise<void> {
+  const parsedInput = plantSearchRequestSchema.safeParse(req.body)
+  if (!parsedInput.success) {
+    return res.status(400).json({message: "Call failed due to malformed input"})
+  }
+
+  const {filters, searchText = ""} = parsedInput.data
+
+  const filteredPlants = filterPlants(filters, searchText, plants)
+
   return res.status(200).json({
     filters: {
-      enabledValues: getPlantFilters(plants).enabledValues,
+      enabledValues: getPlantFilters(filteredPlants).enabledValues,
       filters: originalFilters.filters,
     },
     numberFound: 0,
-    plants,
+    plants: filteredPlants,
   })
 }

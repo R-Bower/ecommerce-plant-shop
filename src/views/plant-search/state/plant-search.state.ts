@@ -1,19 +1,36 @@
 import {atom, DefaultValue, selector} from "recoil"
 
-export type ActiveFilters = Record<string, Record<string, boolean>>
+import {PlantFilterId, PlantFilterInputDto} from "~api/plants"
 
-const defaultActiveFilters: ActiveFilters = {}
+export type ActiveFilters = Record<PlantFilterId, Record<string, boolean>>
+
+export const searchTextAtom = atom<string>({
+  default: "",
+  key: "searchTextAtom",
+})
+
+const defaultActiveFilters: ActiveFilters = {
+  [PlantFilterId.RePotting]: {},
+  [PlantFilterId.Cleaning]: {},
+  [PlantFilterId.Fertilizing]: {},
+  [PlantFilterId.Humidity]: {},
+  [PlantFilterId.Light]: {},
+  [PlantFilterId.Water]: {},
+  [PlantFilterId.CareLevel]: {},
+  [PlantFilterId.PetSafe]: {},
+  [PlantFilterId.Size]: {},
+}
 
 Object.freeze(defaultActiveFilters)
 
 export const activeFiltersAtom = atom<ActiveFilters>({
-  default: {},
+  default: defaultActiveFilters,
   key: "activeFiltersAtom",
 })
 
 export const toggleActiveFilter = selector<{
   active: boolean
-  id: string
+  id: PlantFilterId
   value: string
 }>({
   get: () => {
@@ -39,4 +56,21 @@ export const toggleActiveFilter = selector<{
       })
     }
   },
+})
+
+export const getPlantFiltersInput = selector<PlantFilterInputDto[]>({
+  get: ({get}) => {
+    const activeFilters = get(activeFiltersAtom)
+    return Object.keys(activeFilters)
+      .sort()
+      .map((id) => {
+        const values = activeFilters[id as PlantFilterId]
+        return {
+          id: id as PlantFilterId,
+          values: Object.keys(values).filter((key) => values[key]),
+        }
+      })
+      .filter(({values}) => values.length)
+  },
+  key: "getPlantFiltersInput",
 })

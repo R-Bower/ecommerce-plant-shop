@@ -1,26 +1,34 @@
 import clsx from "clsx"
 import React from "react"
+import {useRecoilState, useRecoilValue} from "recoil"
 
 import {usePlantSearchQuery} from "~api/plants"
+import {CircleLoader} from "~components/loaders"
 import {bodyFont} from "~styles/body-font.css"
 import {sx} from "~styles/sx.css"
 
 import {PlantCard, SearchFilters} from "./components"
-import {plantWrapperStyle} from "./PlantSearchView.css"
+import {loaderWrapperStyle, plantWrapperStyle} from "./PlantSearchView.css"
+import {getPlantFiltersInput, searchTextAtom} from "./state"
 
 export function PlantSearchView(): React.ReactElement {
-  const {data, error, loading} = usePlantSearchQuery({})
+  const filters = useRecoilValue(getPlantFiltersInput)
+  const [searchText, setSearchText] = useRecoilState(searchTextAtom)
+  const [page, setPage] = React.useState(0)
+  const [pageSize, setPageSize] = React.useState(20)
+
+  const {data, error, loading} = usePlantSearchQuery({
+    filters,
+    searchText,
+  })
 
   React.useEffect(() => {
     if (error) {
-      console.debug("error", error)
+      console.debug({apiError: error})
     } else {
       console.debug(data)
     }
   }, [data, error])
-
-  const [page, setPage] = React.useState(0)
-  const [pageSize, setPageSize] = React.useState(20)
 
   return (
     <div
@@ -83,6 +91,20 @@ export function PlantSearchView(): React.ReactElement {
 
         {/* Plants */}
         <div className={clsx(plantWrapperStyle)}>
+          {loading ? (
+            <div
+              className={clsx(
+                loaderWrapperStyle,
+                sx({
+                  display: "flex",
+                  flex: 1,
+                  justifyContent: "center",
+                }),
+              )}
+            >
+              <CircleLoader color={"primary"} size={"medium"} />
+            </div>
+          ) : null}
           {data.plants.slice(0, (page + 1) * pageSize).map((plant) => {
             return <PlantCard key={plant.id} plant={plant} />
           })}

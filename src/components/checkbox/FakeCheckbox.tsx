@@ -3,7 +3,6 @@ import React from "react"
 
 import {sx} from "~styles/sx.css"
 
-import {CheckIcon} from "./CheckIcon"
 import {fakeCheckboxWrapperStyle} from "./FakeCheckbox.styles.css"
 
 interface Props {
@@ -21,20 +20,20 @@ export default function FakeCheckbox({
         fakeCheckboxWrapperStyle,
         sx({
           alignItems: "center",
-          backgroundColor: disabled
-            ? "actionDisabledBackground"
-            : checked
+          backgroundColor: checked
             ? "primaryLight"
+            : disabled
+            ? "actionDisabledBackground"
             : "white",
           border: "1px solid",
-          borderColor: disabled
-            ? "borderDisabled"
-            : checked
+          borderColor: checked
             ? "borderActive"
+            : disabled
+            ? "borderDisabled"
             : "border",
           display: "inline-flex",
           justifyContent: "center",
-          size: 16,
+          size: 18,
         }),
       )}
     >
@@ -48,10 +47,7 @@ export default function FakeCheckbox({
             mt: 1,
           }),
         )}
-      >
-        {/* TODO: replace with icon */}
-        {checked ? <CheckIcon height={11} width={10} /> : null}
-      </div>
+      ></div>
     </div>
   )
 }

@@ -1,9 +1,8 @@
 import {useQuery} from "@tanstack/react-query"
 
 import {queryOptions} from "../../shared.constants"
-import {PlantSearchInputDto} from "../plant.types"
 import {PlantsApi} from "../plants.api"
-import {PlantSearchResponseDto} from "../plants.schemas"
+import {PlantSearchRequestDto, PlantSearchResponseDto} from "../plants.schemas"
 
 interface QueryResult {
   data: PlantSearchResponseDto
@@ -21,12 +20,13 @@ const defaultResponse: PlantSearchResponseDto = {
 }
 
 export function usePlantSearchQuery({
+  filters,
   searchText,
-}: PlantSearchInputDto): QueryResult {
+}: PlantSearchRequestDto): QueryResult {
   const {data, error, isFetching} = useQuery<PlantSearchResponseDto, any>(
-    ["plantSearch", searchText],
+    ["plantSearch", searchText, filters],
     async () => {
-      return PlantsApi.plantSearch({searchText})
+      return PlantsApi.plantSearch({filters, searchText})
     },
     queryOptions,
   )

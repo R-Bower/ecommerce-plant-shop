@@ -21,16 +21,21 @@ export function Checkbox({
   tabIndex,
 }: Props): React.ReactElement {
   return (
-    // eslint-disable-next-line jsx-a11y/click-events-have-key-events,jsx-a11y/no-static-element-interactions
-    <div
-      aria-checked={checked}
-      className={clsx(sx({cursor: "pointer", position: "relative"}))}
-      onClick={onChange}
-      role={"checkbox"}
-      tabIndex={tabIndex}
-    >
+    <div className={clsx(sx({display: "inline-flex", position: "relative"}))}>
+      {/*eslint-disable-next-line jsx-a11y/click-events-have-key-events,jsx-a11y/no-static-element-interactions*/}
       <div
-        className={clsx(sx({alignItems: "center", display: "flex", gap: 8}))}
+        aria-checked={checked}
+        className={clsx(
+          sx({
+            alignItems: "center",
+            cursor: "pointer",
+            display: "flex",
+            gap: 12,
+          }),
+        )}
+        onClick={disabled ? undefined : onChange}
+        role={"checkbox"}
+        tabIndex={tabIndex}
       >
         <FakeCheckbox checked={checked} disabled={disabled} />
         {label}

@@ -5,7 +5,8 @@
   "scripts": {
     "build": "next build",
     "dev": "next dev --port 3050",
-    "start": "next start"
+    "start": "next start",
+    "watch": "tsc -P tsconfig.json -w"
   },
   "dependencies": {
     "@tanstack/react-query": "^4.0.10",

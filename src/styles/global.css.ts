@@ -57,7 +57,7 @@ globalFontFace(fontFamily, {
 })
 
 globalStyle("#app", {
-  backgroundColor: theme.color.backgroundDark,
+  backgroundColor: theme.color.white,
   color: theme.color.textPrimary,
   margin: 0,
   minHeight: "100vh",

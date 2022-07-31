@@ -1,8 +1,9 @@
 import clsx from "clsx"
 import React from "react"
 
-import {Checkbox} from "~components/checkbox/Checkbox"
+import {Checkbox} from "~components/checkbox"
 import {bodyFont} from "~styles/body-font.css"
+import {sx} from "~styles/sx.css"
 
 interface Props {
   checked: boolean
@@ -44,7 +45,18 @@ export function FilterValueCheckbox({
       checked={checked}
       disabled={disabled}
       label={
-        <span className={clsx(bodyFont({variant: "subtitle"}))}>{value}</span>
+        <span
+          className={clsx(
+            sx({
+              color: disabled && !checked ? "textDisabled" : "textPrimary",
+            }),
+            bodyFont({
+              variant: "body",
+            }),
+          )}
+        >
+          {value}
+        </span>
       }
       onChange={(event) => {
         onChangeLocal(event, !localChecked)

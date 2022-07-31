@@ -3,6 +3,7 @@ import Image from "next/image"
 import React from "react"
 
 import {PlantDto} from "~api/plants"
+import {PetFriendlyPawIcon} from "~components/icons"
 import {bodyFont} from "~styles/body-font.css"
 import {sx} from "~styles/sx.css"
 
@@ -79,23 +80,55 @@ export function PlantCard({
         </div>
         <h5>{title}</h5>
       </div>
-      <div
-        className={clsx(
-          sx({
-            alignItems: "flex-end",
-            borderBottom: "1px solid",
-            borderBottomColor: "border",
-            display: "flex",
-            gap: 4,
-            mt: 16,
-            pb: 2,
-          }),
-        )}
-      >
-        <span className={clsx(bodyFont({variant: "subtitle"}))}>From</span>
-        <span className={clsx(bodyFont({variant: "body"}))}>
-          {`${lowestPrice}`}
-        </span>
+      <div>
+        <div
+          className={clsx(
+            sx({
+              alignItems: "flex-end",
+              borderBottom: "1px solid",
+              borderBottomColor: "border",
+              display: "flex",
+              gap: 4,
+              mt: 16,
+              pb: 2,
+            }),
+          )}
+        >
+          <span className={clsx(bodyFont({variant: "subtitle"}))}>From</span>
+          <span className={clsx(bodyFont({variant: "body"}))}>
+            {`${lowestPrice}`}
+          </span>
+        </div>
+
+        <div
+          className={clsx(
+            sx({
+              alignItems: "center",
+              display: "flex",
+              gap: 6,
+              height: 23,
+              justifyContent: "flex-start",
+            }),
+          )}
+        >
+          {petFriendly ? (
+            <>
+              <PetFriendlyPawIcon height={12} width={12} />
+              <span
+                className={clsx(
+                  sx({
+                    mt: 1,
+                  }),
+                  bodyFont({
+                    variant: "subtitle",
+                  }),
+                )}
+              >
+                Pet Friendly
+              </span>
+            </>
+          ) : null}
+        </div>
       </div>
     </div>
   )

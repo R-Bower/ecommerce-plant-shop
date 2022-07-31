@@ -1,10 +1,10 @@
 import kyBase from "ky-universal"
 
 import {kyOpts} from "../shared.constants"
-import {PlantSearchInputDto} from "./plant.types"
 import {
   PlantDto,
   plantSchema,
+  PlantSearchRequestDto,
   PlantSearchResponseDto,
   plantSearchResponseSchema,
 } from "./plants.schemas"
@@ -28,13 +28,17 @@ export const PlantsApi = {
     return parsed.data
   },
   plantSearch: async (
-    input: PlantSearchInputDto,
+    input: PlantSearchRequestDto,
   ): Promise<PlantSearchResponseDto> => {
     const result = await ky
       .post(`plant-search`, {
+        headers: {
+          "Content-Type": "application/json",
+        },
         json: input,
       })
       .json()
+
     const parsed = plantSearchResponseSchema.safeParse(result)
     if (!parsed.success) {
       throw new Error("Data validation failed")
