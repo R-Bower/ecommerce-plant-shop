@@ -32,7 +32,6 @@ export function ContentPane({
       >
         {title}
       </h2>
-      <div>test</div>
     </section>
   )
 }
