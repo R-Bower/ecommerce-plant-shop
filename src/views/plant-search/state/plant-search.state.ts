@@ -1,4 +1,4 @@
-import {atom, DefaultValue, selector} from "recoil"
+import {atom, DefaultValue, selector, selectorFamily} from "recoil"
 
 import {ActiveFilters, PlantFilterId, PlantFilterInputDto} from "~api/plants"
 import {updateReasonAtom} from "~lib/url"
@@ -125,3 +125,18 @@ export const plantSearchUrlState = selector<PlantSearchUrlState>({
     set(pageAtom, 0)
   },
 })
+
+export const getPlantFilterValuesById = selectorFamily<string[], PlantFilterId>(
+  {
+    get:
+      (id: PlantFilterId) =>
+      ({get}) => {
+        const filters = get(activeFiltersAtom)
+        const enabledFilterValues = filters[id]
+        return Object.keys(enabledFilterValues)
+          .sort()
+          .filter((value) => enabledFilterValues[value])
+      },
+    key: "getPlantFilterValuesById",
+  },
+)

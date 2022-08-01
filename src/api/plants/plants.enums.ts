@@ -18,3 +18,10 @@ export enum PlantSizeId {
   Large = "large",
   ExtraLarge = "extra-large",
 }
+
+export enum PlantVariantId {
+  Grower = "grower",
+  EcoPlanter = "planter-eco-planter",
+  NaturalsBasket = "planter-naturals-basket",
+  Ceramic = "planter-ceramic",
+}

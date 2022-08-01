@@ -12,18 +12,18 @@ import {PlantSearchUrlState} from "../types"
 import {defaultPlantSearchFilters} from "./plant-search.state"
 
 // Transforms the current search state into a url with query parameters.
-export function serializePlantSearchUrl(url: PlantSearchUrlState): string {
+export function serializePlantSearchUrl(urlState: PlantSearchUrlState): string {
   const urlSegments: string[] = []
 
-  if (url.page) {
-    urlSegments.push(`page=${url.page}`)
+  if (urlState.page) {
+    urlSegments.push(`page=${urlState.page}`)
   }
 
-  if (url.searchText) {
-    urlSegments.push(`searchText=${url.searchText}`)
+  if (urlState.searchText) {
+    urlSegments.push(`searchText=${urlState.searchText}`)
   }
 
-  urlSegments.push(...buildUrlFilters(url.activeFilters))
+  urlSegments.push(...buildUrlFilters(urlState.activeFilters))
 
   return urlSegments.length === 0 ? "" : `?${urlSegments.join("&")}`
 }

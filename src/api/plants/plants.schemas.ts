@@ -1,6 +1,6 @@
 import {z} from "zod"
 
-import {PlantFilterId, PlantSizeId} from "./plants.enums"
+import {PlantFilterId, PlantSizeId, PlantVariantId} from "./plants.enums"
 
 export const plantSize = z.nativeEnum(PlantSizeId)
 
@@ -39,12 +39,7 @@ export type PlantMetadataDto = z.infer<typeof plantMetadataSchema>
 // ###########
 export const planterSchema = z.object({
   imgSrc: z.string().optional(),
-  planterId: z.enum([
-    "grower",
-    "planter-eco-planter",
-    "planter-naturals-basket",
-    "planter-ceramic",
-  ]),
+  planterId: z.nativeEnum(PlantVariantId),
   planterLabel: z.string(),
   price: z.string(),
 })

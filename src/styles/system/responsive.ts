@@ -11,6 +11,8 @@ interface Breakpoints {
   tablet: string
 }
 
+export type Breakpoint = keyof Breakpoints
+
 export const breakpoints: Breakpoints = {
   desktop: "screen and (min-width: 1400px)",
   laptop: "screen and (min-width: 1024px)",

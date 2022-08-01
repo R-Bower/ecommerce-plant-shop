@@ -17,7 +17,7 @@
     "noEmit": true,
     "isolatedModules": true,
     "skipLibCheck": true,
-    "noImplicitAny": true,
+    "noImplicitAny": false,
     "strict": true,
     "strictNullChecks": true,
     "allowJs": true,

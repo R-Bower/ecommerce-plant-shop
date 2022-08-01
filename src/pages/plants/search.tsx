@@ -8,12 +8,11 @@ import {
   sitePaddingX,
 } from "~styles/common.css"
 import {sx} from "~styles/sx.css"
-
 import {
   deserializePlantSearchUrl,
   plantSearchUrlState,
   PlantSearchView,
-} from "../../views/plant-search"
+} from "~views/plant-search"
 
 export default function HomePage(): React.ReactElement {
   return (

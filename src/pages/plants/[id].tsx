@@ -1,9 +1,18 @@
+import clsx from "clsx"
 import {GetStaticPaths, GetStaticProps} from "next"
 import {useRouter} from "next/router"
 import React from "react"
+import {RecoilRoot} from "recoil"
 import {z} from "zod"
 
 import {PlantDto, plantSchema} from "~api/plants"
+import {
+  contentPaddingY,
+  siteContentWrapper,
+  sitePaddingX,
+} from "~styles/common.css"
+import {sx} from "~styles/sx.css"
+import {PlantDetailsView} from "~views/plant-details"
 
 import NotFound from "../404"
 
@@ -22,7 +31,24 @@ export default function PlantDetailsPage({plant}: Props): React.ReactElement {
     return <NotFound />
   }
 
-  return <></>
+  return (
+    <RecoilRoot>
+      <section
+        className={clsx(
+          sx({
+            display: "flex",
+            flex: 1,
+            gap: 16,
+          }),
+          sitePaddingX,
+          siteContentWrapper,
+          contentPaddingY,
+        )}
+      >
+        <PlantDetailsView plant={plant} />
+      </section>
+    </RecoilRoot>
+  )
 }
 
 function getPlants(fileData: Record<string, unknown>): PlantDto[] {
@@ -33,7 +59,6 @@ function getPlants(fileData: Record<string, unknown>): PlantDto[] {
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
-  console.debug(process.cwd())
   const path = await import("path")
   const fse = await import("fs-extra")
   const fileData: Record<string, unknown> = fse.readJsonSync(

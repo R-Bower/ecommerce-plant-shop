@@ -2,13 +2,16 @@ import clsx from "clsx"
 import Image from "next/image"
 import NextLink from "next/link"
 import React from "react"
+import {useRecoilValue} from "recoil"
 
-import {PlantDto} from "~api/plants"
+import {PlantDto, PlantFilterId} from "~api/plants"
 import {PetFriendlyPawIcon} from "~components/icons"
 import {Link} from "~components/link"
+import {plantDetailsRoute} from "~lib/routes"
 import {bodyFont} from "~styles/body-font.css"
 import {sx} from "~styles/sx.css"
 
+import {getPlantFilterValuesById} from "../state"
 import {
   plantCardViewNowStyle,
   plantImageWrapperStyle,
@@ -18,6 +21,11 @@ import {
 
 interface Props {
   plant: PlantDto
+}
+
+function getPlantDetailsUrl(id: string, size?: string[]): string {
+  const baseUrl = plantDetailsRoute.getPath ? plantDetailsRoute.getPath(id) : ""
+  return size?.length ? `${baseUrl}?size=${size[0]}` : baseUrl
 }
 
 export function PlantCard({
@@ -36,7 +44,11 @@ export function PlantCard({
 
   const imgSrc = variant.imgSrc || variant.planters?.[0]?.imgSrc
 
-  const plantLink = `/plants/${id}`
+  const sizeFilterValues = useRecoilValue(
+    getPlantFilterValuesById(PlantFilterId.Size),
+  )
+
+  const plantLink = getPlantDetailsUrl(id, sizeFilterValues)
 
   return (
     <div
