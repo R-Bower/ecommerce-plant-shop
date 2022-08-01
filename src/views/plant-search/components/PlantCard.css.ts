@@ -41,3 +41,12 @@ export const viewNowTextStyle = style({
     },
   },
 })
+
+export const plantLinkStyle = style({
+  ":hover": {
+    textDecoration: "none",
+  },
+  ":link": {
+    textDecoration: "none",
+  },
+})

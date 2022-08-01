@@ -7,7 +7,7 @@ import {
   plantSearchRequestSchema,
 } from "~api/plants"
 
-import plantData from "./data/all-plants.json"
+import plantData from "./data/plants.json"
 
 // @ts-ignore
 const plants: PlantDto[] = plantData.plants

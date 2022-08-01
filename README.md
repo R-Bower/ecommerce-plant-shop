@@ -32,3 +32,8 @@ Stretch goals:
   - build the production application.
 - `yarn start`
   - start the production application (after building).
+
+
+##### Notes
+
+This project was a quick 5-week demo of a simple e-commerce application.  This is very different from how I'd normally do things, re: production data, and is merely a showcase of a simple ecommerce site.

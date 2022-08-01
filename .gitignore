@@ -18,8 +18,8 @@ dist
 
 # misc
 .DS_Store
-env.js
 env.local.js
+env.private.js
 .env.dev*
 .env.stage*
 .env.prod*

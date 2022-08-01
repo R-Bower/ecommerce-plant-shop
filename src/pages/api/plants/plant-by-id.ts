@@ -2,7 +2,7 @@ import type {NextApiRequest, NextApiResponse} from "next"
 
 import {plantByIdRequestSchema} from "~api/plants"
 
-import plants from "./data/all-plants.json"
+import plants from "./data/plants.json"
 
 export default function plantById(req: NextApiRequest, res: NextApiResponse) {
   const body = req.body
@@ -15,7 +15,5 @@ export default function plantById(req: NextApiRequest, res: NextApiResponse) {
 
   const plant = plants.plants.find((plant) => plant.id === parsedBody.data.id)
 
-  res.status(200).json({
-    plant,
-  })
+  res.status(200).json({plant})
 }

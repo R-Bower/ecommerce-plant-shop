@@ -1,5 +1,6 @@
 import clsx from "clsx"
 import Image from "next/image"
+import NextLink from "next/link"
 import React from "react"
 
 import {PlantDto} from "~api/plants"
@@ -10,6 +11,7 @@ import {sx} from "~styles/sx.css"
 import {
   plantCardViewNowStyle,
   plantImageWrapperStyle,
+  plantLinkStyle,
   viewNowTextStyle,
 } from "./PlantCard.css"
 
@@ -18,7 +20,7 @@ interface Props {
 }
 
 export function PlantCard({
-  plant: {metadata, title, variants},
+  plant: {id, metadata, title, variants},
 }: Props): React.ReactElement {
   const variant = variants[0] ?? {}
 
@@ -32,6 +34,8 @@ export function PlantCard({
       : "No") === "Yes"
 
   const imgSrc = variant.imgSrc || variant.planters?.[0]?.imgSrc
+
+  const plantLink = `/plants/${id}`
 
   return (
     <div
@@ -78,7 +82,17 @@ export function PlantCard({
             <p className={viewNowTextStyle}>View Now</p>
           </div>
         </div>
-        <h5>{title}</h5>
+        <NextLink className={clsx(plantLinkStyle)} href={plantLink}>
+          <h5
+            className={clsx(
+              sx({
+                cursor: "pointer",
+              }),
+            )}
+          >
+            {title}
+          </h5>
+        </NextLink>
       </div>
       <div>
         <div
