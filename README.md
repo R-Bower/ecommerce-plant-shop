@@ -32,6 +32,8 @@ Stretch goals:
   - build the production application.
 - `yarn start`
   - start the production application (after building).
+- `yarn watch`
+  - watch TS type errors (run in second terminal while developing)
 
 
 ##### Notes

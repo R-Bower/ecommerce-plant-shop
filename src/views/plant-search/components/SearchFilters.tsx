@@ -4,9 +4,9 @@ import {useRecoilValue, useSetRecoilState} from "recoil"
 
 import {
   EnabledFilterValuesDto,
+  FilterGroupDto,
   isFilterId,
   PlantFilterId,
-  SearchFilterDto,
 } from "~api/plants"
 import {
   CareLevelIcon,
@@ -37,7 +37,7 @@ const filterIcons: Record<PlantFilterId, React.ElementType> = {
 
 interface Props {
   enabledValues: EnabledFilterValuesDto
-  filters: SearchFilterDto[]
+  filters: FilterGroupDto[]
 }
 
 export function SearchFilters({
@@ -98,16 +98,16 @@ export function SearchFilters({
                 sx({display: "flex", flexDirection: "column", gap: 4}),
               )}
             >
-              {filter.values.map((value) => {
-                const enabled = enabledGroupFilters[value]
+              {filter.values.map((filterItem) => {
+                const enabled = enabledGroupFilters[filterItem.id]
                 return (
                   <FilterValueCheckbox
-                    key={`${filter.id}${value}`}
-                    checked={Boolean(activeGroupFilters[value])}
+                    key={`${filter.id}${filterItem.id}`}
+                    checked={Boolean(activeGroupFilters[filterItem.id])}
                     disabled={!enabled}
                     filterGroupId={filter.id}
                     onChange={onFilterChange}
-                    value={value}
+                    value={filterItem}
                   />
                 )
               })}

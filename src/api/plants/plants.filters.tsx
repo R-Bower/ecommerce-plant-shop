@@ -2,14 +2,15 @@ import {sort} from "rambda"
 
 import {ensureArray} from "~lib/utils"
 
-import {PlantFilterId} from "./plants.enums"
-import {PlantDto, PlantFilterInputDto, SearchFilterDto} from "./plants.schemas"
+import {PlantFilterId, PlantSizeId} from "./plants.enums"
+import {FilterGroupDto, PlantDto, PlantFilterInputDto} from "./plants.schemas"
 
 type EnabledFilterValues = Partial<
   Record<PlantFilterId, Record<string, boolean>>
 >
 
 const enabledFilters = new Set<PlantFilterId>([
+  PlantFilterId.Size,
   PlantFilterId.CareLevel,
   PlantFilterId.Cleaning,
   PlantFilterId.Fertilizing,
@@ -22,7 +23,7 @@ const enabledFilters = new Set<PlantFilterId>([
 ])
 
 export function isFilterId(id: string | PlantFilterId): id is PlantFilterId {
-  return enabledFilters.has(id as any)
+  return enabledFilters.has(id as PlantFilterId)
 }
 
 const filterLabels: Record<string, string> = {
@@ -31,8 +32,27 @@ const filterLabels: Record<string, string> = {
   [PlantFilterId.Size]: "Size",
 }
 
+const filterValueLabels: Record<string, Record<string, string>> = {
+  [PlantFilterId.Size]: {
+    [PlantSizeId.ExtraLarge]: "Extra Large",
+    [PlantSizeId.FiveGallon]: "Five Gallon",
+    [PlantSizeId.Large]: "Large",
+    [PlantSizeId.Medium]: "Medium",
+    [PlantSizeId.Small]: "Small",
+    [PlantSizeId.OneGallon]: "One Gallon",
+  },
+}
+
 const filterSortOrder: Record<PlantFilterId, Record<string, number>> = {
-  [PlantFilterId.Size]: {},
+  [PlantFilterId.Size]: {
+    __SIDEBAR: 1,
+    [PlantSizeId.ExtraLarge]: 4,
+    [PlantSizeId.FiveGallon]: 6,
+    [PlantSizeId.Large]: 3,
+    [PlantSizeId.Medium]: 2,
+    [PlantSizeId.Small]: 1,
+    [PlantSizeId.OneGallon]: 5,
+  },
   [PlantFilterId.Cleaning]: {
     __SIDEBAR: 8,
     "After bloom begins to die": 3,
@@ -85,55 +105,68 @@ const filterSortOrder: Record<PlantFilterId, Record<string, number>> = {
  */
 export function getPlantFilters(plants: PlantDto[]): {
   enabledValues: EnabledFilterValues
-  filters: SearchFilterDto[]
+  filters: FilterGroupDto[]
 } {
   const filterGroups: EnabledFilterValues = plants.reduce(
-    (acc: EnabledFilterValues, {careGuide, metadata}: PlantDto) => {
+    (acc: EnabledFilterValues, {careGuide, metadata, variants}: PlantDto) => {
+      variants.forEach((variant) => {
+        if (variant.planters) {
+          acc[PlantFilterId.Size] = {
+            ...acc[PlantFilterId.Size],
+            [variant.sizeId]: true,
+          }
+        }
+      })
       careGuide.forEach(({id, label, value}) => {
         if (!isFilterId(id) || !enabledFilters.has(id)) {
           return
         }
 
         if (value.length) {
-          if (!acc[id]) {
-            acc[id] = {}
-          }
-
-          // @ts-expect-error typescript drudgery
-          acc[id][label] = true
+          acc[id] = {...acc[id], [label]: true}
         }
       })
       metadata.forEach(({id, value}) => {
         if (!isFilterId(id) || !enabledFilters.has(id)) {
           return
         }
-
-        if (!acc[id]) {
-          acc[id] = {}
-        }
         // this is an interface issue – the value field's type is always a
         // string.  TODO: update interface
-        // @ts-expect-error typescript drudgery
-        acc[id][value as string] = true
+        acc[id] = {...acc[id], [value as string]: true}
       })
       return acc
     },
-    {},
+    {
+      [PlantFilterId.CareLevel]: {},
+      [PlantFilterId.Cleaning]: {},
+      [PlantFilterId.Fertilizing]: {},
+      [PlantFilterId.Humidity]: {},
+      [PlantFilterId.Light]: {},
+      [PlantFilterId.PetSafe]: {},
+      [PlantFilterId.RePotting]: {},
+      [PlantFilterId.Size]: {},
+      [PlantFilterId.Water]: {},
+    },
   )
 
   return {
     enabledValues: filterGroups,
     filters: Object.keys(filterGroups)
-      .map((_id) => {
-        const id = _id as PlantFilterId
-        const valueSet = filterGroups[id]
+      .map((filterGroupId) => {
+        const groupId = filterGroupId as PlantFilterId
+        const valueSet = filterGroups[groupId]
         const values = sort((val1, val2) => {
-          return filterSortOrder[id][val1] - filterSortOrder[id][val2]
+          return filterSortOrder[groupId][val1] - filterSortOrder[groupId][val2]
         }, Object.keys(valueSet as Record<string, boolean>))
+        const valueLabels = filterValueLabels[groupId]
         return {
-          id,
-          label: filterLabels[id] || id,
-          values,
+          id: groupId,
+          label: filterLabels[groupId] || groupId,
+          values: valueLabels
+            ? values.map((value) => {
+                return {id: value, label: valueLabels[value]}
+              })
+            : values.map((value) => ({id: value})),
         }
       })
       .sort((val1, val2) => {
@@ -155,7 +188,7 @@ export function filterPlants(
   }
 
   return plants.reduce((acc: PlantDto[], currentPlant: PlantDto) => {
-    const {careGuide, metadata} = currentPlant
+    const {careGuide, metadata, variants} = currentPlant
     const plantFilterOptions = [
       ...careGuide.map((val) => {
         return {id: val.id, value: [val.label]}
@@ -164,8 +197,27 @@ export function filterPlants(
     ]
     const matchesFilters = filters.every((filter) => {
       if (filter.id === PlantFilterId.Size) {
-        // TODO: handle size
-        return true
+        // determine the available sizes for this plant
+        const availableSizes = variants.reduce(
+          (acc: Record<PlantSizeId, boolean>, variant) => {
+            if (variant.planters) {
+              acc[variant.sizeId] = true
+            }
+            return acc
+          },
+          {
+            [PlantSizeId.OneGallon]: false,
+            [PlantSizeId.FiveGallon]: false,
+            [PlantSizeId.Small]: false,
+            [PlantSizeId.Medium]: false,
+            [PlantSizeId.Large]: false,
+            [PlantSizeId.ExtraLarge]: false,
+          },
+        )
+
+        return filter.values.every(
+          (value) => availableSizes[value as PlantSizeId],
+        )
       }
       const target = plantFilterOptions.find(
         (option) => option.id === filter.id,

@@ -1,6 +1,7 @@
 import clsx from "clsx"
 import React from "react"
 
+import {FilterItemDto} from "~api/plants"
 import {Checkbox} from "~components/checkbox"
 import {bodyFont} from "~styles/body-font.css"
 import {sx} from "~styles/sx.css"
@@ -10,7 +11,7 @@ interface Props {
   disabled?: boolean
   filterGroupId: string
   onChange: (id: string, value: string, active: boolean) => void
-  value: string
+  value: FilterItemDto
 }
 
 export function FilterValueCheckbox({
@@ -27,7 +28,7 @@ export function FilterValueCheckbox({
       setLocalChecked(eventChecked)
       // delay the onChange to prevent a laggy click
       setTimeout(() => {
-        onChange(filterGroupId, value, eventChecked)
+        onChange(filterGroupId, value.id, eventChecked)
       }, 50)
     },
     [filterGroupId, onChange, value],
@@ -55,7 +56,7 @@ export function FilterValueCheckbox({
             }),
           )}
         >
-          {value}
+          {value.label || value.id}
         </span>
       }
       onChange={(event) => {

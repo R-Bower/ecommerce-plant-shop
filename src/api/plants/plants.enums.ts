@@ -9,3 +9,12 @@ export enum PlantFilterId {
   PetSafe = "pet-safe",
   RePotting = "Re-potting",
 }
+
+export enum PlantSizeId {
+  OneGallon = "oneGallon",
+  FiveGallon = "fiveGallon",
+  Small = "small",
+  Medium = "medium",
+  Large = "large",
+  ExtraLarge = "extra-large",
+}

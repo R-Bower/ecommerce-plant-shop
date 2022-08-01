@@ -1,8 +1,11 @@
 import {GetStaticPaths, GetStaticProps} from "next"
 import {useRouter} from "next/router"
 import React from "react"
+import {z} from "zod"
 
-import {PlantDto} from "~api/plants"
+import {PlantDto, plantSchema} from "~api/plants"
+
+import NotFound from "../404"
 
 interface Props {
   plant?: PlantDto
@@ -11,26 +14,36 @@ interface Props {
 export default function PlantDetailsPage({plant}: Props): React.ReactElement {
   const router = useRouter()
 
-  React.useEffect(() => {
-    console.debug(plant)
-  }, [plant])
-
   if (router.isFallback) {
     return <div>Loading...</div>
   }
 
+  if (!plant) {
+    return <NotFound />
+  }
+
   return <></>
+}
+
+function getPlants(fileData: Record<string, unknown>): PlantDto[] {
+  const parsedData = z
+    .object({plants: z.array(plantSchema)})
+    .safeParse(fileData)
+  return parsedData.success ? parsedData.data.plants : []
 }
 
 export const getStaticPaths: GetStaticPaths = async () => {
   console.debug(process.cwd())
   const path = await import("path")
   const fse = await import("fs-extra")
-  const fileData: any = fse.readJsonSync(
+  const fileData: Record<string, unknown> = fse.readJsonSync(
     path.resolve(process.cwd(), "src/pages/api/plants/data/plants.json"),
   )
 
-  if (!fileData) {
+  const parsedData = getPlants(fileData)
+
+  if (!parsedData.length) {
+    console.debug("Failed to find plants")
     return {
       fallback: false,
       paths: [],
@@ -39,7 +52,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 
   return {
     fallback: false,
-    paths: fileData.plants.map((plant: PlantDto) => ({params: {id: plant.id}})),
+    paths: parsedData.map((plant: PlantDto) => ({params: {id: plant.id}})),
   }
 }
 
@@ -53,12 +66,14 @@ export const getStaticProps: GetStaticProps = async ({params}) => {
   const id = typeof params.id === "string" ? params.id : params.id[0]
   const path = await import("path")
   const fse = await import("fs-extra")
-  const fileData: {plants: PlantDto[]} = fse.readJsonSync(
+  const fileData: Record<string, unknown> = fse.readJsonSync(
     path.resolve(process.cwd(), "src/pages/api/plants/data/plants.json"),
   )
 
-  if (!fileData) {
-    console.debug("Couldn't find plants")
+  const parsedData = getPlants(fileData)
+
+  if (!parsedData.length) {
+    console.debug("Failed to find plants")
     return {
       props: {
         plant: undefined,
@@ -67,7 +82,7 @@ export const getStaticProps: GetStaticProps = async ({params}) => {
     }
   }
 
-  const plant = fileData.plants.find((plant: PlantDto) => plant.id === id)
+  const plant = parsedData.find((plant: PlantDto) => plant.id === id)
 
   return {
     props: {plant},

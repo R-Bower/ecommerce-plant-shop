@@ -4,18 +4,35 @@ import {useRecoilState, useRecoilValue} from "recoil"
 
 import {usePlantSearchQuery} from "~api/plants"
 import {CircleLoader} from "~components/loaders"
+import {useUrlSync} from "~lib/url"
 import {bodyFont} from "~styles/body-font.css"
 import {sx} from "~styles/sx.css"
 
 import {PlantCard, SearchFilters} from "./components"
 import {loaderWrapperStyle, plantWrapperStyle} from "./PlantSearchView.css"
-import {getPlantFiltersInput, searchTextAtom} from "./state"
+import {
+  deserializePlantSearchUrl,
+  getPlantFiltersInput,
+  pageState,
+  plantSearchUrlState,
+  searchTextAtom,
+  serializePlantSearchUrl,
+} from "./state"
+import {PlantSearchUrlState} from "./types"
+
+const pageSize = 20
 
 export function PlantSearchView(): React.ReactElement {
   const filters = useRecoilValue(getPlantFiltersInput)
   const [searchText, setSearchText] = useRecoilState(searchTextAtom)
-  const [page, setPage] = React.useState(0)
-  const [pageSize, setPageSize] = React.useState(20)
+  const [page, setPage] = useRecoilState(pageState)
+
+  useUrlSync<PlantSearchUrlState>({
+    baseUrl: "/plants/search",
+    deserializerFn: deserializePlantSearchUrl,
+    recoilState: plantSearchUrlState,
+    serializerFn: serializePlantSearchUrl,
+  })
 
   const {data, error, loading} = usePlantSearchQuery({
     filters,

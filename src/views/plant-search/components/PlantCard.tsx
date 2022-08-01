@@ -5,6 +5,7 @@ import React from "react"
 
 import {PlantDto} from "~api/plants"
 import {PetFriendlyPawIcon} from "~components/icons"
+import {Link} from "~components/link"
 import {bodyFont} from "~styles/body-font.css"
 import {sx} from "~styles/sx.css"
 
@@ -59,29 +60,31 @@ export function PlantCard({
           }),
         )}
       >
-        <div className={clsx(plantImageWrapperStyle)}>
-          {imgSrc ? (
-            <Image
-              height={300}
-              layout={"responsive"}
-              src={`/images/plants/${imgSrc}`}
-              width={250}
-            />
-          ) : null}
-          <div
-            className={clsx(
-              plantCardViewNowStyle,
-              sx({
-                alignItems: "center",
-                display: "flex",
-                flex: 1,
-                justifyContent: "center",
-              }),
-            )}
-          >
-            <p className={viewNowTextStyle}>View Now</p>
+        <Link href={plantLink}>
+          <div className={clsx(plantImageWrapperStyle)}>
+            {imgSrc ? (
+              <Image
+                height={300}
+                layout={"responsive"}
+                src={`/images/plants/${imgSrc}`}
+                width={250}
+              />
+            ) : null}
+            <div
+              className={clsx(
+                plantCardViewNowStyle,
+                sx({
+                  alignItems: "center",
+                  display: "flex",
+                  flex: 1,
+                  justifyContent: "center",
+                }),
+              )}
+            >
+              <p className={viewNowTextStyle}>View Now</p>
+            </div>
           </div>
-        </div>
+        </Link>
         <NextLink className={clsx(plantLinkStyle)} href={plantLink}>
           <h5
             className={clsx(

@@ -1,20 +1,20 @@
 import {z} from "zod"
 
-import {PlantFilterId} from "./plants.enums"
+import {PlantFilterId, PlantSizeId} from "./plants.enums"
 
-export const plantSize = z.enum([
-  "oneGallon",
-  "fiveGallon",
-  "small",
-  "medium",
-  "large",
-  "extra-large",
-])
+export const plantSize = z.nativeEnum(PlantSizeId)
+
+export const filterItemSchema = z.object({
+  id: z.string(),
+  label: z.string().optional(),
+})
+
+export type FilterItemDto = z.infer<typeof filterItemSchema>
 
 export const filterGroupSchema = z.object({
   id: z.nativeEnum(PlantFilterId),
   label: z.string(),
-  values: z.array(z.string()),
+  values: z.array(filterItemSchema),
 })
 
 export type FilterGroupDto = z.infer<typeof filterGroupSchema>
@@ -22,14 +22,6 @@ export type FilterGroupDto = z.infer<typeof filterGroupSchema>
 export const enabledFilterValuesSchema = z.record(z.record(z.boolean()))
 
 export type EnabledFilterValuesDto = z.infer<typeof enabledFilterValuesSchema>
-
-export const searchFilterSchema = z.object({
-  id: z.nativeEnum(PlantFilterId),
-  label: z.string(),
-  values: z.array(z.string()),
-})
-
-export type SearchFilterDto = z.infer<typeof searchFilterSchema>
 
 // ############
 // # METADATA #

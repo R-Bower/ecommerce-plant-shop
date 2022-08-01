@@ -10,6 +10,15 @@ const withVanillaExtract = createVanillaExtractPlugin()
 const nextConfig = {
   /* config options here */
   pageExtensions: ["tsx", "ts"],
+  async redirects() {
+    return [
+      {
+        destination: "/plants/search",
+        permanent: true,
+        source: "/",
+      },
+    ]
+  },
 }
 
 const config = withVanillaExtract(nextConfig)

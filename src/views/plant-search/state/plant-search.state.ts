@@ -1,15 +1,35 @@
 import {atom, DefaultValue, selector} from "recoil"
 
-import {PlantFilterId, PlantFilterInputDto} from "~api/plants"
+import {ActiveFilters, PlantFilterId, PlantFilterInputDto} from "~api/plants"
+import {updateReasonAtom} from "~lib/url"
 
-export type ActiveFilters = Record<PlantFilterId, Record<string, boolean>>
+import {PlantSearchUrlState} from "../types"
+
+export const pageAtom = atom<number>({
+  default: 0,
+  key: "pageAtom",
+})
+
+/*
+ * Enhanced state that triggers a URL update when modified.
+ */
+export const pageState = selector<number>({
+  get: ({get}) => {
+    return get(pageAtom)
+  },
+  key: "pageState",
+  set: ({set}, newValue) => {
+    set(pageAtom, newValue)
+    set(updateReasonAtom, "changed")
+  },
+})
 
 export const searchTextAtom = atom<string>({
   default: "",
   key: "searchTextAtom",
 })
 
-const defaultActiveFilters: ActiveFilters = {
+export const defaultPlantSearchFilters: ActiveFilters = {
   [PlantFilterId.RePotting]: {},
   [PlantFilterId.Cleaning]: {},
   [PlantFilterId.Fertilizing]: {},
@@ -21,10 +41,10 @@ const defaultActiveFilters: ActiveFilters = {
   [PlantFilterId.Size]: {},
 }
 
-Object.freeze(defaultActiveFilters)
+Object.freeze(defaultPlantSearchFilters)
 
 export const activeFiltersAtom = atom<ActiveFilters>({
-  default: defaultActiveFilters,
+  default: defaultPlantSearchFilters,
   key: "activeFiltersAtom",
 })
 
@@ -55,6 +75,10 @@ export const toggleActiveFilter = selector<{
         [id]: {...group, [value]: active},
       })
     }
+    // reset the page whenever filters change to bring the user to the
+    // top of the new search results
+    set(pageAtom, 0)
+    set(updateReasonAtom, "changed")
   },
 })
 
@@ -73,4 +97,31 @@ export const getPlantFiltersInput = selector<PlantFilterInputDto[]>({
       .filter(({values}) => values.length)
   },
   key: "getPlantFiltersInput",
+})
+
+/*
+ * Used by the URL de/serializers to retrieve and update the related pieces of
+ * URL state.
+ */
+export const plantSearchUrlState = selector<PlantSearchUrlState>({
+  get: ({get}) => {
+    const page = get(pageAtom)
+    const searchText = get(searchTextAtom)
+    const activeFilters = get(activeFiltersAtom)
+    return {
+      activeFilters,
+      page,
+      searchText,
+    }
+  },
+  key: "plantSearchUrlState",
+  set: ({set}, urlState) => {
+    if (urlState instanceof DefaultValue) {
+      // resetting is not supported
+      return
+    }
+    set(activeFiltersAtom, urlState.activeFilters as ActiveFilters)
+    set(searchTextAtom, urlState.searchText)
+    set(pageAtom, 0)
+  },
 })
