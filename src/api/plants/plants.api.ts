@@ -2,6 +2,7 @@ import kyBase from "ky-universal"
 
 import {kyOpts} from "../shared.constants"
 import {
+  PlantByIdRequestDto,
   PlantDto,
   plantSchema,
   PlantSearchRequestDto,
@@ -15,10 +16,10 @@ const ky = kyBase.extend({
 })
 
 export const PlantsApi = {
-  plantById: async (id: string): Promise<PlantDto> => {
+  plantById: async (input: PlantByIdRequestDto): Promise<PlantDto> => {
     const result = await ky
       .post(`plant-by-id`, {
-        json: id,
+        json: input,
       })
       .json()
     const parsed = plantSchema.safeParse(result)
@@ -32,9 +33,6 @@ export const PlantsApi = {
   ): Promise<PlantSearchResponseDto> => {
     const result = await ky
       .post(`plant-search`, {
-        headers: {
-          "Content-Type": "application/json",
-        },
         json: input,
       })
       .json()

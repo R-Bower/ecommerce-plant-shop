@@ -33,7 +33,7 @@ export function Checkbox({
             gap: 12,
           }),
         )}
-        onClick={disabled ? undefined : onChange}
+        onClick={checked || !disabled ? onChange : undefined}
         role={"checkbox"}
         tabIndex={tabIndex}
       >

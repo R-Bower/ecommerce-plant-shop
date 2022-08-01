@@ -70,7 +70,12 @@ const filterSortOrder: Record<PlantFilterId, Record<string, number>> = {
     "I'm Easy": 1,
     "Plays Hard to Get": 3,
   },
-  [PlantFilterId.PetSafe]: {__SIDEBAR: 2, No: 2, Yes: 1},
+  [PlantFilterId.PetSafe]: {
+    __SIDEBAR: 2,
+    "Toxic To Ingest": 2,
+    "Toxic To Touch": 3,
+    Yes: 1,
+  },
 }
 
 /*
@@ -84,14 +89,8 @@ export function getPlantFilters(plants: PlantDto[]): {
 } {
   const filterGroups: EnabledFilterValues = plants.reduce(
     (acc: EnabledFilterValues, {careGuide, metadata}: PlantDto) => {
-      // the pet-safe field may not be present if the plant isn't pet-safe.
-      // We account for this manually.
-      let petSafe = false
       careGuide.forEach(({id, label, value}) => {
-        if (!isFilterId(id)) {
-          return
-        }
-        if (!enabledFilters.has(id)) {
+        if (!isFilterId(id) || !enabledFilters.has(id)) {
           return
         }
 
@@ -99,39 +98,27 @@ export function getPlantFilters(plants: PlantDto[]): {
           if (!acc[id]) {
             acc[id] = {}
           }
+
           // @ts-expect-error typescript drudgery
           acc[id][label] = true
         }
       })
       metadata.forEach(({id, value}) => {
-        if (!isFilterId(id)) {
+        if (!isFilterId(id) || !enabledFilters.has(id)) {
           return
         }
-        if (!enabledFilters.has(id)) {
-          return
-        }
-        if (id === "pet-safe") {
-          petSafe = value === "Yes"
-          // @ts-expect-error typescript drudgery
-          acc[PlantFilterId.PetSafe]["Yes"] = true
-        } else {
-          if (!acc[id]) {
-            acc[id] = {}
-          }
-          // this is an interface issue – the value field's type is always a
-          // string.  TODO: update interface
-          // @ts-expect-error typescript drudgery
-          acc[id][value as string] = true
-        }
-      })
 
-      if (!petSafe) {
+        if (!acc[id]) {
+          acc[id] = {}
+        }
+        // this is an interface issue – the value field's type is always a
+        // string.  TODO: update interface
         // @ts-expect-error typescript drudgery
-        acc[PlantFilterId.PetSafe]["No"] = true
-      }
+        acc[id][value as string] = true
+      })
       return acc
     },
-    {[PlantFilterId.PetSafe]: {}},
+    {},
   )
 
   return {
@@ -167,8 +154,8 @@ export function filterPlants(
     return plants
   }
 
-  return plants.reduce((acc: PlantDto[], currentValue: PlantDto) => {
-    const {careGuide, metadata} = currentValue
+  return plants.reduce((acc: PlantDto[], currentPlant: PlantDto) => {
+    const {careGuide, metadata} = currentPlant
     const plantFilterOptions = [
       ...careGuide.map((val) => {
         return {id: val.id, value: [val.label]}
@@ -186,12 +173,14 @@ export function filterPlants(
       if (!target) {
         return false
       }
+
       return filter.values.every((value) => {
         return ensureArray(target.value).includes(value)
       })
     })
+
     if (matchesFilters) {
-      acc.push(currentValue)
+      acc.push(currentPlant)
     }
     return acc
   }, [])

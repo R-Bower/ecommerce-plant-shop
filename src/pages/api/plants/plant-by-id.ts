@@ -1,7 +1,21 @@
 import type {NextApiRequest, NextApiResponse} from "next"
 
-export default function plantById(req: NextApiRequest, res: NextApiResponse) {
-  console.debug(req.body)
+import {plantByIdRequestSchema} from "~api/plants"
 
-  res.status(200).json({})
+import plants from "./data/all-plants.json"
+
+export default function plantById(req: NextApiRequest, res: NextApiResponse) {
+  const body = req.body
+
+  const parsedBody = plantByIdRequestSchema.safeParse(body)
+
+  if (!parsedBody.success) {
+    return res.status(400).json({message: "Call failed due to malformed input"})
+  }
+
+  const plant = plants.plants.find((plant) => plant.id === parsedBody.data.id)
+
+  res.status(200).json({
+    plant,
+  })
 }

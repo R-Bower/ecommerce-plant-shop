@@ -124,3 +124,9 @@ export const plantSearchRequestSchema = z.object({
 })
 
 export type PlantSearchRequestDto = z.infer<typeof plantSearchRequestSchema>
+
+export const plantByIdRequestSchema = z.object({
+  id: z.string(),
+})
+
+export type PlantByIdRequestDto = z.infer<typeof plantByIdRequestSchema>

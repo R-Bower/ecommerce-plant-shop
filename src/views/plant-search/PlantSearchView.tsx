@@ -25,10 +25,8 @@ export function PlantSearchView(): React.ReactElement {
   React.useEffect(() => {
     if (error) {
       console.debug({apiError: error})
-    } else {
-      console.debug(data)
     }
-  }, [data, error])
+  }, [error])
 
   return (
     <div
