@@ -1,6 +1,6 @@
 import React from "react"
 
-interface Props extends React.SVGProps<any> {}
+interface Props extends React.SVGProps<SVGSVGElement> {}
 
 export function Logo({...props}: Props): React.ReactElement {
   return (

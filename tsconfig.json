@@ -27,7 +27,8 @@
       "~api/*": ["src/api/*"],
       "~components/*": ["src/components/*"],
       "~lib/*": ["src/lib/*"],
-      "~styles/*": ["src/styles/*"]
+      "~styles/*": ["src/styles/*"],
+      "~views/*": ["src/views/*"]
     }
   },
   "include": [
