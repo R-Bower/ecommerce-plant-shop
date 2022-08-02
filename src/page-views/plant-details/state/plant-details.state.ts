@@ -1,6 +1,6 @@
 import {atom, DefaultValue, selector} from "recoil"
 
-import {PlantSizeId, PlantPotId} from "~api/plants"
+import {PlantPotId, PlantSizeId} from "~api/plants"
 import {updateReasonAtom} from "~lib/url"
 
 import {PlantDetailsUrlState} from "../types"

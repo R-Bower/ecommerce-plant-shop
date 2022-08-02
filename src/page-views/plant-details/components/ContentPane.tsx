@@ -34,7 +34,7 @@ const planterIcons: Record<PlantPotId, React.ElementType> = {
 export function ContentPane({
   activePot,
   activeSize,
-  plant: {careGuide, description, id, metadata, title, variants = [], variant},
+  plant: {title, variants = [], variant},
   price,
 }: Props): React.ReactElement {
   const setSize = useSetRecoilState(plantSizeState)
@@ -52,6 +52,7 @@ export function ContentPane({
           (planter) => planter.planterId === activePot,
         )
       })
+      console.debug(availableVariants)
     }
     if (activeSize) {
       const planterSize = variants.find(

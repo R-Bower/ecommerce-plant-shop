@@ -1,6 +1,6 @@
 import clsx from "clsx"
 import React from "react"
-import {useRecoilState, useRecoilValue} from "recoil"
+import {useRecoilValue} from "recoil"
 
 import {usePlantSearchQuery} from "~api/plants"
 import {CircleLoader} from "~components/loaders"
@@ -24,8 +24,8 @@ const pageSize = 20
 
 export function PlantSearchView(): React.ReactElement {
   const filters = useRecoilValue(getPlantFiltersInput)
-  const [searchText, setSearchText] = useRecoilState(searchTextAtom)
-  const [page, setPage] = useRecoilState(pageState)
+  const searchText = useRecoilValue(searchTextAtom)
+  const page = useRecoilValue(pageState)
 
   useUrlSync<PlantSearchUrlState>({
     baseUrl: "/plants/search",

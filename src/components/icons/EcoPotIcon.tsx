@@ -29,7 +29,11 @@ export function EcoPotIcon({...props}: Props): React.ReactElement {
               id={"Select-Pot"}
               transform={"translate(0 168)"}
             >
-              <g fill={"currentColor"} id={"Pot-Type"} transform={"translate(0 31)"}>
+              <g
+                fill={"currentColor"}
+                id={"Pot-Type"}
+                transform={"translate(0 31)"}
+              >
                 <g fill={"currentColor"} transform={"translate(12)"}>
                   <g
                     fill={"currentColor"}
