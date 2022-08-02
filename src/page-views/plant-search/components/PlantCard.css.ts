@@ -24,10 +24,10 @@ export const plantCardViewNowStyle = style({
   selectors: {
     [`${plantImageWrapperStyle}:hover &`]: {
       height: 38,
-      transition: `height 250ms ${theme.animations.easeInOut}`,
+      transition: `height 250ms ${theme.animations.easing.easeInOut}`,
     },
   },
-  transition: `height 150ms ${theme.animations.easeInOut}`,
+  transition: `height 150ms ${theme.animations.easing.easeInOut}`,
   width: "100%",
   willChange: "transform",
 })

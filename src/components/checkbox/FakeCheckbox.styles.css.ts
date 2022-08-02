@@ -4,5 +4,5 @@ import {theme} from "~styles/theme.css"
 
 export const fakeCheckboxWrapperStyle = style({
   borderRadius: "3px",
-  transition: `background-color 161ms ${theme.animations.easeInOut}`,
+  transition: `background-color 161ms ${theme.animations.easing.easeInOut}`,
 })

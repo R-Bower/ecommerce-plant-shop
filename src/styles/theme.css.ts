@@ -1,7 +1,7 @@
 import {createGlobalTheme} from "@vanilla-extract/css"
 
 const colors = {
-  actionActive: "#fff",
+  actionActive: "#FFF",
   actionDisabled: "rgba(255, 255, 255, 0.3)",
   actionDisabledBackground: "rgba(255, 255, 255, 0.12)",
   actionFocus: "rgba(255, 255, 255, 0.12)",
@@ -9,8 +9,10 @@ const colors = {
   actionSelected: "rgba(255, 255, 255, 0.16)",
 
   backgroundDark: "#E0E0E0",
+
   backgroundElevation1:
     "linear-gradient(0deg, rgba(208, 188, 255, 0.05), rgba(208, 188, 255, 0.05)), #1C1B1F",
+
   backgroundElevation2:
     "linear-gradient(0deg, rgba(208, 188, 255, 0.08), rgba(208, 188, 255, 0.08)), #1C1B1F",
   backgroundElevation3:
@@ -19,16 +21,17 @@ const colors = {
     "linear-gradient(0deg, rgba(208, 188, 255, 0.12), rgba(208, 188, 255, 0.12)), #1C1B1F",
   backgroundElevation5:
     "linear-gradient(0deg, rgba(208, 188, 255, 0.14), rgba(208, 188, 255, 0.14)), #1C1B1F",
-  backgroundMain: "#FFFFFF",
-
+  backgroundMain: "#FFF",
+  black: "#000",
   border: "#B2BAC2",
+
   borderActive: "#A0AAB4",
   borderDisabled: "rgba(131, 131, 131, 0.24)",
   borderHover: "#F5F5F5",
-
   divider: "#EBEBEB",
 
   grey50: "#F3F6F9",
+
   grey100: "#E7EBF0",
   grey200: "#E0E3E7",
   grey300: "#CDD2D7",
@@ -42,6 +45,7 @@ const colors = {
   greyA200: "#eeeeee",
   greyA400: "#bdbdbd",
   greyA700: "#616161",
+  inherit: "inherit",
 
   primaryDark: "#2a3921",
   primaryLight: "#668950",
@@ -62,7 +66,9 @@ export type Color = keyof typeof colors
 
 export const theme = createGlobalTheme("#app", {
   animations: {
-    easeInOut: "cubic-bezier(0.230, 1.000, 0.320, 1.000)",
+    easing: {
+      easeInOut: "cubic-bezier(0.230, 1.000, 0.320, 1.000)",
+    },
   },
   color: colors,
   font: {

@@ -32,7 +32,7 @@ const filterLabels: Record<string, string> = {
   [PlantFilterId.Size]: "Size",
 }
 
-const filterValueLabels: Record<string, Record<string, string>> = {
+export const filterValueLabels: Record<string, Record<string, string>> = {
   [PlantFilterId.Size]: {
     [PlantSizeId.ExtraLarge]: "Extra Large",
     [PlantSizeId.FiveGallon]: "Five Gallon",

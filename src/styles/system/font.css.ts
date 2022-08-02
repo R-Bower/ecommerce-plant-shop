@@ -16,4 +16,4 @@ const fontProperties = defineProperties({
   responsiveArray: ["default", "mobile", "tablet", "desktop"],
 })
 
-export const font = createSprinkles(fontProperties)
+export const fontSx = createSprinkles(fontProperties)

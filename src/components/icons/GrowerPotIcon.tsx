@@ -2,7 +2,7 @@ import React from "react"
 
 interface Props extends React.SVGProps<SVGSVGElement> {}
 
-export function RePottingIcon({...props}: Props): React.ReactElement {
+export function GrowerPotIcon({...props}: Props): React.ReactElement {
   return (
     <svg
       height={"17px"}

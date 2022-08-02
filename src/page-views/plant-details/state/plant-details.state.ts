@@ -1,6 +1,6 @@
 import {atom, DefaultValue, selector} from "recoil"
 
-import {PlantSizeId, PlantVariantId} from "~api/plants"
+import {PlantSizeId, PlantPotId} from "~api/plants"
 import {updateReasonAtom} from "~lib/url"
 
 import {PlantDetailsUrlState} from "../types"
@@ -21,18 +21,18 @@ export const plantSizeState = selector<PlantSizeId | undefined>({
   },
 })
 
-export const plantVariantAtom = atom<PlantVariantId | undefined>({
+export const plantPotAtom = atom<PlantPotId | undefined>({
   default: undefined,
-  key: "plantVariantAtom",
+  key: "plantPotAtom",
 })
 
-export const plantVariantState = selector<PlantVariantId | undefined>({
+export const plantPotState = selector<PlantPotId | undefined>({
   get: ({get}) => {
-    return get(plantVariantAtom)
+    return get(plantPotAtom)
   },
-  key: "plantVariantState",
+  key: "plantPotState",
   set: ({set}, newValue) => {
-    set(plantVariantAtom, newValue)
+    set(plantPotAtom, newValue)
     set(updateReasonAtom, "changed")
   },
 })
@@ -41,7 +41,7 @@ export const plantDetailsUrlState = selector<PlantDetailsUrlState>({
   get: ({get}) => {
     return {
       plantSize: get(plantSizeAtom),
-      plantVariant: get(plantVariantAtom),
+      plantVariant: get(plantPotAtom),
     }
   },
   key: "plantDetailsUrlState",
@@ -51,6 +51,6 @@ export const plantDetailsUrlState = selector<PlantDetailsUrlState>({
       return
     }
     set(plantSizeAtom, urlState.plantSize)
-    set(plantVariantAtom, urlState.plantVariant)
+    set(plantPotAtom, urlState.plantVariant)
   },
 })

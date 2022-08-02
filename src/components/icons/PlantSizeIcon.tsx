@@ -21,7 +21,7 @@ export function PlantSizeIcon({...props}: Props): React.ReactElement {
         strokeWidth={"1"}
       >
         <g
-          fill={"#425934"}
+          fill={"currentColor"}
           fillRule={"nonzero"}
           id={"D---PDP-[Plant-&amp;-Planter]"}
           transform={"translate(-840.000000, -939.000000)"}

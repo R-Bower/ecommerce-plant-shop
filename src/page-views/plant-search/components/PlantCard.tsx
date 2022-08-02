@@ -8,7 +8,7 @@ import {PlantDto, PlantFilterId} from "~api/plants"
 import {PetFriendlyPawIcon} from "~components/icons"
 import {Link} from "~components/link"
 import {plantDetailsRoute} from "~lib/routes"
-import {bodyFont} from "~styles/body-font.css"
+import {font} from "~styles/font.css"
 import {sx} from "~styles/sx.css"
 
 import {getPlantFilterValuesById} from "../state"
@@ -29,20 +29,16 @@ function getPlantDetailsUrl(id: string, size?: string[]): string {
 }
 
 export function PlantCard({
-  plant: {id, metadata, title, variants},
+  plant: {id, metadata, title, variant, variants},
 }: Props): React.ReactElement {
-  const variant = variants[0] ?? {}
-
-  const lowestPrice = variants[0]?.imgSrc
-    ? variants[0].price
-    : variants[0]?.planters?.[0]?.price
+  const lowestPrice = variant ? variant.price : variants[0].planters[0].price
 
   const petFriendly =
     (metadata.length
       ? metadata.find((item) => item.id === "pet-safe")?.value
       : "No") === "Yes"
 
-  const imgSrc = variant.imgSrc || variant.planters?.[0]?.imgSrc
+  const imgSrc = variant ? variant.imgSrc : variants[0]?.planters?.[0]?.imgSrc
 
   const sizeFilterValues = useRecoilValue(
     getPlantFilterValuesById(PlantFilterId.Size),
@@ -109,6 +105,7 @@ export function PlantCard({
           </h5>
         </NextLink>
       </div>
+      {/* Price and pet indicators */}
       <div>
         <div
           className={clsx(
@@ -118,13 +115,12 @@ export function PlantCard({
               borderBottomColor: "border",
               display: "flex",
               gap: 4,
-              mt: 16,
               pb: 2,
             }),
           )}
         >
-          <span className={clsx(bodyFont({variant: "subtitle"}))}>From</span>
-          <span className={clsx(bodyFont({variant: "body"}))}>
+          <span className={clsx(font({variant: "subtitle"}))}>From</span>
+          <span className={clsx(font({variant: "body"}))}>
             {`${lowestPrice}`}
           </span>
         </div>
@@ -148,7 +144,7 @@ export function PlantCard({
                   sx({
                     mt: 1,
                   }),
-                  bodyFont({
+                  font({
                     variant: "subtitle",
                   }),
                 )}

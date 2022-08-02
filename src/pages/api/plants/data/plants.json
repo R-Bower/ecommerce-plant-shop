@@ -649,12 +649,11 @@
         }
       ],
       "title": "18\" Fresh Live Succulent Wreath: Fully Covered",
-      "variants": [
-        {
-          "imgSrc": "18-fresh-live-succulent-wreath-fully-covered.webp",
-          "price": "$200.00"
-        }
-      ]
+      "variants": [],
+      "variant": {
+        "imgSrc": "18-fresh-live-succulent-wreath-fully-covered.webp",
+        "price": "$200.00"
+      }
     },
     {
       "careGuide": [
@@ -1175,7 +1174,7 @@
         }
       ]
     },
-        {
+    {
       "careGuide": [
         {
           "id": "Light",
@@ -2370,12 +2369,11 @@
         }
       ],
       "title": "Butzii Air Plant",
-      "variants": [
-        {
-          "imgSrc": "butzii-air-plant.webp",
-          "price": "$12.00"
-        }
-      ]
+      "variants": [],
+      "variant": {
+        "imgSrc": "butzii-air-plant.webp",
+        "price": "$12.00"
+      }
     },
     {
       "careGuide": [
@@ -3352,7 +3350,7 @@
         }
       ]
     },
-        {
+    {
       "careGuide": [
         {
           "id": "Light",
@@ -4744,12 +4742,11 @@
         }
       ],
       "title": "Eric Knobloch (Streptophylla x brachycaulos) Air Plant",
-      "variants": [
-        {
-          "imgSrc": "eric-knobloch-streptophylla-x-brachycaulos-air-plant.webp",
-          "price": "$14.00"
-        }
-      ]
+      "variants": [],
+      "variant": {
+        "imgSrc": "eric-knobloch-streptophylla-x-brachycaulos-air-plant.webp",
+        "price": "$14.00"
+      }
     },
     {
       "careGuide": [
@@ -6094,12 +6091,11 @@
         }
       ],
       "title": "Great For Gifting - Pet Friendly Plant Gift Club",
-      "variants": [
-        {
-          "imgSrc": "great-for-gifting-pet-friendly-plant-gift-club.webp",
-          "price": "$200.00"
-        }
-      ]
+      "variants": [],
+      "variant": {
+        "imgSrc": "great-for-gifting-pet-friendly-plant-gift-club.webp",
+        "price": "$200.00"
+      }
     },
     {
       "careGuide": [],
@@ -6110,12 +6106,11 @@
       "id": "great-for-gifting-rare-special-plant-gift-club",
       "metadata": [],
       "title": "Great For Gifting - Rare & Special Plant Gift Club",
-      "variants": [
-        {
-          "imgSrc": "great-for-gifting-rare-special-plant-gift-club.webp",
-          "price": "$210.00"
-        }
-      ]
+      "variants": [],
+      "variant": {
+        "imgSrc": "great-for-gifting-rare-special-plant-gift-club.webp",
+        "price": "$210.00"
+      }
     },
     {
       "careGuide": [
@@ -6469,12 +6464,11 @@
         }
       ],
       "title": "Ionantha Fuego Air Plant",
-      "variants": [
-        {
-          "imgSrc": "ionantha-fuego-air-plant.webp",
-          "price": "$12.00"
-        }
-      ]
+      "variants": [],
+      "variant": {
+        "imgSrc": "ionantha-fuego-air-plant.webp",
+        "price": "$12.00"
+      }
     },
     {
       "careGuide": [
@@ -8795,12 +8789,11 @@
         }
       ],
       "title": "Orange Pumpkin Air Plant",
-      "variants": [
-        {
-          "imgSrc": "orange-pumpkin-air-plant.webp",
-          "price": "$22.00"
-        }
-      ]
+      "variants": [],
+      "variant": {
+        "imgSrc": "orange-pumpkin-air-plant.webp",
+        "price": "$22.00"
+      }
     },
     {
       "careGuide": [
@@ -10369,12 +10362,11 @@
         }
       ],
       "title": "Quarterly Pet Friendly Plant Subscription",
-      "variants": [
-        {
-          "imgSrc": "quarterly-pet-friendly-plant-subscription.webp",
-          "price": "$50.00"
-        }
-      ]
+      "variants": [],
+      "variant": {
+        "imgSrc": "quarterly-pet-friendly-plant-subscription.webp",
+        "price": "$50.00"
+      }
     },
     {
       "careGuide": [
@@ -12229,12 +12221,11 @@
         }
       ],
       "title": "T. Funckiana Air Plant",
-      "variants": [
-        {
-          "imgSrc": "t-funckiana-air-plant.webp",
-          "price": "$12.00"
-        }
-      ]
+      "variants": [],
+      "variant": {
+        "imgSrc": "t-funckiana-air-plant.webp",
+        "price": "$12.00"
+      }
     },
     {
       "careGuide": [
@@ -12312,12 +12303,11 @@
         }
       ],
       "title": "T. Juncea Air Plant",
-      "variants": [
-        {
-          "imgSrc": "t-juncea-air-plant.webp",
-          "price": "$12.00"
-        }
-      ]
+      "variants": [],
+      "variant": {
+        "imgSrc": "t-juncea-air-plant.webp",
+        "price": "$12.00"
+      }
     },
     {
       "careGuide": [
@@ -12391,12 +12381,11 @@
         }
       ],
       "title": "T. Silver Queen Air Plant",
-      "variants": [
-        {
-          "imgSrc": "t-silver-queen-air-plant.webp",
-          "price": "$28.00"
-        }
-      ]
+      "variants": [],
+      "variant": {
+        "imgSrc": "t-silver-queen-air-plant.webp",
+        "price": "$28.00"
+      }
     },
     {
       "careGuide": [
@@ -12470,12 +12459,11 @@
         }
       ],
       "title": "T. Velutina Air Plant",
-      "variants": [
-        {
-          "imgSrc": "t-velutina-air-plant.webp",
-          "price": "$14.00"
-        }
-      ]
+      "variants": [],
+      "variant": {
+        "imgSrc": "t-velutina-air-plant.webp",
+        "price": "$14.00"
+      }
     },
     {
       "careGuide": [
@@ -12546,12 +12534,11 @@
         }
       ],
       "title": "Tillandsia Houston Air Plant",
-      "variants": [
-        {
-          "imgSrc": "tillandsia-houston-air-plant.webp",
-          "price": "$12.00"
-        }
-      ]
+      "variants": [],
+      "variant": {
+        "imgSrc": "tillandsia-houston-air-plant.webp",
+        "price": "$12.00"
+      }
     },
     {
       "careGuide": [
@@ -12624,12 +12611,11 @@
         }
       ],
       "title": "Tillandsia Xerographica Air Plant",
-      "variants": [
-        {
-          "imgSrc": "tillandsia-xerographica-air-plant.webp",
-          "price": "$30.00"
-        }
-      ]
+      "variants": [],
+      "variant": {
+        "imgSrc": "tillandsia-xerographica-air-plant.webp",
+        "price": "$30.00"
+      }
     },
     {
       "careGuide": [
@@ -12835,12 +12821,11 @@
       "id": "ty-ehlersiana-x-bulbosa-air-plant",
       "metadata": [],
       "title": "‘Ty’ Ehlersiana x Bulbosa Air Plant",
-      "variants": [
-        {
-          "imgSrc": "ty-ehlersiana-x-bulbosa-air-plant.webp",
-          "price": "$12.00"
-        }
-      ]
+      "variants": [],
+      "variant": {
+        "imgSrc": "ty-ehlersiana-x-bulbosa-air-plant.webp",
+        "price": "$12.00"
+      }
     },
     {
       "careGuide": [],
@@ -12861,12 +12846,11 @@
         }
       ],
       "title": "Upright Jurassic Elephant Ear Giant Premium Caladium Bulbs",
-      "variants": [
-        {
-          "imgSrc": "upright-jurassic-elephant-ear-giant-premium-caladium-bulbs.webp",
-          "price": "$64.00"
-        }
-      ]
+      "variants": [],
+      "variant": {
+        "imgSrc": "upright-jurassic-elephant-ear-giant-premium-caladium-bulbs.webp",
+        "price": "$64.00"
+      }
     },
     {
       "careGuide": [
@@ -13313,12 +13297,11 @@
         }
       ],
       "title": "Victoria Red Splender (Ionantha x brachycaulos) Air Plant",
-      "variants": [
-        {
-          "imgSrc": "victoria-red-splender-ionantha-x-brachycaulos-air-plant.webp",
-          "price": "$14.00"
-        }
-      ]
+      "variants": [],
+      "variant": {
+        "imgSrc": "victoria-red-splender-ionantha-x-brachycaulos-air-plant.webp",
+        "price": "$14.00"
+      }
     },
     {
       "careGuide": [
@@ -14016,7 +13999,7 @@
         }
       ]
     },
-        {
+    {
       "careGuide": [
         {
           "id": "Light",

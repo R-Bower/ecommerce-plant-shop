@@ -3,7 +3,7 @@ import React from "react"
 
 import {FilterItemDto} from "~api/plants"
 import {Checkbox} from "~components/checkbox"
-import {bodyFont} from "~styles/body-font.css"
+import {font} from "~styles/font.css"
 import {sx} from "~styles/sx.css"
 
 interface Props {
@@ -51,7 +51,7 @@ export function FilterValueCheckbox({
             sx({
               color: disabled && !checked ? "textDisabled" : "textPrimary",
             }),
-            bodyFont({
+            font({
               variant: "body",
             }),
           )}

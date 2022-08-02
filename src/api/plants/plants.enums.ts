@@ -19,7 +19,7 @@ export enum PlantSizeId {
   ExtraLarge = "extra-large",
 }
 
-export enum PlantVariantId {
+export enum PlantPotId {
   Grower = "grower",
   EcoPlanter = "planter-eco-planter",
   NaturalsBasket = "planter-naturals-basket",

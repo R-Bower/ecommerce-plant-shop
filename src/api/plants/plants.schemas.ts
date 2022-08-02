@@ -1,6 +1,6 @@
 import {z} from "zod"
 
-import {PlantFilterId, PlantSizeId, PlantVariantId} from "./plants.enums"
+import {PlantFilterId, PlantPotId, PlantSizeId} from "./plants.enums"
 
 export const plantSize = z.nativeEnum(PlantSizeId)
 
@@ -39,39 +39,27 @@ export type PlantMetadataDto = z.infer<typeof plantMetadataSchema>
 // ###########
 export const planterSchema = z.object({
   imgSrc: z.string().optional(),
-  planterId: z.nativeEnum(PlantVariantId),
+  planterId: z.nativeEnum(PlantPotId),
   planterLabel: z.string(),
   price: z.string(),
 })
 
 export type PlanterDto = z.infer<typeof planterSchema>
 
-const plantVariantPlanterSchema = z.object({
-  imgSrc: z.undefined().optional(),
+const plantVariantSchema = z.object({
   planters: z.array(planterSchema),
   sizeId: plantSize,
   sizeLabel: z.string(),
 })
 
-export type PlantVariantPlanterDto = z.infer<typeof plantVariantPlanterSchema>
+export type PlantVariantDto = z.infer<typeof plantVariantSchema>
 
-const plantVariantSingleSchema = z.object({
-  imgSrc: z.string().optional(),
-  planters: z.undefined().optional(),
+const plantBasicVariantSchema = z.object({
+  imgSrc: z.string(),
   price: z.string(),
 })
 
-export type PlantVariantSingleDto = z.infer<typeof plantVariantSingleSchema>
-
-// #################
-// # PLANT VARIANT #
-// #################
-export const plantVariantSchema = z.union([
-  plantVariantPlanterSchema,
-  plantVariantSingleSchema,
-])
-
-export type PlantVariantDto = z.infer<typeof plantVariantSchema>
+export type PlantBasicVariantDto = z.infer<typeof plantBasicVariantSchema>
 
 // #########
 // # PLANT #
@@ -82,6 +70,7 @@ export const plantSchema = z.object({
   id: z.string(),
   metadata: z.array(plantMetadataSchema),
   title: z.string(),
+  variant: plantBasicVariantSchema.optional(),
   variants: z.array(plantVariantSchema),
 })
 

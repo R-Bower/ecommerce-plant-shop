@@ -6,17 +6,13 @@ import {RecoilRoot} from "recoil"
 import {z} from "zod"
 
 import {PlantDto, plantSchema} from "~api/plants"
+import {PlantDetailsView} from "~page-views/plant-details"
 import {
   contentPaddingY,
   siteContentWrapper,
   sitePaddingX,
 } from "~styles/common.css"
 import {sx} from "~styles/sx.css"
-import {PlantDetailsView} from "~views/plant-details"
-import {
-  deserializePlantDetailsUrl,
-  plantDetailsUrlState,
-} from "~views/plant-details/state"
 
 import NotFound from "../404"
 
@@ -36,14 +32,7 @@ export default function PlantDetailsPage({plant}: Props): React.ReactElement {
   }
 
   return (
-    <RecoilRoot
-      initializeState={({set}) => {
-        if (typeof window !== "undefined") {
-          const urlState = deserializePlantDetailsUrl(window.location.search)
-          set(plantDetailsUrlState, urlState)
-        }
-      }}
-    >
+    <RecoilRoot>
       <section
         className={clsx(
           sx({

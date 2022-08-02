@@ -73,6 +73,7 @@ const sxProperties = defineProperties({
     position: ["fixed", "absolute", "relative", "static", "sticky"],
     right: leftTopRightBottom,
     rowGap: systemSpace,
+    textDecoration: ["none"],
     top: leftTopRightBottom,
     userSelect: ["none", "contain", "text"],
     whiteSpace: ["nowrap", "normal", "pre"],

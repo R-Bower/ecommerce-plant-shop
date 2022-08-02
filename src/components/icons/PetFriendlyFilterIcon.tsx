@@ -15,7 +15,7 @@ export function PetFriendlyFilterIcon({...props}: Props): React.ReactElement {
     >
       <g fill={"none"} fillRule={"evenodd"} id={"Product-Pages"}>
         <g
-          fill={"#425934"}
+          fill={"currentColor"}
           fillRule={"nonzero"}
           id={"D---PDP-[Plant-&amp;-Planter]"}
           transform={"translate(-731 -1528)"}

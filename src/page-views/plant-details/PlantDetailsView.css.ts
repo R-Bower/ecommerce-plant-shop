@@ -6,14 +6,16 @@ export const plantDetailsRootWrapper = style({
   "@media": {
     [breakpoints.mobile]: {},
     [breakpoints.tablet]: {
+      alignItems: "center",
       flexDirection: "column",
     },
     [breakpoints.laptop]: {
+      alignItems: "flex-start",
       flexDirection: "row",
       justifyContent: "center",
     },
   },
-  alignItems: "flex-start",
+  alignItems: "center",
   display: "flex",
   flexDirection: "column",
   gap: 32,

@@ -5,7 +5,7 @@ import {useRecoilState, useRecoilValue} from "recoil"
 import {usePlantSearchQuery} from "~api/plants"
 import {CircleLoader} from "~components/loaders"
 import {useUrlSync} from "~lib/url"
-import {bodyFont} from "~styles/body-font.css"
+import {font} from "~styles/font.css"
 import {sx} from "~styles/sx.css"
 
 import {PlantCard, SearchFilters} from "./components"
@@ -90,7 +90,7 @@ export function PlantSearchView(): React.ReactElement {
               sx({
                 color: "textSecondary",
               }),
-              bodyFont({
+              font({
                 variant: "overline",
               }),
             )}
