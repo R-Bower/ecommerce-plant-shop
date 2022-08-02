@@ -10,12 +10,13 @@ export const plantDetailsRootWrapper = style({
     },
     [breakpoints.laptop]: {
       flexDirection: "row",
+      justifyContent: "center",
     },
   },
   alignItems: "flex-start",
   display: "flex",
   flexDirection: "column",
   gap: 32,
-  justifyContent: "center",
+  justifyContent: "flex-start",
   width: "100%",
 })

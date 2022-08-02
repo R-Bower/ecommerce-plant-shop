@@ -97,7 +97,7 @@
         {
           "planters": [
             {
-              "imgSrc": "all-the-guzmania-bromeliads_small_grower.jpg",
+              "imgSrc": "all-the-guzmania-bromeliads_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$129.00"
@@ -109,19 +109,19 @@
         {
           "planters": [
             {
-              "imgSrc": "all-the-guzmania-bromeliads_medium_grower.jpg",
+              "imgSrc": "all-the-guzmania-bromeliads_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$170.00"
             },
             {
-              "imgSrc": "all-the-guzmania-bromeliads_medium_planter-eco-planter.jpg",
+              "imgSrc": "all-the-guzmania-bromeliads_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$194.00"
             },
             {
-              "imgSrc": "all-the-guzmania-bromeliads_medium_planter-ceramic.jpg",
+              "imgSrc": "all-the-guzmania-bromeliads_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$226.00"
@@ -222,25 +222,25 @@
         {
           "planters": [
             {
-              "imgSrc": "alocasia-kuching-mask_medium_grower.jpg",
+              "imgSrc": "alocasia-kuching-mask_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "alocasia-kuching-mask_medium_planter-eco-planter.jpg",
+              "imgSrc": "alocasia-kuching-mask_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "alocasia-kuching-mask_medium_planter-naturals-basket.jpg",
+              "imgSrc": "alocasia-kuching-mask_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "alocasia-kuching-mask_medium_planter-ceramic.jpg",
+              "imgSrc": "alocasia-kuching-mask_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -334,25 +334,25 @@
         {
           "planters": [
             {
-              "imgSrc": "ameria-dreameria-dreamland-thrift_small_grower.jpg",
+              "imgSrc": "ameria-dreameria-dreamland-thrift_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "ameria-dreameria-dreamland-thrift_small_planter-eco-planter.jpg",
+              "imgSrc": "ameria-dreameria-dreamland-thrift_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "ameria-dreameria-dreamland-thrift_small_planter-naturals-basket.jpg",
+              "imgSrc": "ameria-dreameria-dreamland-thrift_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "ameria-dreameria-dreamland-thrift_small_planter-ceramic.jpg",
+              "imgSrc": "ameria-dreameria-dreamland-thrift_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -466,25 +466,25 @@
         {
           "planters": [
             {
-              "imgSrc": "aralia-fabian-stump_medium_grower.jpg",
+              "imgSrc": "aralia-fabian-stump_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "aralia-fabian-stump_medium_planter-eco-planter.jpg",
+              "imgSrc": "aralia-fabian-stump_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "aralia-fabian-stump_medium_planter-naturals-basket.jpg",
+              "imgSrc": "aralia-fabian-stump_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "aralia-fabian-stump_medium_planter-ceramic.jpg",
+              "imgSrc": "aralia-fabian-stump_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -496,7 +496,7 @@
         {
           "planters": [
             {
-              "imgSrc": "aralia-fabian-stump_large_grower.jpg",
+              "imgSrc": "aralia-fabian-stump_large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$86.00"
@@ -597,25 +597,25 @@
         {
           "planters": [
             {
-              "imgSrc": "basil-genovese-jumbo_small_grower.jpg",
+              "imgSrc": "basil-genovese-jumbo_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "basil-genovese-jumbo_small_planter-eco-planter.jpg",
+              "imgSrc": "basil-genovese-jumbo_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "basil-genovese-jumbo_small_planter-naturals-basket.jpg",
+              "imgSrc": "basil-genovese-jumbo_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "basil-genovese-jumbo_small_planter-ceramic.jpg",
+              "imgSrc": "basil-genovese-jumbo_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -651,7 +651,7 @@
       "title": "18\" Fresh Live Succulent Wreath: Fully Covered",
       "variants": [
         {
-          "imgSrc": "18-fresh-live-succulent-wreath-fully-covered.jpg",
+          "imgSrc": "18-fresh-live-succulent-wreath-fully-covered.webp",
           "price": "$200.00"
         }
       ]
@@ -762,25 +762,25 @@
         {
           "planters": [
             {
-              "imgSrc": "bicolor-cane-dragon-tree-dracaena_small_grower.jpg",
+              "imgSrc": "bicolor-cane-dragon-tree-dracaena_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "bicolor-cane-dragon-tree-dracaena_small_planter-eco-planter.jpg",
+              "imgSrc": "bicolor-cane-dragon-tree-dracaena_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "bicolor-cane-dragon-tree-dracaena_small_planter-naturals-basket.jpg",
+              "imgSrc": "bicolor-cane-dragon-tree-dracaena_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "bicolor-cane-dragon-tree-dracaena_small_planter-ceramic.jpg",
+              "imgSrc": "bicolor-cane-dragon-tree-dracaena_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -792,19 +792,19 @@
         {
           "planters": [
             {
-              "imgSrc": "bicolor-cane-dragon-tree-dracaena_extra-large_grower.jpg",
+              "imgSrc": "bicolor-cane-dragon-tree-dracaena_extra-large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$118.00"
             },
             {
-              "imgSrc": "bicolor-cane-dragon-tree-dracaena_extra-large_planter-eco-planter.jpg",
+              "imgSrc": "bicolor-cane-dragon-tree-dracaena_extra-large_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$128.00"
             },
             {
-              "imgSrc": "bicolor-cane-dragon-tree-dracaena_extra-large_planter-naturals-basket.jpg",
+              "imgSrc": "bicolor-cane-dragon-tree-dracaena_extra-large_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$138.00"
@@ -903,7 +903,7 @@
         {
           "planters": [
             {
-              "imgSrc": "bigleaf-hydrangea_oneGallon_grower.jpg",
+              "imgSrc": "bigleaf-hydrangea_oneGallon_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$54.00"
@@ -1014,25 +1014,25 @@
         {
           "planters": [
             {
-              "imgSrc": "bird-s-nest-fern_medium_grower.jpg",
+              "imgSrc": "bird-s-nest-fern_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "bird-s-nest-fern_medium_planter-eco-planter.jpg",
+              "imgSrc": "bird-s-nest-fern_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "bird-s-nest-fern_medium_planter-naturals-basket.jpg",
+              "imgSrc": "bird-s-nest-fern_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "bird-s-nest-fern_medium_planter-ceramic.jpg",
+              "imgSrc": "bird-s-nest-fern_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -1128,19 +1128,19 @@
         {
           "planters": [
             {
-              "imgSrc": "black-coral-snake-plant_medium_grower.jpg",
+              "imgSrc": "black-coral-snake-plant_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$118.00"
             },
             {
-              "imgSrc": "black-coral-snake-plant_medium_planter-eco-planter.jpg",
+              "imgSrc": "black-coral-snake-plant_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$124.00"
             },
             {
-              "imgSrc": "black-coral-snake-plant_medium_planter-naturals-basket.jpg",
+              "imgSrc": "black-coral-snake-plant_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$130.00"
@@ -1152,19 +1152,19 @@
         {
           "planters": [
             {
-              "imgSrc": "black-coral-snake-plant_extra-large_grower.jpg",
+              "imgSrc": "black-coral-snake-plant_extra-large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$118.00"
             },
             {
-              "imgSrc": "black-coral-snake-plant_extra-large_planter-eco-planter.jpg",
+              "imgSrc": "black-coral-snake-plant_extra-large_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$128.00"
             },
             {
-              "imgSrc": "black-coral-snake-plant_extra-large_planter-naturals-basket.jpg",
+              "imgSrc": "black-coral-snake-plant_extra-large_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$138.00"
@@ -1266,25 +1266,25 @@
         {
           "planters": [
             {
-              "imgSrc": "alocasia-dark-star-elephant-ear_medium_grower.jpg",
+              "imgSrc": "alocasia-dark-star-elephant-ear_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "alocasia-dark-star-elephant-ear_medium_planter-eco-planter.jpg",
+              "imgSrc": "alocasia-dark-star-elephant-ear_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "alocasia-dark-star-elephant-ear_medium_planter-naturals-basket.jpg",
+              "imgSrc": "alocasia-dark-star-elephant-ear_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "alocasia-dark-star-elephant-ear_medium_planter-ceramic.jpg",
+              "imgSrc": "alocasia-dark-star-elephant-ear_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -1296,19 +1296,19 @@
         {
           "planters": [
             {
-              "imgSrc": "alocasia-dark-star-elephant-ear_extra-large_grower.jpg",
+              "imgSrc": "alocasia-dark-star-elephant-ear_extra-large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$118.00"
             },
             {
-              "imgSrc": "alocasia-dark-star-elephant-ear_extra-large_planter-eco-planter.jpg",
+              "imgSrc": "alocasia-dark-star-elephant-ear_extra-large_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$128.00"
             },
             {
-              "imgSrc": "alocasia-dark-star-elephant-ear_extra-large_planter-naturals-basket.jpg",
+              "imgSrc": "alocasia-dark-star-elephant-ear_extra-large_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$138.00"
@@ -1412,25 +1412,25 @@
         {
           "planters": [
             {
-              "imgSrc": "black-gold-snake-plant_small_grower.jpg",
+              "imgSrc": "black-gold-snake-plant_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "black-gold-snake-plant_small_planter-eco-planter.jpg",
+              "imgSrc": "black-gold-snake-plant_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "black-gold-snake-plant_small_planter-naturals-basket.jpg",
+              "imgSrc": "black-gold-snake-plant_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "black-gold-snake-plant_small_planter-ceramic.jpg",
+              "imgSrc": "black-gold-snake-plant_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -1442,19 +1442,19 @@
         {
           "planters": [
             {
-              "imgSrc": "black-gold-snake-plant_large_grower.jpg",
+              "imgSrc": "black-gold-snake-plant_large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$86.00"
             },
             {
-              "imgSrc": "black-gold-snake-plant_large_planter-eco-planter.jpg",
+              "imgSrc": "black-gold-snake-plant_large_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$94.00"
             },
             {
-              "imgSrc": "black-gold-snake-plant_large_planter-naturals-basket.jpg",
+              "imgSrc": "black-gold-snake-plant_large_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$102.00"
@@ -1562,25 +1562,25 @@
         {
           "planters": [
             {
-              "imgSrc": "black-leaf-dragon-tree-collection-dracaena_small_grower.jpg",
+              "imgSrc": "black-leaf-dragon-tree-collection-dracaena_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "black-leaf-dragon-tree-collection-dracaena_small_planter-eco-planter.jpg",
+              "imgSrc": "black-leaf-dragon-tree-collection-dracaena_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "black-leaf-dragon-tree-collection-dracaena_small_planter-naturals-basket.jpg",
+              "imgSrc": "black-leaf-dragon-tree-collection-dracaena_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "black-leaf-dragon-tree-collection-dracaena_small_planter-ceramic.jpg",
+              "imgSrc": "black-leaf-dragon-tree-collection-dracaena_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -1592,25 +1592,25 @@
         {
           "planters": [
             {
-              "imgSrc": "black-leaf-dragon-tree-collection-dracaena_medium_grower.jpg",
+              "imgSrc": "black-leaf-dragon-tree-collection-dracaena_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "black-leaf-dragon-tree-collection-dracaena_medium_planter-eco-planter.jpg",
+              "imgSrc": "black-leaf-dragon-tree-collection-dracaena_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "black-leaf-dragon-tree-collection-dracaena_medium_planter-naturals-basket.jpg",
+              "imgSrc": "black-leaf-dragon-tree-collection-dracaena_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "black-leaf-dragon-tree-collection-dracaena_medium_planter-ceramic.jpg",
+              "imgSrc": "black-leaf-dragon-tree-collection-dracaena_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -1712,19 +1712,19 @@
         {
           "planters": [
             {
-              "imgSrc": "black-raven-zz_medium_grower.jpg",
+              "imgSrc": "black-raven-zz_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "black-raven-zz_medium_planter-eco-planter.jpg",
+              "imgSrc": "black-raven-zz_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "black-raven-zz_medium_planter-naturals-basket.jpg",
+              "imgSrc": "black-raven-zz_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
@@ -1820,7 +1820,7 @@
         {
           "planters": [
             {
-              "imgSrc": "bloomify-rose-lantana_small_grower.jpg",
+              "imgSrc": "bloomify-rose-lantana_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
@@ -1927,19 +1927,19 @@
         {
           "planters": [
             {
-              "imgSrc": "blooming-kalanchoe_small_grower.jpg",
+              "imgSrc": "blooming-kalanchoe_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "blooming-kalanchoe_small_planter-eco-planter.jpg",
+              "imgSrc": "blooming-kalanchoe_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "blooming-kalanchoe_small_planter-naturals-basket.jpg",
+              "imgSrc": "blooming-kalanchoe_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
@@ -1951,19 +1951,19 @@
         {
           "planters": [
             {
-              "imgSrc": "blooming-kalanchoe_medium_grower.jpg",
+              "imgSrc": "blooming-kalanchoe_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "blooming-kalanchoe_medium_planter-naturals-basket.jpg",
+              "imgSrc": "blooming-kalanchoe_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "blooming-kalanchoe_medium_planter-ceramic.jpg",
+              "imgSrc": "blooming-kalanchoe_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -2080,19 +2080,19 @@
         {
           "planters": [
             {
-              "imgSrc": "blooming-superba-double-begonia_medium_grower.jpg",
+              "imgSrc": "blooming-superba-double-begonia_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "blooming-superba-double-begonia_medium_planter-eco-planter.jpg",
+              "imgSrc": "blooming-superba-double-begonia_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "blooming-superba-double-begonia_medium_planter-naturals-basket.jpg",
+              "imgSrc": "blooming-superba-double-begonia_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
@@ -2216,25 +2216,25 @@
         {
           "planters": [
             {
-              "imgSrc": "burgundy-rubber-tree_small_grower.jpg",
+              "imgSrc": "burgundy-rubber-tree_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "burgundy-rubber-tree_small_planter-eco-planter.jpg",
+              "imgSrc": "burgundy-rubber-tree_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "burgundy-rubber-tree_small_planter-naturals-basket.jpg",
+              "imgSrc": "burgundy-rubber-tree_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "burgundy-rubber-tree_small_planter-ceramic.jpg",
+              "imgSrc": "burgundy-rubber-tree_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -2246,25 +2246,25 @@
         {
           "planters": [
             {
-              "imgSrc": "burgundy-rubber-tree_medium_grower.jpg",
+              "imgSrc": "burgundy-rubber-tree_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "burgundy-rubber-tree_medium_planter-eco-planter.jpg",
+              "imgSrc": "burgundy-rubber-tree_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "burgundy-rubber-tree_medium_planter-naturals-basket.jpg",
+              "imgSrc": "burgundy-rubber-tree_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "burgundy-rubber-tree_medium_planter-ceramic.jpg",
+              "imgSrc": "burgundy-rubber-tree_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -2276,19 +2276,19 @@
         {
           "planters": [
             {
-              "imgSrc": "burgundy-rubber-tree_extra-large_grower.jpg",
+              "imgSrc": "burgundy-rubber-tree_extra-large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$118.00"
             },
             {
-              "imgSrc": "burgundy-rubber-tree_extra-large_planter-eco-planter.jpg",
+              "imgSrc": "burgundy-rubber-tree_extra-large_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$128.00"
             },
             {
-              "imgSrc": "burgundy-rubber-tree_extra-large_planter-naturals-basket.jpg",
+              "imgSrc": "burgundy-rubber-tree_extra-large_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$138.00"
@@ -2372,7 +2372,7 @@
       "title": "Butzii Air Plant",
       "variants": [
         {
-          "imgSrc": "butzii-air-plant.jpg",
+          "imgSrc": "butzii-air-plant.webp",
           "price": "$12.00"
         }
       ]
@@ -2467,25 +2467,25 @@
         {
           "planters": [
             {
-              "imgSrc": "calandiva_small_grower.jpg",
+              "imgSrc": "calandiva_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "calandiva_small_planter-eco-planter.jpg",
+              "imgSrc": "calandiva_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "calandiva_small_planter-naturals-basket.jpg",
+              "imgSrc": "calandiva_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "calandiva_small_planter-ceramic.jpg",
+              "imgSrc": "calandiva_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -2578,7 +2578,7 @@
         {
           "planters": [
             {
-              "imgSrc": "calathea-cathedral-windows_medium_grower.jpg",
+              "imgSrc": "calathea-cathedral-windows_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$54.00"
@@ -2674,7 +2674,7 @@
         {
           "planters": [
             {
-              "imgSrc": "catnip-lemon_small_grower.jpg",
+              "imgSrc": "catnip-lemon_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
@@ -2784,25 +2784,25 @@
         {
           "planters": [
             {
-              "imgSrc": "clover-leaf-ivy_small_grower.jpg",
+              "imgSrc": "clover-leaf-ivy_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "clover-leaf-ivy_small_planter-eco-planter.jpg",
+              "imgSrc": "clover-leaf-ivy_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "clover-leaf-ivy_small_planter-naturals-basket.jpg",
+              "imgSrc": "clover-leaf-ivy_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "clover-leaf-ivy_small_planter-ceramic.jpg",
+              "imgSrc": "clover-leaf-ivy_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -2923,13 +2923,13 @@
         {
           "planters": [
             {
-              "imgSrc": "cordyline-australis-red-sensation_extra-large_grower.jpg",
+              "imgSrc": "cordyline-australis-red-sensation_extra-large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$118.00"
             },
             {
-              "imgSrc": "cordyline-australis-red-sensation_extra-large_planter-naturals-basket.jpg",
+              "imgSrc": "cordyline-australis-red-sensation_extra-large_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$138.00"
@@ -3045,19 +3045,19 @@
         {
           "planters": [
             {
-              "imgSrc": "cordyline-florida-flamingo_extra-large_grower.jpg",
+              "imgSrc": "cordyline-florida-flamingo_extra-large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$118.00"
             },
             {
-              "imgSrc": "cordyline-florida-flamingo_extra-large_planter-eco-planter.jpg",
+              "imgSrc": "cordyline-florida-flamingo_extra-large_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$128.00"
             },
             {
-              "imgSrc": "cordyline-florida-flamingo_extra-large_planter-naturals-basket.jpg",
+              "imgSrc": "cordyline-florida-flamingo_extra-large_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$138.00"
@@ -3176,25 +3176,25 @@
         {
           "planters": [
             {
-              "imgSrc": "croton-petra_small_grower.jpg",
+              "imgSrc": "croton-petra_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "croton-petra_small_planter-eco-planter.jpg",
+              "imgSrc": "croton-petra_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "croton-petra_small_planter-naturals-basket.jpg",
+              "imgSrc": "croton-petra_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "croton-petra_small_planter-ceramic.jpg",
+              "imgSrc": "croton-petra_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -3206,25 +3206,25 @@
         {
           "planters": [
             {
-              "imgSrc": "croton-petra_medium_grower.jpg",
+              "imgSrc": "croton-petra_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "croton-petra_medium_planter-eco-planter.jpg",
+              "imgSrc": "croton-petra_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "croton-petra_medium_planter-naturals-basket.jpg",
+              "imgSrc": "croton-petra_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "croton-petra_medium_planter-ceramic.jpg",
+              "imgSrc": "croton-petra_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -3236,19 +3236,19 @@
         {
           "planters": [
             {
-              "imgSrc": "croton-petra_extra-large_grower.jpg",
+              "imgSrc": "croton-petra_extra-large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$118.00"
             },
             {
-              "imgSrc": "croton-petra_extra-large_planter-eco-planter.jpg",
+              "imgSrc": "croton-petra_extra-large_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$128.00"
             },
             {
-              "imgSrc": "croton-petra_extra-large_planter-naturals-basket.jpg",
+              "imgSrc": "croton-petra_extra-large_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$138.00"
@@ -3341,7 +3341,7 @@
         {
           "planters": [
             {
-              "imgSrc": "dahlia-karma-corona-pink_oneGallon_grower.jpg",
+              "imgSrc": "dahlia-karma-corona-pink_oneGallon_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$42.00"
@@ -3442,25 +3442,25 @@
         {
           "planters": [
             {
-              "imgSrc": "alocasia-gagaena-california_medium_grower.jpg",
+              "imgSrc": "alocasia-gagaena-california_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "alocasia-gagaena-california_medium_planter-eco-planter.jpg",
+              "imgSrc": "alocasia-gagaena-california_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "alocasia-gagaena-california_medium_planter-naturals-basket.jpg",
+              "imgSrc": "alocasia-gagaena-california_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "alocasia-gagaena-california_medium_planter-ceramic.jpg",
+              "imgSrc": "alocasia-gagaena-california_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -3561,25 +3561,25 @@
         {
           "planters": [
             {
-              "imgSrc": "dieffenbachia-camouflage_medium_grower.jpg",
+              "imgSrc": "dieffenbachia-camouflage_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "dieffenbachia-camouflage_medium_planter-eco-planter.jpg",
+              "imgSrc": "dieffenbachia-camouflage_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "dieffenbachia-camouflage_medium_planter-naturals-basket.jpg",
+              "imgSrc": "dieffenbachia-camouflage_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "dieffenbachia-camouflage_medium_planter-ceramic.jpg",
+              "imgSrc": "dieffenbachia-camouflage_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -3686,25 +3686,25 @@
         {
           "planters": [
             {
-              "imgSrc": "dieffenbachia-memoria-corsii_medium_grower.jpg",
+              "imgSrc": "dieffenbachia-memoria-corsii_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "dieffenbachia-memoria-corsii_medium_planter-eco-planter.jpg",
+              "imgSrc": "dieffenbachia-memoria-corsii_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "dieffenbachia-memoria-corsii_medium_planter-naturals-basket.jpg",
+              "imgSrc": "dieffenbachia-memoria-corsii_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "dieffenbachia-memoria-corsii_medium_planter-ceramic.jpg",
+              "imgSrc": "dieffenbachia-memoria-corsii_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -3816,7 +3816,7 @@
         {
           "planters": [
             {
-              "imgSrc": "dieffenbachia-tropic-snow_small_grower.jpg",
+              "imgSrc": "dieffenbachia-tropic-snow_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
@@ -3828,13 +3828,13 @@
         {
           "planters": [
             {
-              "imgSrc": "dieffenbachia-tropic-snow_medium_grower.jpg",
+              "imgSrc": "dieffenbachia-tropic-snow_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "dieffenbachia-tropic-snow_medium_planter-ceramic.jpg",
+              "imgSrc": "dieffenbachia-tropic-snow_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -3846,7 +3846,7 @@
         {
           "planters": [
             {
-              "imgSrc": "dieffenbachia-tropic-snow_large_grower.jpg",
+              "imgSrc": "dieffenbachia-tropic-snow_large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$86.00"
@@ -3940,7 +3940,7 @@
         {
           "planters": [
             {
-              "imgSrc": "duet-new-zealand-flax-phormium_oneGallon_grower.jpg",
+              "imgSrc": "duet-new-zealand-flax-phormium_oneGallon_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
@@ -3952,7 +3952,7 @@
         {
           "planters": [
             {
-              "imgSrc": "duet-new-zealand-flax-phormium_fiveGallon_grower.jpg",
+              "imgSrc": "duet-new-zealand-flax-phormium_fiveGallon_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$98.00"
@@ -4060,7 +4060,7 @@
         {
           "planters": [
             {
-              "imgSrc": "dwarf-olive-tree_oneGallon_grower.jpg",
+              "imgSrc": "dwarf-olive-tree_oneGallon_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$54.00"
@@ -4072,7 +4072,7 @@
         {
           "planters": [
             {
-              "imgSrc": "dwarf-olive-tree_fiveGallon_grower.jpg",
+              "imgSrc": "dwarf-olive-tree_fiveGallon_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$98.00"
@@ -4128,19 +4128,19 @@
         {
           "planters": [
             {
-              "imgSrc": "echeveria-rose-succulent_small_grower.jpg",
+              "imgSrc": "echeveria-rose-succulent_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "echeveria-rose-succulent_small_planter-naturals-basket.jpg",
+              "imgSrc": "echeveria-rose-succulent_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "echeveria-rose-succulent_small_planter-ceramic.jpg",
+              "imgSrc": "echeveria-rose-succulent_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -4260,25 +4260,25 @@
         {
           "planters": [
             {
-              "imgSrc": "elephant-ear-alocasia-regal-shield-40-off-this-week-only_medium_grower.jpg",
+              "imgSrc": "elephant-ear-alocasia-regal-shield-40-off-this-week-only_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$30.00"
             },
             {
-              "imgSrc": "elephant-ear-alocasia-regal-shield-40-off-this-week-only_medium_planter-eco-planter.jpg",
+              "imgSrc": "elephant-ear-alocasia-regal-shield-40-off-this-week-only_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$36.00"
             },
             {
-              "imgSrc": "elephant-ear-alocasia-regal-shield-40-off-this-week-only_medium_planter-naturals-basket.jpg",
+              "imgSrc": "elephant-ear-alocasia-regal-shield-40-off-this-week-only_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$42.00"
             },
             {
-              "imgSrc": "elephant-ear-alocasia-regal-shield-40-off-this-week-only_medium_planter-ceramic.jpg",
+              "imgSrc": "elephant-ear-alocasia-regal-shield-40-off-this-week-only_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$44.00"
@@ -4290,19 +4290,19 @@
         {
           "planters": [
             {
-              "imgSrc": "elephant-ear-alocasia-regal-shield-40-off-this-week-only_extra-large_grower.jpg",
+              "imgSrc": "elephant-ear-alocasia-regal-shield-40-off-this-week-only_extra-large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$70.00"
             },
             {
-              "imgSrc": "elephant-ear-alocasia-regal-shield-40-off-this-week-only_extra-large_planter-eco-planter.jpg",
+              "imgSrc": "elephant-ear-alocasia-regal-shield-40-off-this-week-only_extra-large_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$80.00"
             },
             {
-              "imgSrc": "elephant-ear-alocasia-regal-shield-40-off-this-week-only_extra-large_planter-naturals-basket.jpg",
+              "imgSrc": "elephant-ear-alocasia-regal-shield-40-off-this-week-only_extra-large_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$90.00"
@@ -4413,25 +4413,25 @@
         {
           "planters": [
             {
-              "imgSrc": "english-ivy-glacier_small_grower.jpg",
+              "imgSrc": "english-ivy-glacier_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "english-ivy-glacier_small_planter-eco-planter.jpg",
+              "imgSrc": "english-ivy-glacier_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "english-ivy-glacier_small_planter-naturals-basket.jpg",
+              "imgSrc": "english-ivy-glacier_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "english-ivy-glacier_small_planter-ceramic.jpg",
+              "imgSrc": "english-ivy-glacier_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -4443,25 +4443,25 @@
         {
           "planters": [
             {
-              "imgSrc": "english-ivy-glacier_medium_grower.jpg",
+              "imgSrc": "english-ivy-glacier_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "english-ivy-glacier_medium_planter-eco-planter.jpg",
+              "imgSrc": "english-ivy-glacier_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "english-ivy-glacier_medium_planter-naturals-basket.jpg",
+              "imgSrc": "english-ivy-glacier_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "english-ivy-glacier_medium_planter-ceramic.jpg",
+              "imgSrc": "english-ivy-glacier_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -4473,19 +4473,19 @@
         {
           "planters": [
             {
-              "imgSrc": "english-ivy-glacier_large_grower.jpg",
+              "imgSrc": "english-ivy-glacier_large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$86.00"
             },
             {
-              "imgSrc": "english-ivy-glacier_large_planter-eco-planter.jpg",
+              "imgSrc": "english-ivy-glacier_large_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$94.00"
             },
             {
-              "imgSrc": "english-ivy-glacier_large_planter-naturals-basket.jpg",
+              "imgSrc": "english-ivy-glacier_large_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$102.00"
@@ -4596,25 +4596,25 @@
         {
           "planters": [
             {
-              "imgSrc": "english-ivy-green-ideal_small_grower.jpg",
+              "imgSrc": "english-ivy-green-ideal_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "english-ivy-green-ideal_small_planter-eco-planter.jpg",
+              "imgSrc": "english-ivy-green-ideal_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "english-ivy-green-ideal_small_planter-naturals-basket.jpg",
+              "imgSrc": "english-ivy-green-ideal_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "english-ivy-green-ideal_small_planter-ceramic.jpg",
+              "imgSrc": "english-ivy-green-ideal_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -4626,19 +4626,19 @@
         {
           "planters": [
             {
-              "imgSrc": "english-ivy-green-ideal_medium_grower.jpg",
+              "imgSrc": "english-ivy-green-ideal_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "english-ivy-green-ideal_medium_planter-eco-planter.jpg",
+              "imgSrc": "english-ivy-green-ideal_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "english-ivy-green-ideal_medium_planter-naturals-basket.jpg",
+              "imgSrc": "english-ivy-green-ideal_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
@@ -4650,19 +4650,19 @@
         {
           "planters": [
             {
-              "imgSrc": "english-ivy-green-ideal_large_grower.jpg",
+              "imgSrc": "english-ivy-green-ideal_large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$86.00"
             },
             {
-              "imgSrc": "english-ivy-green-ideal_large_planter-eco-planter.jpg",
+              "imgSrc": "english-ivy-green-ideal_large_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$94.00"
             },
             {
-              "imgSrc": "english-ivy-green-ideal_large_planter-naturals-basket.jpg",
+              "imgSrc": "english-ivy-green-ideal_large_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$102.00"
@@ -4746,7 +4746,7 @@
       "title": "Eric Knobloch (Streptophylla x brachycaulos) Air Plant",
       "variants": [
         {
-          "imgSrc": "eric-knobloch-streptophylla-x-brachycaulos-air-plant.jpg",
+          "imgSrc": "eric-knobloch-streptophylla-x-brachycaulos-air-plant.webp",
           "price": "$14.00"
         }
       ]
@@ -4849,25 +4849,25 @@
         {
           "planters": [
             {
-              "imgSrc": "everyone-s-favorite-golden-pothos_small_grower.jpg",
+              "imgSrc": "everyone-s-favorite-golden-pothos_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "everyone-s-favorite-golden-pothos_small_planter-eco-planter.jpg",
+              "imgSrc": "everyone-s-favorite-golden-pothos_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "everyone-s-favorite-golden-pothos_small_planter-naturals-basket.jpg",
+              "imgSrc": "everyone-s-favorite-golden-pothos_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "everyone-s-favorite-golden-pothos_small_planter-ceramic.jpg",
+              "imgSrc": "everyone-s-favorite-golden-pothos_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -4879,19 +4879,19 @@
         {
           "planters": [
             {
-              "imgSrc": "everyone-s-favorite-golden-pothos_medium_grower.jpg",
+              "imgSrc": "everyone-s-favorite-golden-pothos_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "everyone-s-favorite-golden-pothos_medium_planter-eco-planter.jpg",
+              "imgSrc": "everyone-s-favorite-golden-pothos_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "everyone-s-favorite-golden-pothos_medium_planter-ceramic.jpg",
+              "imgSrc": "everyone-s-favorite-golden-pothos_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -4903,7 +4903,7 @@
         {
           "planters": [
             {
-              "imgSrc": "everyone-s-favorite-golden-pothos_large_grower.jpg",
+              "imgSrc": "everyone-s-favorite-golden-pothos_large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$86.00"
@@ -5031,19 +5031,19 @@
         {
           "planters": [
             {
-              "imgSrc": "favorite-floor-plants_extra-large_grower.jpg",
+              "imgSrc": "favorite-floor-plants_extra-large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$187.00"
             },
             {
-              "imgSrc": "favorite-floor-plants_extra-large_planter-eco-planter.jpg",
+              "imgSrc": "favorite-floor-plants_extra-large_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$207.00"
             },
             {
-              "imgSrc": "favorite-floor-plants_extra-large_planter-naturals-basket.jpg",
+              "imgSrc": "favorite-floor-plants_extra-large_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$227.00"
@@ -5146,25 +5146,25 @@
         {
           "planters": [
             {
-              "imgSrc": "fern-asparagus-sprengerii_small_grower.jpg",
+              "imgSrc": "fern-asparagus-sprengerii_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "fern-asparagus-sprengerii_small_planter-eco-planter.jpg",
+              "imgSrc": "fern-asparagus-sprengerii_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "fern-asparagus-sprengerii_small_planter-naturals-basket.jpg",
+              "imgSrc": "fern-asparagus-sprengerii_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "fern-asparagus-sprengerii_small_planter-ceramic.jpg",
+              "imgSrc": "fern-asparagus-sprengerii_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -5176,25 +5176,25 @@
         {
           "planters": [
             {
-              "imgSrc": "fern-asparagus-sprengerii_medium_grower.jpg",
+              "imgSrc": "fern-asparagus-sprengerii_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "fern-asparagus-sprengerii_medium_planter-eco-planter.jpg",
+              "imgSrc": "fern-asparagus-sprengerii_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "fern-asparagus-sprengerii_medium_planter-naturals-basket.jpg",
+              "imgSrc": "fern-asparagus-sprengerii_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "fern-asparagus-sprengerii_medium_planter-ceramic.jpg",
+              "imgSrc": "fern-asparagus-sprengerii_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -5295,19 +5295,19 @@
         {
           "planters": [
             {
-              "imgSrc": "ficus-audrey_small_grower.jpg",
+              "imgSrc": "ficus-audrey_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "ficus-audrey_small_planter-eco-planter.jpg",
+              "imgSrc": "ficus-audrey_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "ficus-audrey_small_planter-naturals-basket.jpg",
+              "imgSrc": "ficus-audrey_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
@@ -5319,25 +5319,25 @@
         {
           "planters": [
             {
-              "imgSrc": "ficus-audrey_medium_grower.jpg",
+              "imgSrc": "ficus-audrey_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "ficus-audrey_medium_planter-eco-planter.jpg",
+              "imgSrc": "ficus-audrey_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "ficus-audrey_medium_planter-naturals-basket.jpg",
+              "imgSrc": "ficus-audrey_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "ficus-audrey_medium_planter-ceramic.jpg",
+              "imgSrc": "ficus-audrey_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -5349,19 +5349,19 @@
         {
           "planters": [
             {
-              "imgSrc": "ficus-audrey_large_grower.jpg",
+              "imgSrc": "ficus-audrey_large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$86.00"
             },
             {
-              "imgSrc": "ficus-audrey_large_planter-eco-planter.jpg",
+              "imgSrc": "ficus-audrey_large_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$94.00"
             },
             {
-              "imgSrc": "ficus-audrey_large_planter-naturals-basket.jpg",
+              "imgSrc": "ficus-audrey_large_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$102.00"
@@ -5480,25 +5480,25 @@
         {
           "planters": [
             {
-              "imgSrc": "ficus-benjamina-midnight-braid_small_grower.jpg",
+              "imgSrc": "ficus-benjamina-midnight-braid_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "ficus-benjamina-midnight-braid_small_planter-eco-planter.jpg",
+              "imgSrc": "ficus-benjamina-midnight-braid_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "ficus-benjamina-midnight-braid_small_planter-naturals-basket.jpg",
+              "imgSrc": "ficus-benjamina-midnight-braid_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "ficus-benjamina-midnight-braid_small_planter-ceramic.jpg",
+              "imgSrc": "ficus-benjamina-midnight-braid_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -5510,25 +5510,25 @@
         {
           "planters": [
             {
-              "imgSrc": "ficus-benjamina-midnight-braid_medium_grower.jpg",
+              "imgSrc": "ficus-benjamina-midnight-braid_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "ficus-benjamina-midnight-braid_medium_planter-eco-planter.jpg",
+              "imgSrc": "ficus-benjamina-midnight-braid_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "ficus-benjamina-midnight-braid_medium_planter-naturals-basket.jpg",
+              "imgSrc": "ficus-benjamina-midnight-braid_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "ficus-benjamina-midnight-braid_medium_planter-ceramic.jpg",
+              "imgSrc": "ficus-benjamina-midnight-braid_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -5540,7 +5540,7 @@
         {
           "planters": [
             {
-              "imgSrc": "ficus-benjamina-midnight-braid_large_grower.jpg",
+              "imgSrc": "ficus-benjamina-midnight-braid_large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$86.00"
@@ -5552,19 +5552,19 @@
         {
           "planters": [
             {
-              "imgSrc": "ficus-benjamina-midnight-braid_extra-large_grower.jpg",
+              "imgSrc": "ficus-benjamina-midnight-braid_extra-large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$110.00"
             },
             {
-              "imgSrc": "ficus-benjamina-midnight-braid_extra-large_planter-eco-planter.jpg",
+              "imgSrc": "ficus-benjamina-midnight-braid_extra-large_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$120.00"
             },
             {
-              "imgSrc": "ficus-benjamina-midnight-braid_extra-large_planter-naturals-basket.jpg",
+              "imgSrc": "ficus-benjamina-midnight-braid_extra-large_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$130.00"
@@ -5655,13 +5655,13 @@
         {
           "planters": [
             {
-              "imgSrc": "ficus-yellow-gem-column_extra-large_grower.jpg",
+              "imgSrc": "ficus-yellow-gem-column_extra-large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$104.00"
             },
             {
-              "imgSrc": "ficus-yellow-gem-column_extra-large_planter-eco-planter.jpg",
+              "imgSrc": "ficus-yellow-gem-column_extra-large_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$114.00"
@@ -5775,19 +5775,19 @@
         {
           "planters": [
             {
-              "imgSrc": "flamingo-flower_small_grower.jpg",
+              "imgSrc": "flamingo-flower_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "flamingo-flower_small_planter-eco-planter.jpg",
+              "imgSrc": "flamingo-flower_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "flamingo-flower_small_planter-ceramic.jpg",
+              "imgSrc": "flamingo-flower_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -5799,25 +5799,25 @@
         {
           "planters": [
             {
-              "imgSrc": "flamingo-flower_medium_grower.jpg",
+              "imgSrc": "flamingo-flower_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "flamingo-flower_medium_planter-eco-planter.jpg",
+              "imgSrc": "flamingo-flower_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "flamingo-flower_medium_planter-naturals-basket.jpg",
+              "imgSrc": "flamingo-flower_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "flamingo-flower_medium_planter-ceramic.jpg",
+              "imgSrc": "flamingo-flower_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -5885,19 +5885,19 @@
         {
           "planters": [
             {
-              "imgSrc": "futura-superba-snake-plant_small_grower.jpg",
+              "imgSrc": "futura-superba-snake-plant_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "futura-superba-snake-plant_small_planter-eco-planter.jpg",
+              "imgSrc": "futura-superba-snake-plant_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "futura-superba-snake-plant_small_planter-naturals-basket.jpg",
+              "imgSrc": "futura-superba-snake-plant_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
@@ -5909,25 +5909,25 @@
         {
           "planters": [
             {
-              "imgSrc": "futura-superba-snake-plant_medium_grower.jpg",
+              "imgSrc": "futura-superba-snake-plant_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "futura-superba-snake-plant_medium_planter-eco-planter.jpg",
+              "imgSrc": "futura-superba-snake-plant_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "futura-superba-snake-plant_medium_planter-naturals-basket.jpg",
+              "imgSrc": "futura-superba-snake-plant_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "futura-superba-snake-plant_medium_planter-ceramic.jpg",
+              "imgSrc": "futura-superba-snake-plant_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -6032,7 +6032,7 @@
         {
           "planters": [
             {
-              "imgSrc": "gardenia-veitchii_oneGallon_grower.jpg",
+              "imgSrc": "gardenia-veitchii_oneGallon_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$54.00"
@@ -6044,7 +6044,7 @@
         {
           "planters": [
             {
-              "imgSrc": "gardenia-veitchii_fiveGallon_grower.jpg",
+              "imgSrc": "gardenia-veitchii_fiveGallon_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$98.00"
@@ -6056,19 +6056,19 @@
         {
           "planters": [
             {
-              "imgSrc": "gardenia-veitchii_extra-large_grower.jpg",
+              "imgSrc": "gardenia-veitchii_extra-large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$118.00"
             },
             {
-              "imgSrc": "gardenia-veitchii_extra-large_planter-eco-planter.jpg",
+              "imgSrc": "gardenia-veitchii_extra-large_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$128.00"
             },
             {
-              "imgSrc": "gardenia-veitchii_extra-large_planter-naturals-basket.jpg",
+              "imgSrc": "gardenia-veitchii_extra-large_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$138.00"
@@ -6096,7 +6096,7 @@
       "title": "Great For Gifting - Pet Friendly Plant Gift Club",
       "variants": [
         {
-          "imgSrc": "great-for-gifting-pet-friendly-plant-gift-club.jpg",
+          "imgSrc": "great-for-gifting-pet-friendly-plant-gift-club.webp",
           "price": "$200.00"
         }
       ]
@@ -6112,7 +6112,7 @@
       "title": "Great For Gifting - Rare & Special Plant Gift Club",
       "variants": [
         {
-          "imgSrc": "great-for-gifting-rare-special-plant-gift-club.jpg",
+          "imgSrc": "great-for-gifting-rare-special-plant-gift-club.webp",
           "price": "$210.00"
         }
       ]
@@ -6222,19 +6222,19 @@
         {
           "planters": [
             {
-              "imgSrc": "hawaiian-sunshine-dragon-tree-dracaena_small_grower.jpg",
+              "imgSrc": "hawaiian-sunshine-dragon-tree-dracaena_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "hawaiian-sunshine-dragon-tree-dracaena_small_planter-eco-planter.jpg",
+              "imgSrc": "hawaiian-sunshine-dragon-tree-dracaena_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "hawaiian-sunshine-dragon-tree-dracaena_small_planter-naturals-basket.jpg",
+              "imgSrc": "hawaiian-sunshine-dragon-tree-dracaena_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
@@ -6246,19 +6246,19 @@
         {
           "planters": [
             {
-              "imgSrc": "hawaiian-sunshine-dragon-tree-dracaena_large_grower.jpg",
+              "imgSrc": "hawaiian-sunshine-dragon-tree-dracaena_large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$86.00"
             },
             {
-              "imgSrc": "hawaiian-sunshine-dragon-tree-dracaena_large_planter-eco-planter.jpg",
+              "imgSrc": "hawaiian-sunshine-dragon-tree-dracaena_large_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$94.00"
             },
             {
-              "imgSrc": "hawaiian-sunshine-dragon-tree-dracaena_large_planter-naturals-basket.jpg",
+              "imgSrc": "hawaiian-sunshine-dragon-tree-dracaena_large_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$102.00"
@@ -6387,7 +6387,7 @@
         {
           "planters": [
             {
-              "imgSrc": "heloise-and-abelard-bundle-snake-plant-pygmy-date-palm_extra-large_grower.jpg",
+              "imgSrc": "heloise-and-abelard-bundle-snake-plant-pygmy-date-palm_extra-large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$200.00"
@@ -6471,7 +6471,7 @@
       "title": "Ionantha Fuego Air Plant",
       "variants": [
         {
-          "imgSrc": "ionantha-fuego-air-plant.jpg",
+          "imgSrc": "ionantha-fuego-air-plant.webp",
           "price": "$12.00"
         }
       ]
@@ -6561,7 +6561,7 @@
         {
           "planters": [
             {
-              "imgSrc": "jack-spratt-new-zealand-flax-phormium_oneGallon_grower.jpg",
+              "imgSrc": "jack-spratt-new-zealand-flax-phormium_oneGallon_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$54.00"
@@ -6573,7 +6573,7 @@
         {
           "planters": [
             {
-              "imgSrc": "jack-spratt-new-zealand-flax-phormium_fiveGallon_grower.jpg",
+              "imgSrc": "jack-spratt-new-zealand-flax-phormium_fiveGallon_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$98.00"
@@ -6677,25 +6677,25 @@
         {
           "planters": [
             {
-              "imgSrc": "janet-craig-dragon-plant-dracaena_small_grower.jpg",
+              "imgSrc": "janet-craig-dragon-plant-dracaena_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "janet-craig-dragon-plant-dracaena_small_planter-eco-planter.jpg",
+              "imgSrc": "janet-craig-dragon-plant-dracaena_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "janet-craig-dragon-plant-dracaena_small_planter-naturals-basket.jpg",
+              "imgSrc": "janet-craig-dragon-plant-dracaena_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "janet-craig-dragon-plant-dracaena_small_planter-ceramic.jpg",
+              "imgSrc": "janet-craig-dragon-plant-dracaena_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -6707,25 +6707,25 @@
         {
           "planters": [
             {
-              "imgSrc": "janet-craig-dragon-plant-dracaena_medium_grower.jpg",
+              "imgSrc": "janet-craig-dragon-plant-dracaena_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "janet-craig-dragon-plant-dracaena_medium_planter-eco-planter.jpg",
+              "imgSrc": "janet-craig-dragon-plant-dracaena_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "janet-craig-dragon-plant-dracaena_medium_planter-naturals-basket.jpg",
+              "imgSrc": "janet-craig-dragon-plant-dracaena_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "janet-craig-dragon-plant-dracaena_medium_planter-ceramic.jpg",
+              "imgSrc": "janet-craig-dragon-plant-dracaena_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -6737,19 +6737,19 @@
         {
           "planters": [
             {
-              "imgSrc": "janet-craig-dragon-plant-dracaena_large_grower.jpg",
+              "imgSrc": "janet-craig-dragon-plant-dracaena_large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$86.00"
             },
             {
-              "imgSrc": "janet-craig-dragon-plant-dracaena_large_planter-eco-planter.jpg",
+              "imgSrc": "janet-craig-dragon-plant-dracaena_large_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$94.00"
             },
             {
-              "imgSrc": "janet-craig-dragon-plant-dracaena_large_planter-naturals-basket.jpg",
+              "imgSrc": "janet-craig-dragon-plant-dracaena_large_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$102.00"
@@ -6761,19 +6761,19 @@
         {
           "planters": [
             {
-              "imgSrc": "janet-craig-dragon-plant-dracaena_extra-large_grower.jpg",
+              "imgSrc": "janet-craig-dragon-plant-dracaena_extra-large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$118.00"
             },
             {
-              "imgSrc": "janet-craig-dragon-plant-dracaena_extra-large_planter-eco-planter.jpg",
+              "imgSrc": "janet-craig-dragon-plant-dracaena_extra-large_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$128.00"
             },
             {
-              "imgSrc": "janet-craig-dragon-plant-dracaena_extra-large_planter-naturals-basket.jpg",
+              "imgSrc": "janet-craig-dragon-plant-dracaena_extra-large_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$138.00"
@@ -6870,7 +6870,7 @@
         {
           "planters": [
             {
-              "imgSrc": "karo-red-mirror-bush-coprosma_oneGallon_grower.jpg",
+              "imgSrc": "karo-red-mirror-bush-coprosma_oneGallon_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$54.00"
@@ -6986,25 +6986,25 @@
         {
           "planters": [
             {
-              "imgSrc": "lemon-lime-dragon-tree-dracaena_small_grower.jpg",
+              "imgSrc": "lemon-lime-dragon-tree-dracaena_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "lemon-lime-dragon-tree-dracaena_small_planter-eco-planter.jpg",
+              "imgSrc": "lemon-lime-dragon-tree-dracaena_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "lemon-lime-dragon-tree-dracaena_small_planter-naturals-basket.jpg",
+              "imgSrc": "lemon-lime-dragon-tree-dracaena_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "lemon-lime-dragon-tree-dracaena_small_planter-ceramic.jpg",
+              "imgSrc": "lemon-lime-dragon-tree-dracaena_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -7016,25 +7016,25 @@
         {
           "planters": [
             {
-              "imgSrc": "lemon-lime-dragon-tree-dracaena_medium_grower.jpg",
+              "imgSrc": "lemon-lime-dragon-tree-dracaena_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "lemon-lime-dragon-tree-dracaena_medium_planter-eco-planter.jpg",
+              "imgSrc": "lemon-lime-dragon-tree-dracaena_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "lemon-lime-dragon-tree-dracaena_medium_planter-naturals-basket.jpg",
+              "imgSrc": "lemon-lime-dragon-tree-dracaena_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "lemon-lime-dragon-tree-dracaena_medium_planter-ceramic.jpg",
+              "imgSrc": "lemon-lime-dragon-tree-dracaena_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -7046,19 +7046,19 @@
         {
           "planters": [
             {
-              "imgSrc": "lemon-lime-dragon-tree-dracaena_large_grower.jpg",
+              "imgSrc": "lemon-lime-dragon-tree-dracaena_large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$86.00"
             },
             {
-              "imgSrc": "lemon-lime-dragon-tree-dracaena_large_planter-eco-planter.jpg",
+              "imgSrc": "lemon-lime-dragon-tree-dracaena_large_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$94.00"
             },
             {
-              "imgSrc": "lemon-lime-dragon-tree-dracaena_large_planter-naturals-basket.jpg",
+              "imgSrc": "lemon-lime-dragon-tree-dracaena_large_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$102.00"
@@ -7070,19 +7070,19 @@
         {
           "planters": [
             {
-              "imgSrc": "lemon-lime-dragon-tree-dracaena_extra-large_grower.jpg",
+              "imgSrc": "lemon-lime-dragon-tree-dracaena_extra-large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$118.00"
             },
             {
-              "imgSrc": "lemon-lime-dragon-tree-dracaena_extra-large_planter-eco-planter.jpg",
+              "imgSrc": "lemon-lime-dragon-tree-dracaena_extra-large_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$128.00"
             },
             {
-              "imgSrc": "lemon-lime-dragon-tree-dracaena_extra-large_planter-naturals-basket.jpg",
+              "imgSrc": "lemon-lime-dragon-tree-dracaena_extra-large_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$138.00"
@@ -7201,25 +7201,25 @@
         {
           "planters": [
             {
-              "imgSrc": "maidenhair-fern_small_grower.jpg",
+              "imgSrc": "maidenhair-fern_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "maidenhair-fern_small_planter-eco-planter.jpg",
+              "imgSrc": "maidenhair-fern_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "maidenhair-fern_small_planter-naturals-basket.jpg",
+              "imgSrc": "maidenhair-fern_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "maidenhair-fern_small_planter-ceramic.jpg",
+              "imgSrc": "maidenhair-fern_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -7231,25 +7231,25 @@
         {
           "planters": [
             {
-              "imgSrc": "maidenhair-fern_medium_grower.jpg",
+              "imgSrc": "maidenhair-fern_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "maidenhair-fern_medium_planter-eco-planter.jpg",
+              "imgSrc": "maidenhair-fern_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "maidenhair-fern_medium_planter-naturals-basket.jpg",
+              "imgSrc": "maidenhair-fern_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "maidenhair-fern_medium_planter-ceramic.jpg",
+              "imgSrc": "maidenhair-fern_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -7346,25 +7346,25 @@
         {
           "planters": [
             {
-              "imgSrc": "mandevilla-red_medium_grower.jpg",
+              "imgSrc": "mandevilla-red_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "mandevilla-red_medium_planter-eco-planter.jpg",
+              "imgSrc": "mandevilla-red_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "mandevilla-red_medium_planter-naturals-basket.jpg",
+              "imgSrc": "mandevilla-red_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "mandevilla-red_medium_planter-ceramic.jpg",
+              "imgSrc": "mandevilla-red_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -7481,19 +7481,19 @@
         {
           "planters": [
             {
-              "imgSrc": "marginata-cane-dragon-tree-dracaena_small_grower.jpg",
+              "imgSrc": "marginata-cane-dragon-tree-dracaena_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "marginata-cane-dragon-tree-dracaena_small_planter-eco-planter.jpg",
+              "imgSrc": "marginata-cane-dragon-tree-dracaena_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "marginata-cane-dragon-tree-dracaena_small_planter-naturals-basket.jpg",
+              "imgSrc": "marginata-cane-dragon-tree-dracaena_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
@@ -7505,25 +7505,25 @@
         {
           "planters": [
             {
-              "imgSrc": "marginata-cane-dragon-tree-dracaena_medium_grower.jpg",
+              "imgSrc": "marginata-cane-dragon-tree-dracaena_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "marginata-cane-dragon-tree-dracaena_medium_planter-eco-planter.jpg",
+              "imgSrc": "marginata-cane-dragon-tree-dracaena_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "marginata-cane-dragon-tree-dracaena_medium_planter-naturals-basket.jpg",
+              "imgSrc": "marginata-cane-dragon-tree-dracaena_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "marginata-cane-dragon-tree-dracaena_medium_planter-ceramic.jpg",
+              "imgSrc": "marginata-cane-dragon-tree-dracaena_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -7535,19 +7535,19 @@
         {
           "planters": [
             {
-              "imgSrc": "marginata-cane-dragon-tree-dracaena_extra-large_grower.jpg",
+              "imgSrc": "marginata-cane-dragon-tree-dracaena_extra-large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$118.00"
             },
             {
-              "imgSrc": "marginata-cane-dragon-tree-dracaena_extra-large_planter-eco-planter.jpg",
+              "imgSrc": "marginata-cane-dragon-tree-dracaena_extra-large_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$128.00"
             },
             {
-              "imgSrc": "marginata-cane-dragon-tree-dracaena_extra-large_planter-naturals-basket.jpg",
+              "imgSrc": "marginata-cane-dragon-tree-dracaena_extra-large_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$138.00"
@@ -7643,7 +7643,7 @@
         {
           "planters": [
             {
-              "imgSrc": "mexican-feather-grass_oneGallon_grower.jpg",
+              "imgSrc": "mexican-feather-grass_oneGallon_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$54.00"
@@ -7739,25 +7739,25 @@
         {
           "planters": [
             {
-              "imgSrc": "million-kisses-honeymoon-begonia_small_grower.jpg",
+              "imgSrc": "million-kisses-honeymoon-begonia_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "million-kisses-honeymoon-begonia_small_planter-eco-planter.jpg",
+              "imgSrc": "million-kisses-honeymoon-begonia_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "million-kisses-honeymoon-begonia_small_planter-naturals-basket.jpg",
+              "imgSrc": "million-kisses-honeymoon-begonia_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "million-kisses-honeymoon-begonia_small_planter-ceramic.jpg",
+              "imgSrc": "million-kisses-honeymoon-begonia_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -7876,25 +7876,25 @@
         {
           "planters": [
             {
-              "imgSrc": "mini-schefflera-umbrella-tree_small_grower.jpg",
+              "imgSrc": "mini-schefflera-umbrella-tree_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "mini-schefflera-umbrella-tree_small_planter-eco-planter.jpg",
+              "imgSrc": "mini-schefflera-umbrella-tree_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "mini-schefflera-umbrella-tree_small_planter-naturals-basket.jpg",
+              "imgSrc": "mini-schefflera-umbrella-tree_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "mini-schefflera-umbrella-tree_small_planter-ceramic.jpg",
+              "imgSrc": "mini-schefflera-umbrella-tree_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -7906,19 +7906,19 @@
         {
           "planters": [
             {
-              "imgSrc": "mini-schefflera-umbrella-tree_medium_grower.jpg",
+              "imgSrc": "mini-schefflera-umbrella-tree_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "mini-schefflera-umbrella-tree_medium_planter-eco-planter.jpg",
+              "imgSrc": "mini-schefflera-umbrella-tree_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "mini-schefflera-umbrella-tree_medium_planter-ceramic.jpg",
+              "imgSrc": "mini-schefflera-umbrella-tree_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -8024,25 +8024,25 @@
         {
           "planters": [
             {
-              "imgSrc": "money-tree_small_grower.jpg",
+              "imgSrc": "money-tree_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "money-tree_small_planter-eco-planter.jpg",
+              "imgSrc": "money-tree_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "money-tree_small_planter-naturals-basket.jpg",
+              "imgSrc": "money-tree_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "money-tree_small_planter-ceramic.jpg",
+              "imgSrc": "money-tree_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -8054,25 +8054,25 @@
         {
           "planters": [
             {
-              "imgSrc": "money-tree_medium_grower.jpg",
+              "imgSrc": "money-tree_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "money-tree_medium_planter-eco-planter.jpg",
+              "imgSrc": "money-tree_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "money-tree_medium_planter-naturals-basket.jpg",
+              "imgSrc": "money-tree_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "money-tree_medium_planter-ceramic.jpg",
+              "imgSrc": "money-tree_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -8084,19 +8084,19 @@
         {
           "planters": [
             {
-              "imgSrc": "money-tree_large_grower.jpg",
+              "imgSrc": "money-tree_large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$86.00"
             },
             {
-              "imgSrc": "money-tree_large_planter-eco-planter.jpg",
+              "imgSrc": "money-tree_large_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$94.00"
             },
             {
-              "imgSrc": "money-tree_large_planter-naturals-basket.jpg",
+              "imgSrc": "money-tree_large_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$102.00"
@@ -8108,19 +8108,19 @@
         {
           "planters": [
             {
-              "imgSrc": "money-tree_extra-large_grower.jpg",
+              "imgSrc": "money-tree_extra-large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$118.00"
             },
             {
-              "imgSrc": "money-tree_extra-large_planter-eco-planter.jpg",
+              "imgSrc": "money-tree_extra-large_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$128.00"
             },
             {
-              "imgSrc": "money-tree_extra-large_planter-naturals-basket.jpg",
+              "imgSrc": "money-tree_extra-large_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$138.00"
@@ -8182,13 +8182,13 @@
         {
           "planters": [
             {
-              "imgSrc": "motley-crew-echeveria-succulents-4-pack_small_grower.jpg",
+              "imgSrc": "motley-crew-echeveria-succulents-4-pack_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$108.00"
             },
             {
-              "imgSrc": "motley-crew-echeveria-succulents-4-pack_small_planter-eco-planter.jpg",
+              "imgSrc": "motley-crew-echeveria-succulents-4-pack_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$128.00"
@@ -8312,25 +8312,25 @@
         {
           "planters": [
             {
-              "imgSrc": "neanthe-bella-parlor-palm_small_grower.jpg",
+              "imgSrc": "neanthe-bella-parlor-palm_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "neanthe-bella-parlor-palm_small_planter-eco-planter.jpg",
+              "imgSrc": "neanthe-bella-parlor-palm_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "neanthe-bella-parlor-palm_small_planter-naturals-basket.jpg",
+              "imgSrc": "neanthe-bella-parlor-palm_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "neanthe-bella-parlor-palm_small_planter-ceramic.jpg",
+              "imgSrc": "neanthe-bella-parlor-palm_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -8342,25 +8342,25 @@
         {
           "planters": [
             {
-              "imgSrc": "neanthe-bella-parlor-palm_medium_grower.jpg",
+              "imgSrc": "neanthe-bella-parlor-palm_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "neanthe-bella-parlor-palm_medium_planter-eco-planter.jpg",
+              "imgSrc": "neanthe-bella-parlor-palm_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "neanthe-bella-parlor-palm_medium_planter-naturals-basket.jpg",
+              "imgSrc": "neanthe-bella-parlor-palm_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "neanthe-bella-parlor-palm_medium_planter-ceramic.jpg",
+              "imgSrc": "neanthe-bella-parlor-palm_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -8467,25 +8467,25 @@
         {
           "planters": [
             {
-              "imgSrc": "neoregelia-bromeliad_medium_grower.jpg",
+              "imgSrc": "neoregelia-bromeliad_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "neoregelia-bromeliad_medium_planter-eco-planter.jpg",
+              "imgSrc": "neoregelia-bromeliad_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "neoregelia-bromeliad_medium_planter-naturals-basket.jpg",
+              "imgSrc": "neoregelia-bromeliad_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "neoregelia-bromeliad_medium_planter-ceramic.jpg",
+              "imgSrc": "neoregelia-bromeliad_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -8581,25 +8581,25 @@
         {
           "planters": [
             {
-              "imgSrc": "on-top-sunset-shades-tuberous-begonia_small_grower.jpg",
+              "imgSrc": "on-top-sunset-shades-tuberous-begonia_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "on-top-sunset-shades-tuberous-begonia_small_planter-eco-planter.jpg",
+              "imgSrc": "on-top-sunset-shades-tuberous-begonia_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "on-top-sunset-shades-tuberous-begonia_small_planter-naturals-basket.jpg",
+              "imgSrc": "on-top-sunset-shades-tuberous-begonia_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "on-top-sunset-shades-tuberous-begonia_small_planter-ceramic.jpg",
+              "imgSrc": "on-top-sunset-shades-tuberous-begonia_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -8710,7 +8710,7 @@
         {
           "planters": [
             {
-              "imgSrc": "orange-flower-bird-of-paradise_oneGallon_grower.jpg",
+              "imgSrc": "orange-flower-bird-of-paradise_oneGallon_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$54.00"
@@ -8722,7 +8722,7 @@
         {
           "planters": [
             {
-              "imgSrc": "orange-flower-bird-of-paradise_fiveGallon_grower.jpg",
+              "imgSrc": "orange-flower-bird-of-paradise_fiveGallon_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$98.00"
@@ -8734,19 +8734,19 @@
         {
           "planters": [
             {
-              "imgSrc": "orange-flower-bird-of-paradise_medium_grower.jpg",
+              "imgSrc": "orange-flower-bird-of-paradise_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "orange-flower-bird-of-paradise_medium_planter-eco-planter.jpg",
+              "imgSrc": "orange-flower-bird-of-paradise_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "orange-flower-bird-of-paradise_medium_planter-naturals-basket.jpg",
+              "imgSrc": "orange-flower-bird-of-paradise_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
@@ -8758,13 +8758,13 @@
         {
           "planters": [
             {
-              "imgSrc": "orange-flower-bird-of-paradise_extra-large_grower.jpg",
+              "imgSrc": "orange-flower-bird-of-paradise_extra-large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$118.00"
             },
             {
-              "imgSrc": "orange-flower-bird-of-paradise_extra-large_planter-naturals-basket.jpg",
+              "imgSrc": "orange-flower-bird-of-paradise_extra-large_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$138.00"
@@ -8797,7 +8797,7 @@
       "title": "Orange Pumpkin Air Plant",
       "variants": [
         {
-          "imgSrc": "orange-pumpkin-air-plant.jpg",
+          "imgSrc": "orange-pumpkin-air-plant.webp",
           "price": "$22.00"
         }
       ]
@@ -8885,25 +8885,25 @@
         {
           "planters": [
             {
-              "imgSrc": "oregano-italian_small_grower.jpg",
+              "imgSrc": "oregano-italian_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "oregano-italian_small_planter-eco-planter.jpg",
+              "imgSrc": "oregano-italian_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "oregano-italian_small_planter-naturals-basket.jpg",
+              "imgSrc": "oregano-italian_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "oregano-italian_small_planter-ceramic.jpg",
+              "imgSrc": "oregano-italian_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -8999,7 +8999,7 @@
         {
           "planters": [
             {
-              "imgSrc": "ornamental-onion_oneGallon_grower.jpg",
+              "imgSrc": "ornamental-onion_oneGallon_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$54.00"
@@ -9011,19 +9011,19 @@
         {
           "planters": [
             {
-              "imgSrc": "ornamental-onion_medium_grower.jpg",
+              "imgSrc": "ornamental-onion_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$48.00"
             },
             {
-              "imgSrc": "ornamental-onion_medium_planter-eco-planter.jpg",
+              "imgSrc": "ornamental-onion_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$54.00"
             },
             {
-              "imgSrc": "ornamental-onion_medium_planter-naturals-basket.jpg",
+              "imgSrc": "ornamental-onion_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$60.00"
@@ -9124,25 +9124,25 @@
         {
           "planters": [
             {
-              "imgSrc": "parsley-italian_small_grower.jpg",
+              "imgSrc": "parsley-italian_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "parsley-italian_small_planter-eco-planter.jpg",
+              "imgSrc": "parsley-italian_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "parsley-italian_small_planter-naturals-basket.jpg",
+              "imgSrc": "parsley-italian_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "parsley-italian_small_planter-ceramic.jpg",
+              "imgSrc": "parsley-italian_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -9260,25 +9260,25 @@
         {
           "planters": [
             {
-              "imgSrc": "peace-lily_small_grower.jpg",
+              "imgSrc": "peace-lily_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "peace-lily_small_planter-eco-planter.jpg",
+              "imgSrc": "peace-lily_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "peace-lily_small_planter-naturals-basket.jpg",
+              "imgSrc": "peace-lily_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "peace-lily_small_planter-ceramic.jpg",
+              "imgSrc": "peace-lily_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -9290,25 +9290,25 @@
         {
           "planters": [
             {
-              "imgSrc": "peace-lily_medium_grower.jpg",
+              "imgSrc": "peace-lily_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "peace-lily_medium_planter-eco-planter.jpg",
+              "imgSrc": "peace-lily_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "peace-lily_medium_planter-naturals-basket.jpg",
+              "imgSrc": "peace-lily_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "peace-lily_medium_planter-ceramic.jpg",
+              "imgSrc": "peace-lily_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -9320,13 +9320,13 @@
         {
           "planters": [
             {
-              "imgSrc": "peace-lily_large_grower.jpg",
+              "imgSrc": "peace-lily_large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$86.00"
             },
             {
-              "imgSrc": "peace-lily_large_planter-naturals-basket.jpg",
+              "imgSrc": "peace-lily_large_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$102.00"
@@ -9338,19 +9338,19 @@
         {
           "planters": [
             {
-              "imgSrc": "peace-lily_extra-large_grower.jpg",
+              "imgSrc": "peace-lily_extra-large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$118.00"
             },
             {
-              "imgSrc": "peace-lily_extra-large_planter-eco-planter.jpg",
+              "imgSrc": "peace-lily_extra-large_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$128.00"
             },
             {
-              "imgSrc": "peace-lily_extra-large_planter-naturals-basket.jpg",
+              "imgSrc": "peace-lily_extra-large_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$138.00"
@@ -9456,25 +9456,25 @@
         {
           "planters": [
             {
-              "imgSrc": "peacock-plant-calathea_small_grower.jpg",
+              "imgSrc": "peacock-plant-calathea_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "peacock-plant-calathea_small_planter-eco-planter.jpg",
+              "imgSrc": "peacock-plant-calathea_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "peacock-plant-calathea_small_planter-naturals-basket.jpg",
+              "imgSrc": "peacock-plant-calathea_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "peacock-plant-calathea_small_planter-ceramic.jpg",
+              "imgSrc": "peacock-plant-calathea_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -9486,25 +9486,25 @@
         {
           "planters": [
             {
-              "imgSrc": "peacock-plant-calathea_medium_grower.jpg",
+              "imgSrc": "peacock-plant-calathea_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "peacock-plant-calathea_medium_planter-eco-planter.jpg",
+              "imgSrc": "peacock-plant-calathea_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "peacock-plant-calathea_medium_planter-naturals-basket.jpg",
+              "imgSrc": "peacock-plant-calathea_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "peacock-plant-calathea_medium_planter-ceramic.jpg",
+              "imgSrc": "peacock-plant-calathea_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -9605,25 +9605,25 @@
         {
           "planters": [
             {
-              "imgSrc": "pepper-yum-yum-mix_small_grower.jpg",
+              "imgSrc": "pepper-yum-yum-mix_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "pepper-yum-yum-mix_small_planter-eco-planter.jpg",
+              "imgSrc": "pepper-yum-yum-mix_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "pepper-yum-yum-mix_small_planter-naturals-basket.jpg",
+              "imgSrc": "pepper-yum-yum-mix_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "pepper-yum-yum-mix_small_planter-ceramic.jpg",
+              "imgSrc": "pepper-yum-yum-mix_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -9724,25 +9724,25 @@
         {
           "planters": [
             {
-              "imgSrc": "philodendron-birkin_small_grower.jpg",
+              "imgSrc": "philodendron-birkin_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "philodendron-birkin_small_planter-eco-planter.jpg",
+              "imgSrc": "philodendron-birkin_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "philodendron-birkin_small_planter-naturals-basket.jpg",
+              "imgSrc": "philodendron-birkin_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "philodendron-birkin_small_planter-ceramic.jpg",
+              "imgSrc": "philodendron-birkin_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -9754,25 +9754,25 @@
         {
           "planters": [
             {
-              "imgSrc": "philodendron-birkin_medium_grower.jpg",
+              "imgSrc": "philodendron-birkin_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "philodendron-birkin_medium_planter-eco-planter.jpg",
+              "imgSrc": "philodendron-birkin_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "philodendron-birkin_medium_planter-naturals-basket.jpg",
+              "imgSrc": "philodendron-birkin_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "philodendron-birkin_medium_planter-ceramic.jpg",
+              "imgSrc": "philodendron-birkin_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -9868,19 +9868,19 @@
         {
           "planters": [
             {
-              "imgSrc": "philodendron-xanadu_extra-large_grower.jpg",
+              "imgSrc": "philodendron-xanadu_extra-large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$118.00"
             },
             {
-              "imgSrc": "philodendron-xanadu_extra-large_planter-eco-planter.jpg",
+              "imgSrc": "philodendron-xanadu_extra-large_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$128.00"
             },
             {
-              "imgSrc": "philodendron-xanadu_extra-large_planter-naturals-basket.jpg",
+              "imgSrc": "philodendron-xanadu_extra-large_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$138.00"
@@ -9976,7 +9976,7 @@
         {
           "planters": [
             {
-              "imgSrc": "pink-mulla-mulla_small_grower.jpg",
+              "imgSrc": "pink-mulla-mulla_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
@@ -10099,25 +10099,25 @@
         {
           "planters": [
             {
-              "imgSrc": "pink-polka-dot-plant_small_grower.jpg",
+              "imgSrc": "pink-polka-dot-plant_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "pink-polka-dot-plant_small_planter-eco-planter.jpg",
+              "imgSrc": "pink-polka-dot-plant_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "pink-polka-dot-plant_small_planter-naturals-basket.jpg",
+              "imgSrc": "pink-polka-dot-plant_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "pink-polka-dot-plant_small_planter-ceramic.jpg",
+              "imgSrc": "pink-polka-dot-plant_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -10214,7 +10214,7 @@
         {
           "planters": [
             {
-              "imgSrc": "provence-french-lavender_small_grower.jpg",
+              "imgSrc": "provence-french-lavender_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
@@ -10327,19 +10327,19 @@
         {
           "planters": [
             {
-              "imgSrc": "pygmy-date-palm_extra-large_grower.jpg",
+              "imgSrc": "pygmy-date-palm_extra-large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$118.00"
             },
             {
-              "imgSrc": "pygmy-date-palm_extra-large_planter-eco-planter.jpg",
+              "imgSrc": "pygmy-date-palm_extra-large_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$128.00"
             },
             {
-              "imgSrc": "pygmy-date-palm_extra-large_planter-naturals-basket.jpg",
+              "imgSrc": "pygmy-date-palm_extra-large_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$138.00"
@@ -10371,7 +10371,7 @@
       "title": "Quarterly Pet Friendly Plant Subscription",
       "variants": [
         {
-          "imgSrc": "quarterly-pet-friendly-plant-subscription.jpg",
+          "imgSrc": "quarterly-pet-friendly-plant-subscription.webp",
           "price": "$50.00"
         }
       ]
@@ -10472,19 +10472,19 @@
         {
           "planters": [
             {
-              "imgSrc": "rainbow-succulent-kalanchoe-collection_small_grower.jpg",
+              "imgSrc": "rainbow-succulent-kalanchoe-collection_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$129.00"
             },
             {
-              "imgSrc": "rainbow-succulent-kalanchoe-collection_small_planter-eco-planter.jpg",
+              "imgSrc": "rainbow-succulent-kalanchoe-collection_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$149.00"
             },
             {
-              "imgSrc": "rainbow-succulent-kalanchoe-collection_small_planter-ceramic.jpg",
+              "imgSrc": "rainbow-succulent-kalanchoe-collection_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$177.00"
@@ -10496,7 +10496,7 @@
         {
           "planters": [
             {
-              "imgSrc": "rainbow-succulent-kalanchoe-collection_medium_grower.jpg",
+              "imgSrc": "rainbow-succulent-kalanchoe-collection_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$170.00"
@@ -10607,7 +10607,7 @@
         {
           "planters": [
             {
-              "imgSrc": "robusta-snake-plant_small_grower.jpg",
+              "imgSrc": "robusta-snake-plant_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
@@ -10619,13 +10619,13 @@
         {
           "planters": [
             {
-              "imgSrc": "robusta-snake-plant_medium_grower.jpg",
+              "imgSrc": "robusta-snake-plant_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "robusta-snake-plant_medium_planter-ceramic.jpg",
+              "imgSrc": "robusta-snake-plant_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -10734,25 +10734,25 @@
         {
           "planters": [
             {
-              "imgSrc": "ruby-rubber-tree_medium_grower.jpg",
+              "imgSrc": "ruby-rubber-tree_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "ruby-rubber-tree_medium_planter-eco-planter.jpg",
+              "imgSrc": "ruby-rubber-tree_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "ruby-rubber-tree_medium_planter-naturals-basket.jpg",
+              "imgSrc": "ruby-rubber-tree_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "ruby-rubber-tree_medium_planter-ceramic.jpg",
+              "imgSrc": "ruby-rubber-tree_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -10764,19 +10764,19 @@
         {
           "planters": [
             {
-              "imgSrc": "ruby-rubber-tree_extra-large_grower.jpg",
+              "imgSrc": "ruby-rubber-tree_extra-large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$118.00"
             },
             {
-              "imgSrc": "ruby-rubber-tree_extra-large_planter-eco-planter.jpg",
+              "imgSrc": "ruby-rubber-tree_extra-large_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$128.00"
             },
             {
-              "imgSrc": "ruby-rubber-tree_extra-large_planter-naturals-basket.jpg",
+              "imgSrc": "ruby-rubber-tree_extra-large_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$138.00"
@@ -10897,25 +10897,25 @@
         {
           "planters": [
             {
-              "imgSrc": "sago-palm_medium_grower.jpg",
+              "imgSrc": "sago-palm_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "sago-palm_medium_planter-eco-planter.jpg",
+              "imgSrc": "sago-palm_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "sago-palm_medium_planter-naturals-basket.jpg",
+              "imgSrc": "sago-palm_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "sago-palm_medium_planter-ceramic.jpg",
+              "imgSrc": "sago-palm_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -10927,19 +10927,19 @@
         {
           "planters": [
             {
-              "imgSrc": "sago-palm_extra-large_grower.jpg",
+              "imgSrc": "sago-palm_extra-large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$118.00"
             },
             {
-              "imgSrc": "sago-palm_extra-large_planter-eco-planter.jpg",
+              "imgSrc": "sago-palm_extra-large_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$128.00"
             },
             {
-              "imgSrc": "sago-palm_extra-large_planter-naturals-basket.jpg",
+              "imgSrc": "sago-palm_extra-large_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$138.00"
@@ -11042,25 +11042,25 @@
         {
           "planters": [
             {
-              "imgSrc": "sansevieria-cylindrica_medium_grower.jpg",
+              "imgSrc": "sansevieria-cylindrica_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "sansevieria-cylindrica_medium_planter-eco-planter.jpg",
+              "imgSrc": "sansevieria-cylindrica_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "sansevieria-cylindrica_medium_planter-naturals-basket.jpg",
+              "imgSrc": "sansevieria-cylindrica_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "sansevieria-cylindrica_medium_planter-ceramic.jpg",
+              "imgSrc": "sansevieria-cylindrica_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -11169,25 +11169,25 @@
         {
           "planters": [
             {
-              "imgSrc": "sansevieria-moonshine_small_grower.jpg",
+              "imgSrc": "sansevieria-moonshine_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "sansevieria-moonshine_small_planter-eco-planter.jpg",
+              "imgSrc": "sansevieria-moonshine_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "sansevieria-moonshine_small_planter-naturals-basket.jpg",
+              "imgSrc": "sansevieria-moonshine_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "sansevieria-moonshine_small_planter-ceramic.jpg",
+              "imgSrc": "sansevieria-moonshine_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -11199,25 +11199,25 @@
         {
           "planters": [
             {
-              "imgSrc": "sansevieria-moonshine_medium_grower.jpg",
+              "imgSrc": "sansevieria-moonshine_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "sansevieria-moonshine_medium_planter-eco-planter.jpg",
+              "imgSrc": "sansevieria-moonshine_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "sansevieria-moonshine_medium_planter-naturals-basket.jpg",
+              "imgSrc": "sansevieria-moonshine_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "sansevieria-moonshine_medium_planter-ceramic.jpg",
+              "imgSrc": "sansevieria-moonshine_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -11229,19 +11229,19 @@
         {
           "planters": [
             {
-              "imgSrc": "sansevieria-moonshine_large_grower.jpg",
+              "imgSrc": "sansevieria-moonshine_large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$84.00"
             },
             {
-              "imgSrc": "sansevieria-moonshine_large_planter-eco-planter.jpg",
+              "imgSrc": "sansevieria-moonshine_large_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$92.00"
             },
             {
-              "imgSrc": "sansevieria-moonshine_large_planter-naturals-basket.jpg",
+              "imgSrc": "sansevieria-moonshine_large_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$100.00"
@@ -11342,25 +11342,25 @@
         {
           "planters": [
             {
-              "imgSrc": "scallion-tokyo-long_small_grower.jpg",
+              "imgSrc": "scallion-tokyo-long_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "scallion-tokyo-long_small_planter-eco-planter.jpg",
+              "imgSrc": "scallion-tokyo-long_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "scallion-tokyo-long_small_planter-naturals-basket.jpg",
+              "imgSrc": "scallion-tokyo-long_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "scallion-tokyo-long_small_planter-ceramic.jpg",
+              "imgSrc": "scallion-tokyo-long_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -11465,25 +11465,25 @@
         {
           "planters": [
             {
-              "imgSrc": "spider-plant_small_grower.jpg",
+              "imgSrc": "spider-plant_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "spider-plant_small_planter-eco-planter.jpg",
+              "imgSrc": "spider-plant_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "spider-plant_small_planter-naturals-basket.jpg",
+              "imgSrc": "spider-plant_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "spider-plant_small_planter-ceramic.jpg",
+              "imgSrc": "spider-plant_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -11495,25 +11495,25 @@
         {
           "planters": [
             {
-              "imgSrc": "spider-plant_medium_grower.jpg",
+              "imgSrc": "spider-plant_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "spider-plant_medium_planter-eco-planter.jpg",
+              "imgSrc": "spider-plant_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "spider-plant_medium_planter-naturals-basket.jpg",
+              "imgSrc": "spider-plant_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "spider-plant_medium_planter-ceramic.jpg",
+              "imgSrc": "spider-plant_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -11525,7 +11525,7 @@
         {
           "planters": [
             {
-              "imgSrc": "spider-plant_large_grower.jpg",
+              "imgSrc": "spider-plant_large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$86.00"
@@ -11638,25 +11638,25 @@
         {
           "planters": [
             {
-              "imgSrc": "split-leaf-philodendron-monstera_small_grower.jpg",
+              "imgSrc": "split-leaf-philodendron-monstera_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "split-leaf-philodendron-monstera_small_planter-eco-planter.jpg",
+              "imgSrc": "split-leaf-philodendron-monstera_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "split-leaf-philodendron-monstera_small_planter-naturals-basket.jpg",
+              "imgSrc": "split-leaf-philodendron-monstera_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "split-leaf-philodendron-monstera_small_planter-ceramic.jpg",
+              "imgSrc": "split-leaf-philodendron-monstera_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -11668,25 +11668,25 @@
         {
           "planters": [
             {
-              "imgSrc": "split-leaf-philodendron-monstera_medium_grower.jpg",
+              "imgSrc": "split-leaf-philodendron-monstera_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "split-leaf-philodendron-monstera_medium_planter-eco-planter.jpg",
+              "imgSrc": "split-leaf-philodendron-monstera_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "split-leaf-philodendron-monstera_medium_planter-naturals-basket.jpg",
+              "imgSrc": "split-leaf-philodendron-monstera_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "split-leaf-philodendron-monstera_medium_planter-ceramic.jpg",
+              "imgSrc": "split-leaf-philodendron-monstera_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -11698,19 +11698,19 @@
         {
           "planters": [
             {
-              "imgSrc": "split-leaf-philodendron-monstera_large_grower.jpg",
+              "imgSrc": "split-leaf-philodendron-monstera_large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$86.00"
             },
             {
-              "imgSrc": "split-leaf-philodendron-monstera_large_planter-eco-planter.jpg",
+              "imgSrc": "split-leaf-philodendron-monstera_large_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$94.00"
             },
             {
-              "imgSrc": "split-leaf-philodendron-monstera_large_planter-naturals-basket.jpg",
+              "imgSrc": "split-leaf-philodendron-monstera_large_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$102.00"
@@ -11722,19 +11722,19 @@
         {
           "planters": [
             {
-              "imgSrc": "split-leaf-philodendron-monstera_extra-large_grower.jpg",
+              "imgSrc": "split-leaf-philodendron-monstera_extra-large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$118.00"
             },
             {
-              "imgSrc": "split-leaf-philodendron-monstera_extra-large_planter-eco-planter.jpg",
+              "imgSrc": "split-leaf-philodendron-monstera_extra-large_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$128.00"
             },
             {
-              "imgSrc": "split-leaf-philodendron-monstera_extra-large_planter-naturals-basket.jpg",
+              "imgSrc": "split-leaf-philodendron-monstera_extra-large_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$138.00"
@@ -11845,25 +11845,25 @@
         {
           "planters": [
             {
-              "imgSrc": "staghorn-fern_small_grower.jpg",
+              "imgSrc": "staghorn-fern_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "staghorn-fern_small_planter-eco-planter.jpg",
+              "imgSrc": "staghorn-fern_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "staghorn-fern_small_planter-naturals-basket.jpg",
+              "imgSrc": "staghorn-fern_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "staghorn-fern_small_planter-ceramic.jpg",
+              "imgSrc": "staghorn-fern_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -11875,25 +11875,25 @@
         {
           "planters": [
             {
-              "imgSrc": "staghorn-fern_medium_grower.jpg",
+              "imgSrc": "staghorn-fern_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "staghorn-fern_medium_planter-eco-planter.jpg",
+              "imgSrc": "staghorn-fern_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "staghorn-fern_medium_planter-naturals-basket.jpg",
+              "imgSrc": "staghorn-fern_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "staghorn-fern_medium_planter-ceramic.jpg",
+              "imgSrc": "staghorn-fern_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -11997,7 +11997,7 @@
         {
           "planters": [
             {
-              "imgSrc": "star-jasmine_oneGallon_grower.jpg",
+              "imgSrc": "star-jasmine_oneGallon_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$54.00"
@@ -12009,7 +12009,7 @@
         {
           "planters": [
             {
-              "imgSrc": "star-jasmine_fiveGallon_grower.jpg",
+              "imgSrc": "star-jasmine_fiveGallon_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$98.00"
@@ -12113,25 +12113,25 @@
         {
           "planters": [
             {
-              "imgSrc": "sweetheart-vine_small_grower.jpg",
+              "imgSrc": "sweetheart-vine_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "sweetheart-vine_small_planter-eco-planter.jpg",
+              "imgSrc": "sweetheart-vine_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "sweetheart-vine_small_planter-naturals-basket.jpg",
+              "imgSrc": "sweetheart-vine_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "sweetheart-vine_small_planter-ceramic.jpg",
+              "imgSrc": "sweetheart-vine_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -12143,13 +12143,13 @@
         {
           "planters": [
             {
-              "imgSrc": "sweetheart-vine_medium_grower.jpg",
+              "imgSrc": "sweetheart-vine_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "sweetheart-vine_medium_planter-ceramic.jpg",
+              "imgSrc": "sweetheart-vine_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -12231,7 +12231,7 @@
       "title": "T. Funckiana Air Plant",
       "variants": [
         {
-          "imgSrc": "t-funckiana-air-plant.jpg",
+          "imgSrc": "t-funckiana-air-plant.webp",
           "price": "$12.00"
         }
       ]
@@ -12314,7 +12314,7 @@
       "title": "T. Juncea Air Plant",
       "variants": [
         {
-          "imgSrc": "t-juncea-air-plant.jpg",
+          "imgSrc": "t-juncea-air-plant.webp",
           "price": "$12.00"
         }
       ]
@@ -12393,7 +12393,7 @@
       "title": "T. Silver Queen Air Plant",
       "variants": [
         {
-          "imgSrc": "t-silver-queen-air-plant.jpg",
+          "imgSrc": "t-silver-queen-air-plant.webp",
           "price": "$28.00"
         }
       ]
@@ -12472,7 +12472,7 @@
       "title": "T. Velutina Air Plant",
       "variants": [
         {
-          "imgSrc": "t-velutina-air-plant.jpg",
+          "imgSrc": "t-velutina-air-plant.webp",
           "price": "$14.00"
         }
       ]
@@ -12548,7 +12548,7 @@
       "title": "Tillandsia Houston Air Plant",
       "variants": [
         {
-          "imgSrc": "tillandsia-houston-air-plant.jpg",
+          "imgSrc": "tillandsia-houston-air-plant.webp",
           "price": "$12.00"
         }
       ]
@@ -12626,7 +12626,7 @@
       "title": "Tillandsia Xerographica Air Plant",
       "variants": [
         {
-          "imgSrc": "tillandsia-xerographica-air-plant.jpg",
+          "imgSrc": "tillandsia-xerographica-air-plant.webp",
           "price": "$30.00"
         }
       ]
@@ -12737,7 +12737,7 @@
         {
           "planters": [
             {
-              "imgSrc": "tuscan-blue-rosemary_oneGallon_grower.jpg",
+              "imgSrc": "tuscan-blue-rosemary_oneGallon_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$54.00"
@@ -12749,7 +12749,7 @@
         {
           "planters": [
             {
-              "imgSrc": "tuscan-blue-rosemary_fiveGallon_grower.jpg",
+              "imgSrc": "tuscan-blue-rosemary_fiveGallon_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$98.00"
@@ -12761,7 +12761,7 @@
         {
           "planters": [
             {
-              "imgSrc": "tuscan-blue-rosemary_small_grower.jpg",
+              "imgSrc": "tuscan-blue-rosemary_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
@@ -12837,7 +12837,7 @@
       "title": "‘Ty’ Ehlersiana x Bulbosa Air Plant",
       "variants": [
         {
-          "imgSrc": "ty-ehlersiana-x-bulbosa-air-plant.jpg",
+          "imgSrc": "ty-ehlersiana-x-bulbosa-air-plant.webp",
           "price": "$12.00"
         }
       ]
@@ -12863,7 +12863,7 @@
       "title": "Upright Jurassic Elephant Ear Giant Premium Caladium Bulbs",
       "variants": [
         {
-          "imgSrc": "upright-jurassic-elephant-ear-giant-premium-caladium-bulbs.jpg",
+          "imgSrc": "upright-jurassic-elephant-ear-giant-premium-caladium-bulbs.webp",
           "price": "$64.00"
         }
       ]
@@ -12987,25 +12987,25 @@
         {
           "planters": [
             {
-              "imgSrc": "variegated-council-tree-altissima_medium_grower.jpg",
+              "imgSrc": "variegated-council-tree-altissima_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "variegated-council-tree-altissima_medium_planter-eco-planter.jpg",
+              "imgSrc": "variegated-council-tree-altissima_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "variegated-council-tree-altissima_medium_planter-naturals-basket.jpg",
+              "imgSrc": "variegated-council-tree-altissima_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "variegated-council-tree-altissima_medium_planter-ceramic.jpg",
+              "imgSrc": "variegated-council-tree-altissima_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -13017,19 +13017,19 @@
         {
           "planters": [
             {
-              "imgSrc": "variegated-council-tree-altissima_extra-large_grower.jpg",
+              "imgSrc": "variegated-council-tree-altissima_extra-large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$118.00"
             },
             {
-              "imgSrc": "variegated-council-tree-altissima_extra-large_planter-eco-planter.jpg",
+              "imgSrc": "variegated-council-tree-altissima_extra-large_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$128.00"
             },
             {
-              "imgSrc": "variegated-council-tree-altissima_extra-large_planter-naturals-basket.jpg",
+              "imgSrc": "variegated-council-tree-altissima_extra-large_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$138.00"
@@ -13140,25 +13140,25 @@
         {
           "planters": [
             {
-              "imgSrc": "variegated-laurentii-snake-plant_small_grower.jpg",
+              "imgSrc": "variegated-laurentii-snake-plant_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "variegated-laurentii-snake-plant_small_planter-eco-planter.jpg",
+              "imgSrc": "variegated-laurentii-snake-plant_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "variegated-laurentii-snake-plant_small_planter-naturals-basket.jpg",
+              "imgSrc": "variegated-laurentii-snake-plant_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "variegated-laurentii-snake-plant_small_planter-ceramic.jpg",
+              "imgSrc": "variegated-laurentii-snake-plant_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -13170,25 +13170,25 @@
         {
           "planters": [
             {
-              "imgSrc": "variegated-laurentii-snake-plant_medium_grower.jpg",
+              "imgSrc": "variegated-laurentii-snake-plant_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "variegated-laurentii-snake-plant_medium_planter-eco-planter.jpg",
+              "imgSrc": "variegated-laurentii-snake-plant_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "variegated-laurentii-snake-plant_medium_planter-naturals-basket.jpg",
+              "imgSrc": "variegated-laurentii-snake-plant_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "variegated-laurentii-snake-plant_medium_planter-ceramic.jpg",
+              "imgSrc": "variegated-laurentii-snake-plant_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -13200,19 +13200,19 @@
         {
           "planters": [
             {
-              "imgSrc": "variegated-laurentii-snake-plant_large_grower.jpg",
+              "imgSrc": "variegated-laurentii-snake-plant_large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$86.00"
             },
             {
-              "imgSrc": "variegated-laurentii-snake-plant_large_planter-eco-planter.jpg",
+              "imgSrc": "variegated-laurentii-snake-plant_large_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$94.00"
             },
             {
-              "imgSrc": "variegated-laurentii-snake-plant_large_planter-naturals-basket.jpg",
+              "imgSrc": "variegated-laurentii-snake-plant_large_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$102.00"
@@ -13224,13 +13224,13 @@
         {
           "planters": [
             {
-              "imgSrc": "variegated-laurentii-snake-plant_extra-large_grower.jpg",
+              "imgSrc": "variegated-laurentii-snake-plant_extra-large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$118.00"
             },
             {
-              "imgSrc": "variegated-laurentii-snake-plant_extra-large_planter-eco-planter.jpg",
+              "imgSrc": "variegated-laurentii-snake-plant_extra-large_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$128.00"
@@ -13315,7 +13315,7 @@
       "title": "Victoria Red Splender (Ionantha x brachycaulos) Air Plant",
       "variants": [
         {
-          "imgSrc": "victoria-red-splender-ionantha-x-brachycaulos-air-plant.jpg",
+          "imgSrc": "victoria-red-splender-ionantha-x-brachycaulos-air-plant.webp",
           "price": "$14.00"
         }
       ]
@@ -13408,19 +13408,19 @@
         {
           "planters": [
             {
-              "imgSrc": "white-flamingo-flower_small_planter-eco-planter.jpg",
+              "imgSrc": "white-flamingo-flower_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "white-flamingo-flower_small_planter-naturals-basket.jpg",
+              "imgSrc": "white-flamingo-flower_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "white-flamingo-flower_small_planter-ceramic.jpg",
+              "imgSrc": "white-flamingo-flower_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -13432,25 +13432,25 @@
         {
           "planters": [
             {
-              "imgSrc": "white-flamingo-flower_medium_grower.jpg",
+              "imgSrc": "white-flamingo-flower_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "white-flamingo-flower_medium_planter-eco-planter.jpg",
+              "imgSrc": "white-flamingo-flower_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "white-flamingo-flower_medium_planter-naturals-basket.jpg",
+              "imgSrc": "white-flamingo-flower_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "white-flamingo-flower_medium_planter-ceramic.jpg",
+              "imgSrc": "white-flamingo-flower_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -13560,25 +13560,25 @@
         {
           "planters": [
             {
-              "imgSrc": "white-stripe-dragon-tree-dracaena_small_grower.jpg",
+              "imgSrc": "white-stripe-dragon-tree-dracaena_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "white-stripe-dragon-tree-dracaena_small_planter-eco-planter.jpg",
+              "imgSrc": "white-stripe-dragon-tree-dracaena_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "white-stripe-dragon-tree-dracaena_small_planter-naturals-basket.jpg",
+              "imgSrc": "white-stripe-dragon-tree-dracaena_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "white-stripe-dragon-tree-dracaena_small_planter-ceramic.jpg",
+              "imgSrc": "white-stripe-dragon-tree-dracaena_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -13590,25 +13590,25 @@
         {
           "planters": [
             {
-              "imgSrc": "white-stripe-dragon-tree-dracaena_medium_grower.jpg",
+              "imgSrc": "white-stripe-dragon-tree-dracaena_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "white-stripe-dragon-tree-dracaena_medium_planter-eco-planter.jpg",
+              "imgSrc": "white-stripe-dragon-tree-dracaena_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "white-stripe-dragon-tree-dracaena_medium_planter-naturals-basket.jpg",
+              "imgSrc": "white-stripe-dragon-tree-dracaena_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "white-stripe-dragon-tree-dracaena_medium_planter-ceramic.jpg",
+              "imgSrc": "white-stripe-dragon-tree-dracaena_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -13620,19 +13620,19 @@
         {
           "planters": [
             {
-              "imgSrc": "white-stripe-dragon-tree-dracaena_large_grower.jpg",
+              "imgSrc": "white-stripe-dragon-tree-dracaena_large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$86.00"
             },
             {
-              "imgSrc": "white-stripe-dragon-tree-dracaena_large_planter-eco-planter.jpg",
+              "imgSrc": "white-stripe-dragon-tree-dracaena_large_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$94.00"
             },
             {
-              "imgSrc": "white-stripe-dragon-tree-dracaena_large_planter-naturals-basket.jpg",
+              "imgSrc": "white-stripe-dragon-tree-dracaena_large_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$102.00"
@@ -13644,7 +13644,7 @@
         {
           "planters": [
             {
-              "imgSrc": "white-stripe-dragon-tree-dracaena_extra-large_grower.jpg",
+              "imgSrc": "white-stripe-dragon-tree-dracaena_extra-large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$118.00"
@@ -13743,19 +13743,19 @@
         {
           "planters": [
             {
-              "imgSrc": "yucca-cane_small_grower.jpg",
+              "imgSrc": "yucca-cane_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "yucca-cane_small_planter-eco-planter.jpg",
+              "imgSrc": "yucca-cane_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "yucca-cane_small_planter-ceramic.jpg",
+              "imgSrc": "yucca-cane_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -13767,25 +13767,25 @@
         {
           "planters": [
             {
-              "imgSrc": "yucca-cane_medium_grower.jpg",
+              "imgSrc": "yucca-cane_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "yucca-cane_medium_planter-eco-planter.jpg",
+              "imgSrc": "yucca-cane_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "yucca-cane_medium_planter-naturals-basket.jpg",
+              "imgSrc": "yucca-cane_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "yucca-cane_medium_planter-ceramic.jpg",
+              "imgSrc": "yucca-cane_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -13797,19 +13797,19 @@
         {
           "planters": [
             {
-              "imgSrc": "yucca-cane_extra-large_grower.jpg",
+              "imgSrc": "yucca-cane_extra-large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$118.00"
             },
             {
-              "imgSrc": "yucca-cane_extra-large_planter-eco-planter.jpg",
+              "imgSrc": "yucca-cane_extra-large_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$128.00"
             },
             {
-              "imgSrc": "yucca-cane_extra-large_planter-naturals-basket.jpg",
+              "imgSrc": "yucca-cane_extra-large_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$138.00"
@@ -13921,25 +13921,25 @@
         {
           "planters": [
             {
-              "imgSrc": "zeylanica-snake-plant_small_grower.jpg",
+              "imgSrc": "zeylanica-snake-plant_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "zeylanica-snake-plant_small_planter-eco-planter.jpg",
+              "imgSrc": "zeylanica-snake-plant_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "zeylanica-snake-plant_small_planter-naturals-basket.jpg",
+              "imgSrc": "zeylanica-snake-plant_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "zeylanica-snake-plant_small_planter-ceramic.jpg",
+              "imgSrc": "zeylanica-snake-plant_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -13951,19 +13951,19 @@
         {
           "planters": [
             {
-              "imgSrc": "zeylanica-snake-plant_medium_grower.jpg",
+              "imgSrc": "zeylanica-snake-plant_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "zeylanica-snake-plant_medium_planter-eco-planter.jpg",
+              "imgSrc": "zeylanica-snake-plant_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "zeylanica-snake-plant_medium_planter-ceramic.jpg",
+              "imgSrc": "zeylanica-snake-plant_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -13975,19 +13975,19 @@
         {
           "planters": [
             {
-              "imgSrc": "zeylanica-snake-plant_large_grower.jpg",
+              "imgSrc": "zeylanica-snake-plant_large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$86.00"
             },
             {
-              "imgSrc": "zeylanica-snake-plant_large_planter-eco-planter.jpg",
+              "imgSrc": "zeylanica-snake-plant_large_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$94.00"
             },
             {
-              "imgSrc": "zeylanica-snake-plant_large_planter-naturals-basket.jpg",
+              "imgSrc": "zeylanica-snake-plant_large_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$102.00"
@@ -13999,13 +13999,13 @@
         {
           "planters": [
             {
-              "imgSrc": "zeylanica-snake-plant_extra-large_grower.jpg",
+              "imgSrc": "zeylanica-snake-plant_extra-large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$118.00"
             },
             {
-              "imgSrc": "zeylanica-snake-plant_extra-large_planter-naturals-basket.jpg",
+              "imgSrc": "zeylanica-snake-plant_extra-large_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$138.00"
@@ -14106,25 +14106,25 @@
         {
           "planters": [
             {
-              "imgSrc": "alocasia-portora_medium_grower.jpg",
+              "imgSrc": "alocasia-portora_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "alocasia-portora_medium_planter-eco-planter.jpg",
+              "imgSrc": "alocasia-portora_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "alocasia-portora_medium_planter-naturals-basket.jpg",
+              "imgSrc": "alocasia-portora_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "alocasia-portora_medium_planter-ceramic.jpg",
+              "imgSrc": "alocasia-portora_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -14244,25 +14244,25 @@
         {
           "planters": [
             {
-              "imgSrc": "zz-plant_small_grower.jpg",
+              "imgSrc": "zz-plant_small_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$38.00"
             },
             {
-              "imgSrc": "zz-plant_small_planter-eco-planter.jpg",
+              "imgSrc": "zz-plant_small_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$43.00"
             },
             {
-              "imgSrc": "zz-plant_small_planter-naturals-basket.jpg",
+              "imgSrc": "zz-plant_small_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$48.00"
             },
             {
-              "imgSrc": "zz-plant_small_planter-ceramic.jpg",
+              "imgSrc": "zz-plant_small_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$50.00"
@@ -14274,25 +14274,25 @@
         {
           "planters": [
             {
-              "imgSrc": "zz-plant_medium_grower.jpg",
+              "imgSrc": "zz-plant_medium_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$50.00"
             },
             {
-              "imgSrc": "zz-plant_medium_planter-eco-planter.jpg",
+              "imgSrc": "zz-plant_medium_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$56.00"
             },
             {
-              "imgSrc": "zz-plant_medium_planter-naturals-basket.jpg",
+              "imgSrc": "zz-plant_medium_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$62.00"
             },
             {
-              "imgSrc": "zz-plant_medium_planter-ceramic.jpg",
+              "imgSrc": "zz-plant_medium_planter-ceramic.webp",
               "planterId": "planter-ceramic",
               "planterLabel": "Ceramic",
               "price": "$64.00"
@@ -14304,19 +14304,19 @@
         {
           "planters": [
             {
-              "imgSrc": "zz-plant_extra-large_grower.jpg",
+              "imgSrc": "zz-plant_extra-large_grower.webp",
               "planterId": "grower",
               "planterLabel": "Grower",
               "price": "$118.00"
             },
             {
-              "imgSrc": "zz-plant_extra-large_planter-eco-planter.jpg",
+              "imgSrc": "zz-plant_extra-large_planter-eco-planter.webp",
               "planterId": "planter-eco-planter",
               "planterLabel": "Eco Pot",
               "price": "$128.00"
             },
             {
-              "imgSrc": "zz-plant_extra-large_planter-naturals-basket.jpg",
+              "imgSrc": "zz-plant_extra-large_planter-naturals-basket.webp",
               "planterId": "planter-naturals-basket",
               "planterLabel": "Baskets",
               "price": "$138.00"
